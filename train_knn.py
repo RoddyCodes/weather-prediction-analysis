@@ -35,7 +35,7 @@ historical_data.fillna({
 print("Checking for missing values after handling:")
 print(historical_data.isnull().sum())
 
-# Step 4: Encode categorical features
+# Encode categorical features
 print("Encoding categorical features...")
 # Combine unique labels for encoding
 cloud_cover_labels = pd.concat([
@@ -58,25 +58,25 @@ encoder.fit(wind_labels)
 observations['wind'] = encoder.transform(observations['wind'])
 historical_data['wind'] = encoder.transform(historical_data['wind'])
 
-# Step 5: Prepare historical features (X) and target (y)
+# Prepare historical features (X) and target (y)
 print("Preparing features and target...")
 X_historical = historical_data[['temperature', 'cloud_cover', 'wind', 'precipitation']]
 y_historical = historical_data['temperature'].shift(-1).dropna()  # Target: Next day's temperature
 X_historical = X_historical[:-1]  # Align X with y
 
-# Step 6: Train-test split and scale data
+#  Train-test split and scale data
 print("Splitting and scaling data...")
 X_train, X_test, y_train, y_test = train_test_split(X_historical, y_historical, test_size=0.2, random_state=42)
 scaler = StandardScaler()
 X_train = scaler.fit_transform(X_train)
 X_test = scaler.transform(X_test)
 
-# Step 7: Train the k-NN regressor
+#  Train the k-NN regressor
 print("Training k-NN model...")
 knn = KNeighborsRegressor(n_neighbors=5)
 knn.fit(X_train, y_train)
 
-# Step 8: Predict temperatures for 3-day observations
+#  Predict temperatures for 3-day observations
 print("Predicting temperatures for 3-day observations...")
 X_observations = observations[['temperature', 'cloud_cover', 'wind', 'precipitation']]
 X_observations_scaled = scaler.transform(X_observations)
@@ -84,7 +84,7 @@ X_observations_scaled = scaler.transform(X_observations)
 predicted_temperatures = knn.predict(X_observations_scaled)
 observations['predicted_temperature'] = predicted_temperatures
 
-# Step 9: Compare predictions with actual observations
+# Compare predictions with actual observations
 print("Comparing predictions with actual observations...")
 observations['temperature_diff'] = observations['predicted_temperature'] - observations['temperature']
 print("Predictions vs. Actual:")
@@ -94,7 +94,7 @@ print(observations[['date', 'time_of_the_day', 'temperature', 'predicted_tempera
 observations.to_csv('3_day_observations_with_predictions.csv', index=False)
 print("Comparison saved to '3_day_observations_with_predictions.csv'")
 
-# Step 10: Visualize predictions vs. actual
+# plot visualization for predicted vs expected
 plt.figure(figsize=(10, 6))
 plt.plot(observations['temperature'], label="Actual Temperatures", marker='o')
 plt.plot(observations['predicted_temperature'], label="Predicted Temperatures", marker='x')
