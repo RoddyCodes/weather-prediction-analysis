@@ -1,0 +1,4345 @@
+date,time,temperature,cloud_cover,wind,precipitation
+2024-07-20,00:00,19.7,Clear,calm,0.0
+2024-07-20,01:00,19.5,Clear,calm,0.0
+2024-07-20,02:00,19.3,Clear,calm,0.0
+2024-07-20,03:00,19.1,Clear,calm,0.0
+2024-07-20,04:00,18.9,Clear,calm,0.0
+2024-07-20,05:00,18.8,Clear,calm,0.0
+2024-07-20,06:00,19.5,Sunny,calm,0.0
+2024-07-20,07:00,20.7,Sunny,calm,0.0
+2024-07-20,08:00,22.3,Partly cloudy,calm,0.0
+2024-07-20,09:00,23.9,Partly cloudy,calm,0.0
+2024-07-20,10:00,24.9,Partly cloudy,calm,0.0
+2024-07-20,11:00,25.7,Cloudy,calm,0.0
+2024-07-20,12:00,25.4,Partly cloudy,calm,0.0
+2024-07-20,13:00,24.5,Partly cloudy,calm,0.0
+2024-07-20,14:00,23.8,Partly cloudy,calm,0.0
+2024-07-20,15:00,23.6,Partly cloudy,calm,0.0
+2024-07-20,16:00,23.4,Partly cloudy,calm,0.0
+2024-07-20,17:00,23.1,Partly cloudy,calm,0.0
+2024-07-20,18:00,23.0,Partly cloudy,calm,0.0
+2024-07-20,19:00,22.6,Partly cloudy,calm,0.0
+2024-07-20,20:00,22.2,Partly cloudy,calm,0.0
+2024-07-20,21:00,22.0,Partly cloudy,calm,0.0
+2024-07-20,22:00,21.6,Patchy rain possible,calm,0.01
+2024-07-20,23:00,21.1,Partly cloudy,calm,0.0
+2024-07-21,00:00,20.0,Partly cloudy,calm,0.0
+2024-07-21,01:00,19.6,Clear,calm,0.0
+2024-07-21,02:00,19.4,Clear,calm,0.0
+2024-07-21,03:00,19.2,Clear,calm,0.0
+2024-07-21,04:00,18.9,Clear,calm,0.0
+2024-07-21,05:00,18.7,Clear,calm,0.0
+2024-07-21,06:00,19.1,Sunny,calm,0.0
+2024-07-21,07:00,20.4,Sunny,calm,0.0
+2024-07-21,08:00,22.2,Sunny,calm,0.0
+2024-07-21,09:00,24.0,Sunny,calm,0.0
+2024-07-21,10:00,25.6,Sunny,calm,0.0
+2024-07-21,11:00,27.0,Sunny,calm,0.0
+2024-07-21,12:00,28.1,Sunny,calm,0.0
+2024-07-21,13:00,28.6,Sunny,calm,0.0
+2024-07-21,14:00,28.8,Sunny,breezy,0.0
+2024-07-21,15:00,28.9,Sunny,breezy,0.0
+2024-07-21,16:00,28.6,Sunny,breezy,0.0
+2024-07-21,17:00,27.9,Partly cloudy,breezy,0.0
+2024-07-21,18:00,26.4,Sunny,breezy,0.0
+2024-07-21,19:00,24.7,Sunny,breezy,0.0
+2024-07-21,20:00,23.3,Sunny,breezy,0.0
+2024-07-21,21:00,22.3,Clear,breezy,0.0
+2024-07-21,22:00,21.6,Clear,breezy,0.0
+2024-07-21,23:00,21.3,Clear,calm,0.0
+2024-07-22,00:00,21.1,Clear,calm,0.0
+2024-07-22,01:00,20.9,Clear,calm,0.0
+2024-07-22,02:00,20.7,Clear,calm,0.0
+2024-07-22,03:00,20.6,Clear,calm,0.0
+2024-07-22,04:00,20.7,Clear,calm,0.0
+2024-07-22,05:00,20.9,Clear,calm,0.0
+2024-07-22,06:00,21.3,Partly cloudy,calm,0.0
+2024-07-22,07:00,22.0,Partly cloudy,calm,0.0
+2024-07-22,08:00,22.8,Partly cloudy,calm,0.0
+2024-07-22,09:00,23.5,Partly cloudy,calm,0.0
+2024-07-22,10:00,24.2,Partly cloudy,calm,0.0
+2024-07-22,11:00,24.8,Partly cloudy,breezy,0.0
+2024-07-22,12:00,24.8,Patchy rain possible,breezy,0.01
+2024-07-22,13:00,24.6,Patchy rain possible,breezy,0.03
+2024-07-22,14:00,24.5,Partly cloudy,breezy,0.0
+2024-07-22,15:00,24.9,Partly cloudy,calm,0.0
+2024-07-22,16:00,25.0,Partly cloudy,breezy,0.0
+2024-07-22,17:00,24.8,Partly cloudy,breezy,0.0
+2024-07-22,18:00,24.3,Partly cloudy,breezy,0.0
+2024-07-22,19:00,23.3,Partly cloudy,breezy,0.0
+2024-07-22,20:00,22.3,Partly cloudy,calm,0.0
+2024-07-22,21:00,21.7,Mist,calm,0.0
+2024-07-22,22:00,21.5,Mist,calm,0.0
+2024-07-22,23:00,21.5,Mist,calm,0.06
+2024-07-23,00:00,21.2,Light drizzle,calm,0.2
+2024-07-23,01:00,21.1,Fog,calm,0.1
+2024-07-23,02:00,21.1,Fog,calm,0.06
+2024-07-23,03:00,21.2,Fog,calm,0.0
+2024-07-23,04:00,21.1,Fog,calm,0.0
+2024-07-23,05:00,20.9,Fog,calm,0.0
+2024-07-23,06:00,21.1,Fog,calm,0.0
+2024-07-23,07:00,21.8,Fog,calm,0.0
+2024-07-23,08:00,23.0,Cloudy,calm,0.0
+2024-07-23,09:00,24.6,Partly cloudy,calm,0.0
+2024-07-23,10:00,26.1,Partly cloudy,calm,0.0
+2024-07-23,11:00,27.4,Patchy rain possible,breezy,0.05
+2024-07-23,12:00,28.4,Patchy rain possible,breezy,0.11
+2024-07-23,13:00,29.6,Patchy rain possible,breezy,0.13
+2024-07-23,14:00,30.1,Partly cloudy,breezy,0.0
+2024-07-23,15:00,30.3,Partly cloudy,breezy,0.0
+2024-07-23,16:00,30.1,Partly cloudy,breezy,0.0
+2024-07-23,17:00,29.7,Partly cloudy,breezy,0.0
+2024-07-23,18:00,29.0,Partly cloudy,breezy,0.0
+2024-07-23,19:00,27.1,Sunny,breezy,0.0
+2024-07-23,20:00,25.5,Sunny,breezy,0.0
+2024-07-23,21:00,24.6,Partly cloudy,breezy,0.0
+2024-07-23,22:00,23.9,Patchy rain possible,calm,0.14
+2024-07-23,23:00,23.6,Light rain shower,breezy,0.36
+2024-07-24,00:00,22.7,Patchy rain possible,calm,0.05
+2024-07-24,01:00,22.4,Patchy light rain,calm,1.5
+2024-07-24,02:00,22.2,Light drizzle,calm,0.33
+2024-07-24,03:00,21.9,Light drizzle,calm,0.23
+2024-07-24,04:00,21.7,Light rain shower,calm,0.43
+2024-07-24,05:00,21.5,Light rain shower,calm,0.58
+2024-07-24,06:00,21.4,Light rain shower,calm,0.6
+2024-07-24,07:00,21.5,Light rain shower,calm,0.33
+2024-07-24,08:00,21.7,Light rain shower,calm,0.25
+2024-07-24,09:00,21.8,Light rain shower,calm,0.55
+2024-07-24,10:00,21.8,Light rain shower,calm,0.58
+2024-07-24,11:00,21.7,Light rain shower,calm,1.11
+2024-07-24,12:00,21.7,Light rain shower,calm,1.58
+2024-07-24,13:00,21.6,Light rain shower,calm,0.95
+2024-07-24,14:00,21.5,Mist,calm,0.06
+2024-07-24,15:00,22.7,Mist,calm,0.0
+2024-07-24,16:00,23.9,Partly cloudy,calm,0.0
+2024-07-24,17:00,24.3,Cloudy,calm,0.0
+2024-07-24,18:00,23.9,Patchy rain possible,calm,0.01
+2024-07-24,19:00,23.0,Patchy rain possible,calm,0.01
+2024-07-24,20:00,22.0,Partly cloudy,calm,0.0
+2024-07-24,21:00,21.4,Mist,calm,0.0
+2024-07-24,22:00,21.2,Fog,calm,0.0
+2024-07-24,23:00,21.1,Fog,calm,0.0
+2024-07-25,00:00,21.2,Mist,calm,0.0
+2024-07-25,01:00,21.3,Mist,calm,0.0
+2024-07-25,02:00,21.4,Mist,calm,0.0
+2024-07-25,03:00,21.5,Mist,calm,0.14
+2024-07-25,04:00,21.4,Light drizzle,calm,0.41
+2024-07-25,05:00,21.5,Mist,calm,0.14
+2024-07-25,06:00,21.6,Light rain shower,calm,0.2
+2024-07-25,07:00,21.5,Patchy rain possible,calm,0.58
+2024-07-25,08:00,21.4,Light rain shower,calm,1.72
+2024-07-25,09:00,21.4,Light rain shower,calm,0.77
+2024-07-25,10:00,21.5,Light rain shower,calm,0.53
+2024-07-25,11:00,21.8,Fog,calm,0.11
+2024-07-25,12:00,22.3,Mist,calm,0.0
+2024-07-25,13:00,22.4,Light rain shower,breezy,0.6
+2024-07-25,14:00,23.1,Patchy rain possible,breezy,0.01
+2024-07-25,15:00,24.0,Light rain shower,breezy,0.17
+2024-07-25,16:00,24.7,Patchy rain possible,breezy,0.06
+2024-07-25,17:00,24.9,Patchy rain possible,breezy,0.69
+2024-07-25,18:00,24.3,Patchy rain possible,breezy,0.55
+2024-07-25,19:00,23.1,Light rain shower,breezy,2.36
+2024-07-25,20:00,22.3,Light rain shower,calm,1.57
+2024-07-25,21:00,21.7,Patchy rain possible,calm,0.61
+2024-07-25,22:00,21.3,Partly cloudy,calm,0.0
+2024-07-25,23:00,20.9,Clear,calm,0.0
+2024-07-26,00:00,20.8,Mist,calm,0.02
+2024-07-26,01:00,20.5,Partly cloudy,calm,0.0
+2024-07-26,02:00,20.2,Partly cloudy,calm,0.0
+2024-07-26,03:00,19.6,Mist,calm,0.0
+2024-07-26,04:00,18.5,Clear,breezy,0.0
+2024-07-26,05:00,17.7,Clear,breezy,0.0
+2024-07-26,06:00,17.4,Sunny,breezy,0.0
+2024-07-26,07:00,18.0,Sunny,breezy,0.0
+2024-07-26,08:00,19.3,Sunny,breezy,0.0
+2024-07-26,09:00,21.1,Partly cloudy,breezy,0.0
+2024-07-26,10:00,22.7,Sunny,breezy,0.0
+2024-07-26,11:00,24.0,Sunny,breezy,0.0
+2024-07-26,12:00,25.1,Sunny,calm,0.0
+2024-07-26,13:00,25.4,Sunny,calm,0.0
+2024-07-26,14:00,25.3,Sunny,calm,0.0
+2024-07-26,15:00,25.3,Sunny,breezy,0.0
+2024-07-26,16:00,24.9,Sunny,breezy,0.0
+2024-07-26,17:00,24.3,Sunny,breezy,0.0
+2024-07-26,18:00,23.2,Sunny,breezy,0.0
+2024-07-26,19:00,21.9,Sunny,calm,0.0
+2024-07-26,20:00,20.9,Sunny,calm,0.0
+2024-07-26,21:00,20.2,Clear,calm,0.0
+2024-07-26,22:00,19.8,Clear,calm,0.0
+2024-07-26,23:00,19.6,Clear,calm,0.0
+2024-07-27,00:00,19.5,Clear,calm,0.0
+2024-07-27,01:00,19.4,Clear,calm,0.0
+2024-07-27,02:00,19.4,Clear,calm,0.0
+2024-07-27,03:00,19.3,Clear,calm,0.0
+2024-07-27,04:00,19.2,Clear,calm,0.0
+2024-07-27,05:00,19.0,Clear,calm,0.0
+2024-07-27,06:00,19.1,Sunny,calm,0.0
+2024-07-27,07:00,20.3,Sunny,calm,0.0
+2024-07-27,08:00,22.0,Sunny,calm,0.0
+2024-07-27,09:00,23.9,Sunny,calm,0.0
+2024-07-27,10:00,25.3,Sunny,calm,0.0
+2024-07-27,11:00,26.4,Sunny,calm,0.0
+2024-07-27,12:00,27.0,Sunny,calm,0.0
+2024-07-27,13:00,27.4,Sunny,breezy,0.0
+2024-07-27,14:00,27.6,Sunny,breezy,0.0
+2024-07-27,15:00,27.5,Sunny,breezy,0.0
+2024-07-27,16:00,27.0,Sunny,breezy,0.0
+2024-07-27,17:00,26.3,Sunny,breezy,0.0
+2024-07-27,18:00,25.1,Partly cloudy,breezy,0.0
+2024-07-27,19:00,23.3,Partly cloudy,calm,0.0
+2024-07-27,20:00,21.9,Sunny,calm,0.0
+2024-07-27,21:00,21.0,Partly cloudy,calm,0.0
+2024-07-27,22:00,20.4,Partly cloudy,calm,0.0
+2024-07-27,23:00,20.0,Clear,calm,0.0
+2024-07-28,00:00,19.6,Clear,calm,0.0
+2024-07-28,01:00,19.2,Clear,calm,0.0
+2024-07-28,02:00,18.9,Clear,calm,0.0
+2024-07-28,03:00,18.6,Clear,calm,0.0
+2024-07-28,04:00,18.4,Clear,calm,0.0
+2024-07-28,05:00,18.2,Clear,calm,0.0
+2024-07-28,06:00,18.7,Sunny,calm,0.0
+2024-07-28,07:00,20.2,Sunny,calm,0.0
+2024-07-28,08:00,22.2,Sunny,calm,0.0
+2024-07-28,09:00,24.3,Sunny,calm,0.0
+2024-07-28,10:00,26.2,Sunny,calm,0.0
+2024-07-28,11:00,27.5,Sunny,calm,0.0
+2024-07-28,12:00,28.4,Sunny,calm,0.0
+2024-07-28,13:00,28.8,Partly cloudy,calm,0.0
+2024-07-28,14:00,29.1,Sunny,calm,0.0
+2024-07-28,15:00,29.0,Sunny,calm,0.0
+2024-07-28,16:00,28.0,Sunny,calm,0.0
+2024-07-28,17:00,26.7,Sunny,calm,0.0
+2024-07-28,18:00,25.8,Sunny,calm,0.0
+2024-07-28,19:00,24.4,Sunny,calm,0.0
+2024-07-28,20:00,23.1,Sunny,calm,0.0
+2024-07-28,21:00,22.1,Clear,calm,0.0
+2024-07-28,22:00,21.5,Clear,breezy,0.0
+2024-07-28,23:00,21.4,Clear,breezy,0.0
+2024-07-29,00:00,21.4,Clear,breezy,0.0
+2024-07-29,01:00,20.8,Clear,calm,0.0
+2024-07-29,02:00,20.2,Partly cloudy,calm,0.0
+2024-07-29,03:00,19.9,Clear,calm,0.0
+2024-07-29,04:00,19.8,Clear,calm,0.0
+2024-07-29,05:00,19.8,Clear,calm,0.0
+2024-07-29,06:00,20.0,Patchy rain possible,calm,0.04
+2024-07-29,07:00,20.7,Patchy rain possible,calm,0.07
+2024-07-29,08:00,21.4,Patchy rain possible,calm,0.09
+2024-07-29,09:00,22.7,Patchy rain possible,calm,0.03
+2024-07-29,10:00,24.2,Sunny,calm,0.0
+2024-07-29,11:00,25.5,Sunny,breezy,0.0
+2024-07-29,12:00,26.8,Sunny,breezy,0.0
+2024-07-29,13:00,27.5,Sunny,breezy,0.0
+2024-07-29,14:00,27.8,Sunny,breezy,0.0
+2024-07-29,15:00,27.7,Sunny,breezy,0.0
+2024-07-29,16:00,27.0,Patchy rain possible,breezy,0.06
+2024-07-29,17:00,26.0,Patchy rain possible,breezy,0.13
+2024-07-29,18:00,24.6,Patchy rain possible,breezy,0.13
+2024-07-29,19:00,23.3,Sunny,breezy,0.0
+2024-07-29,20:00,22.5,Patchy rain possible,breezy,0.08
+2024-07-29,21:00,21.8,Patchy rain possible,breezy,0.32
+2024-07-29,22:00,21.5,Patchy rain possible,breezy,0.71
+2024-07-29,23:00,21.4,Patchy rain possible,breezy,0.45
+2024-07-30,00:00,21.6,Partly cloudy,breezy,0.0
+2024-07-30,01:00,21.5,Cloudy,breezy,0.0
+2024-07-30,02:00,21.3,Mist,breezy,0.0
+2024-07-30,03:00,21.2,Mist,breezy,0.0
+2024-07-30,04:00,21.1,Mist,breezy,0.0
+2024-07-30,05:00,21.2,Mist,breezy,0.0
+2024-07-30,06:00,21.6,Partly cloudy,breezy,0.0
+2024-07-30,07:00,22.5,Partly cloudy,breezy,0.0
+2024-07-30,08:00,23.7,Sunny,breezy,0.0
+2024-07-30,09:00,25.0,Partly cloudy,breezy,0.0
+2024-07-30,10:00,26.1,Partly cloudy,windy,0.0
+2024-07-30,11:00,26.8,Sunny,windy,0.0
+2024-07-30,12:00,27.1,Patchy rain possible,windy,0.02
+2024-07-30,13:00,27.0,Patchy rain possible,windy,0.13
+2024-07-30,14:00,26.8,Patchy rain possible,windy,0.01
+2024-07-30,15:00,26.5,Patchy rain possible,windy,0.01
+2024-07-30,16:00,26.0,Partly cloudy,windy,0.0
+2024-07-30,17:00,25.8,Patchy rain possible,breezy,0.05
+2024-07-30,18:00,25.1,Patchy rain possible,breezy,0.02
+2024-07-30,19:00,24.2,Patchy rain possible,breezy,0.11
+2024-07-30,20:00,23.8,Light rain,windy,0.8
+2024-07-30,21:00,23.5,Partly cloudy,breezy,0.0
+2024-07-30,22:00,23.3,Patchy rain possible,windy,0.15
+2024-07-30,23:00,23.3,Patchy rain possible,windy,0.09
+2024-07-31,00:00,23.1,Light rain shower,breezy,0.97
+2024-07-31,01:00,22.8,Patchy rain possible,breezy,0.7
+2024-07-31,02:00,22.7,Patchy rain possible,breezy,0.01
+2024-07-31,03:00,22.5,Patchy light rain,breezy,1.26
+2024-07-31,04:00,22.4,Light rain shower,breezy,0.75
+2024-07-31,05:00,22.3,Light rain shower,breezy,0.3
+2024-07-31,06:00,22.4,Fog,breezy,0.0
+2024-07-31,07:00,23.0,Patchy rain possible,calm,0.32
+2024-07-31,08:00,24.2,Partly cloudy,breezy,0.0
+2024-07-31,09:00,25.4,Patchy rain possible,breezy,0.12
+2024-07-31,10:00,27.2,Patchy rain possible,breezy,0.02
+2024-07-31,11:00,29.0,Sunny,breezy,0.0
+2024-07-31,12:00,30.3,Sunny,breezy,0.0
+2024-07-31,13:00,31.3,Sunny,breezy,0.0
+2024-07-31,14:00,31.9,Partly cloudy,breezy,0.0
+2024-07-31,15:00,32.2,Partly cloudy,breezy,0.0
+2024-07-31,16:00,31.9,Partly cloudy,breezy,0.0
+2024-07-31,17:00,31.1,Sunny,breezy,0.0
+2024-07-31,18:00,29.7,Sunny,breezy,0.0
+2024-07-31,19:00,27.7,Sunny,breezy,0.0
+2024-07-31,20:00,26.4,Sunny,breezy,0.0
+2024-07-31,21:00,25.4,Clear,breezy,0.0
+2024-07-31,22:00,24.5,Patchy rain possible,breezy,0.38
+2024-07-31,23:00,23.9,Patchy rain possible,calm,0.46
+2024-08-01,00:00,23.6,Clear,calm,0.0
+2024-08-01,01:00,23.5,Clear,calm,0.0
+2024-08-01,02:00,23.4,Clear,calm,0.0
+2024-08-01,03:00,23.5,Clear,calm,0.0
+2024-08-01,04:00,23.2,Clear,calm,0.0
+2024-08-01,05:00,22.8,Clear,calm,0.0
+2024-08-01,06:00,23.2,Sunny,calm,0.0
+2024-08-01,07:00,24.4,Sunny,calm,0.0
+2024-08-01,08:00,26.1,Partly cloudy,calm,0.0
+2024-08-01,09:00,28.0,Sunny,calm,0.0
+2024-08-01,10:00,29.6,Sunny,calm,0.0
+2024-08-01,11:00,30.8,Sunny,breezy,0.0
+2024-08-01,12:00,31.4,Partly cloudy,breezy,0.0
+2024-08-01,13:00,31.4,Partly cloudy,breezy,0.0
+2024-08-01,14:00,31.2,Partly cloudy,breezy,0.0
+2024-08-01,15:00,30.1,Partly cloudy,breezy,0.0
+2024-08-01,16:00,28.9,Partly cloudy,breezy,0.0
+2024-08-01,17:00,28.5,Partly cloudy,breezy,0.0
+2024-08-01,18:00,27.2,Partly cloudy,breezy,0.0
+2024-08-01,19:00,26.1,Patchy light drizzle,breezy,0.22
+2024-08-01,20:00,24.7,Patchy rain possible,calm,0.24
+2024-08-01,21:00,23.9,Patchy rain possible,calm,0.42
+2024-08-01,22:00,23.4,Light rain shower,calm,1.33
+2024-08-01,23:00,23.0,Light rain shower,calm,1.66
+2024-08-02,00:00,24.4,Clear,breezy,0.0
+2024-08-02,01:00,24.1,Clear,breezy,0.0
+2024-08-02,02:00,24.1,Partly cloudy,calm,0.0
+2024-08-02,03:00,23.9,Clear,calm,0.0
+2024-08-02,04:00,23.7,Clear,calm,0.0
+2024-08-02,05:00,23.5,Clear,calm,0.0
+2024-08-02,06:00,23.8,Partly cloudy,calm,0.0
+2024-08-02,07:00,24.5,Partly cloudy,calm,0.0
+2024-08-02,08:00,25.3,Partly cloudy,calm,0.0
+2024-08-02,09:00,26.3,Partly cloudy,calm,0.0
+2024-08-02,10:00,28.3,Partly cloudy,breezy,0.0
+2024-08-02,11:00,29.8,Sunny,breezy,0.0
+2024-08-02,12:00,30.8,Partly cloudy,breezy,0.0
+2024-08-02,13:00,31.3,Partly cloudy,breezy,0.0
+2024-08-02,14:00,30.1,Patchy rain possible,breezy,0.19
+2024-08-02,15:00,28.6,Patchy rain possible,breezy,0.01
+2024-08-02,16:00,27.3,Patchy rain possible,breezy,0.37
+2024-08-02,17:00,27.4,Patchy rain possible,calm,0.01
+2024-08-02,18:00,26.8,Patchy rain possible,breezy,0.02
+2024-08-02,19:00,25.6,Patchy rain possible,breezy,0.1
+2024-08-02,20:00,24.5,Patchy rain possible,breezy,0.17
+2024-08-02,21:00,23.8,Mist,breezy,0.02
+2024-08-02,22:00,23.4,Mist,breezy,0.04
+2024-08-02,23:00,23.3,Light rain shower,breezy,0.66
+2024-08-03,00:00,23.1,Light rain shower,calm,0.79
+2024-08-03,01:00,23.0,Fog,calm,0.0
+2024-08-03,02:00,22.9,Fog,calm,0.0
+2024-08-03,03:00,22.8,Fog,calm,0.0
+2024-08-03,04:00,22.8,Patchy light rain,calm,1.06
+2024-08-03,05:00,22.8,Fog,calm,0.0
+2024-08-03,06:00,23.0,Mist,calm,0.0
+2024-08-03,07:00,23.8,Mist,breezy,0.0
+2024-08-03,08:00,24.7,Partly cloudy,breezy,0.0
+2024-08-03,09:00,26.1,Partly cloudy,breezy,0.0
+2024-08-03,10:00,27.3,Sunny,breezy,0.0
+2024-08-03,11:00,28.3,Sunny,breezy,0.0
+2024-08-03,12:00,29.3,Sunny,breezy,0.0
+2024-08-03,13:00,30.0,Sunny,breezy,0.0
+2024-08-03,14:00,30.3,Sunny,breezy,0.0
+2024-08-03,15:00,30.3,Sunny,breezy,0.0
+2024-08-03,16:00,30.1,Sunny,windy,0.0
+2024-08-03,17:00,29.3,Partly cloudy,breezy,0.0
+2024-08-03,18:00,27.3,Patchy rain possible,windy,0.01
+2024-08-03,19:00,25.9,Patchy rain possible,windy,1.02
+2024-08-03,20:00,24.7,Patchy rain possible,breezy,0.06
+2024-08-03,21:00,23.8,Patchy rain possible,breezy,0.6
+2024-08-03,22:00,23.4,Light rain shower,calm,1.91
+2024-08-03,23:00,23.2,Fog,calm,0.0
+2024-08-04,00:00,21.7,Partly cloudy,calm,0.0
+2024-08-04,01:00,21.8,Mist,calm,0.0
+2024-08-04,02:00,22.3,Cloudy,breezy,0.0
+2024-08-04,03:00,22.3,Patchy rain possible,breezy,0.03
+2024-08-04,04:00,22.4,Partly cloudy,breezy,0.0
+2024-08-04,05:00,22.3,Partly cloudy,breezy,0.0
+2024-08-04,06:00,22.4,Partly cloudy,breezy,0.0
+2024-08-04,07:00,23.0,Partly cloudy,breezy,0.0
+2024-08-04,08:00,24.0,Partly cloudy,breezy,0.0
+2024-08-04,09:00,25.3,Cloudy,breezy,0.0
+2024-08-04,10:00,26.5,Partly cloudy,breezy,0.0
+2024-08-04,11:00,27.7,Partly cloudy,breezy,0.0
+2024-08-04,12:00,28.9,Partly cloudy,windy,0.0
+2024-08-04,13:00,29.5,Partly cloudy,windy,0.0
+2024-08-04,14:00,29.6,Partly cloudy,windy,0.0
+2024-08-04,15:00,29.6,Partly cloudy,windy,0.0
+2024-08-04,16:00,29.3,Patchy rain possible,windy,0.03
+2024-08-04,17:00,27.9,Patchy rain possible,windy,0.66
+2024-08-04,18:00,26.2,Patchy rain possible,windy,0.18
+2024-08-04,19:00,24.7,Moderate or heavy rain shower,windy,5.1
+2024-08-04,20:00,23.6,Moderate or heavy rain shower,windy,3.63
+2024-08-04,21:00,22.7,Patchy light rain,breezy,2.17
+2024-08-04,22:00,22.2,Light drizzle,calm,0.55
+2024-08-04,23:00,21.9,Light rain shower,calm,0.15
+2024-08-05,00:00,22.8,Clear,calm,0.0
+2024-08-05,01:00,22.6,Clear,calm,0.0
+2024-08-05,02:00,22.3,Clear,calm,0.0
+2024-08-05,03:00,22.0,Mist,calm,0.02
+2024-08-05,04:00,21.8,Mist,calm,0.09
+2024-08-05,05:00,21.6,Mist,calm,0.0
+2024-08-05,06:00,21.9,Mist,calm,0.0
+2024-08-05,07:00,22.9,Patchy rain possible,calm,0.01
+2024-08-05,08:00,24.2,Sunny,calm,0.0
+2024-08-05,09:00,26.0,Sunny,calm,0.0
+2024-08-05,10:00,27.7,Sunny,calm,0.0
+2024-08-05,11:00,29.0,Sunny,calm,0.0
+2024-08-05,12:00,30.1,Sunny,breezy,0.0
+2024-08-05,13:00,30.9,Sunny,breezy,0.0
+2024-08-05,14:00,31.5,Sunny,breezy,0.0
+2024-08-05,15:00,31.8,Sunny,breezy,0.0
+2024-08-05,16:00,31.4,Sunny,breezy,0.0
+2024-08-05,17:00,30.5,Partly cloudy,breezy,0.0
+2024-08-05,18:00,29.0,Sunny,breezy,0.0
+2024-08-05,19:00,27.0,Sunny,breezy,0.0
+2024-08-05,20:00,25.8,Sunny,breezy,0.0
+2024-08-05,21:00,25.4,Clear,breezy,0.0
+2024-08-05,22:00,25.1,Clear,breezy,0.0
+2024-08-05,23:00,24.8,Clear,breezy,0.0
+2024-08-06,00:00,24.4,Clear,breezy,0.0
+2024-08-06,01:00,24.3,Clear,breezy,0.0
+2024-08-06,02:00,24.2,Clear,breezy,0.0
+2024-08-06,03:00,24.0,Clear,breezy,0.0
+2024-08-06,04:00,23.8,Clear,breezy,0.0
+2024-08-06,05:00,23.5,Partly cloudy,breezy,0.0
+2024-08-06,06:00,23.4,Partly cloudy,breezy,0.0
+2024-08-06,07:00,24.1,Partly cloudy,breezy,0.0
+2024-08-06,08:00,25.3,Sunny,breezy,0.0
+2024-08-06,09:00,26.6,Partly cloudy,breezy,0.0
+2024-08-06,10:00,27.9,Patchy rain possible,breezy,0.19
+2024-08-06,11:00,29.1,Patchy rain possible,breezy,0.02
+2024-08-06,12:00,30.1,Patchy rain possible,breezy,0.19
+2024-08-06,13:00,30.8,Patchy rain possible,breezy,0.12
+2024-08-06,14:00,30.8,Patchy rain possible,breezy,0.06
+2024-08-06,15:00,29.6,Patchy rain possible,breezy,0.11
+2024-08-06,16:00,28.2,Patchy rain possible,breezy,0.52
+2024-08-06,17:00,26.6,Patchy rain possible,breezy,1.97
+2024-08-06,18:00,25.1,Patchy rain possible,breezy,0.77
+2024-08-06,19:00,23.9,Patchy rain possible,breezy,2.01
+2024-08-06,20:00,23.0,Moderate or heavy rain shower,breezy,7.38
+2024-08-06,21:00,22.2,Light rain shower,calm,0.92
+2024-08-06,22:00,21.6,Mist,calm,0.09
+2024-08-06,23:00,21.3,Mist,calm,0.05
+2024-08-07,00:00,22.0,Mist,calm,0.0
+2024-08-07,01:00,21.8,Mist,calm,0.0
+2024-08-07,02:00,21.8,Mist,calm,0.0
+2024-08-07,03:00,21.8,Mist,calm,0.0
+2024-08-07,04:00,21.5,Mist,calm,0.07
+2024-08-07,05:00,21.0,Light rain shower,calm,1.24
+2024-08-07,06:00,20.4,Light rain shower,breezy,0.4
+2024-08-07,07:00,20.1,Patchy rain possible,breezy,0.03
+2024-08-07,08:00,20.4,Overcast,breezy,0.0
+2024-08-07,09:00,21.2,Light rain shower,breezy,0.76
+2024-08-07,10:00,21.6,Patchy rain possible,breezy,0.06
+2024-08-07,11:00,21.7,Patchy rain possible,breezy,0.04
+2024-08-07,12:00,22.0,Patchy rain possible,breezy,0.01
+2024-08-07,13:00,22.2,Patchy rain possible,breezy,0.02
+2024-08-07,14:00,22.2,Patchy rain possible,breezy,0.02
+2024-08-07,15:00,22.0,Patchy rain possible,breezy,0.05
+2024-08-07,16:00,21.8,Patchy rain possible,breezy,0.06
+2024-08-07,17:00,21.4,Patchy rain possible,breezy,0.08
+2024-08-07,18:00,21.0,Patchy rain possible,windy,0.13
+2024-08-07,19:00,20.8,Patchy rain possible,windy,0.04
+2024-08-07,20:00,20.6,Overcast,windy,0.0
+2024-08-07,21:00,20.6,Patchy rain possible,breezy,0.01
+2024-08-07,22:00,20.6,Light rain shower,breezy,0.16
+2024-08-07,23:00,20.7,Patchy rain possible,breezy,0.01
+2024-08-08,00:00,21.2,Patchy rain possible,breezy,0.04
+2024-08-08,01:00,21.3,Patchy rain possible,breezy,0.03
+2024-08-08,02:00,21.4,Mist,breezy,0.05
+2024-08-08,03:00,21.4,Fog,breezy,0.08
+2024-08-08,04:00,21.5,Fog,breezy,0.12
+2024-08-08,05:00,21.5,Light rain shower,breezy,0.16
+2024-08-08,06:00,21.6,Fog,breezy,0.04
+2024-08-08,07:00,22.0,Mist,breezy,0.08
+2024-08-08,08:00,22.4,Mist,breezy,0.03
+2024-08-08,09:00,22.7,Light drizzle,breezy,0.23
+2024-08-08,10:00,23.3,Light rain shower,breezy,0.24
+2024-08-08,11:00,24.4,Patchy rain possible,breezy,0.24
+2024-08-08,12:00,25.5,Patchy rain possible,breezy,0.11
+2024-08-08,13:00,25.9,Patchy rain possible,breezy,0.01
+2024-08-08,14:00,26.0,Patchy rain possible,breezy,0.01
+2024-08-08,15:00,25.7,Cloudy,breezy,0.0
+2024-08-08,16:00,24.7,Patchy rain possible,breezy,0.01
+2024-08-08,17:00,23.8,Overcast,breezy,0.0
+2024-08-08,18:00,23.5,Overcast,breezy,0.0
+2024-08-08,19:00,22.9,Cloudy,breezy,0.0
+2024-08-08,20:00,22.5,Cloudy,breezy,0.0
+2024-08-08,21:00,22.4,Cloudy,breezy,0.0
+2024-08-08,22:00,22.3,Partly cloudy,breezy,0.0
+2024-08-08,23:00,21.9,Patchy light drizzle,breezy,0.54
+2024-08-09,00:00,22.1,Mist,calm,0.09
+2024-08-09,01:00,22.2,Patchy rain possible,calm,0.3
+2024-08-09,02:00,22.3,Light rain shower,breezy,0.51
+2024-08-09,03:00,22.2,Light rain shower,breezy,0.98
+2024-08-09,04:00,22.3,Light rain shower,breezy,1.08
+2024-08-09,05:00,22.4,Light rain shower,breezy,0.8
+2024-08-09,06:00,22.5,Patchy rain possible,breezy,0.55
+2024-08-09,07:00,22.9,Patchy rain possible,breezy,0.22
+2024-08-09,08:00,23.4,Light rain shower,breezy,0.44
+2024-08-09,09:00,23.8,Patchy rain possible,windy,0.18
+2024-08-09,10:00,24.6,Patchy rain possible,windy,0.65
+2024-08-09,11:00,25.1,Light rain shower,windy,1.02
+2024-08-09,12:00,26.1,Patchy rain possible,windy,0.54
+2024-08-09,13:00,26.7,Patchy rain possible,windy,0.13
+2024-08-09,14:00,26.9,Patchy rain possible,windy,0.06
+2024-08-09,15:00,26.6,Partly cloudy,windy,0.0
+2024-08-09,16:00,26.2,Patchy rain possible,windy,0.21
+2024-08-09,17:00,25.5,Patchy rain possible,windy,0.88
+2024-08-09,18:00,24.8,Light rain shower,windy,0.75
+2024-08-09,19:00,24.3,Patchy rain possible,windy,0.46
+2024-08-09,20:00,23.9,Light rain shower,windy,0.29
+2024-08-09,21:00,23.5,Light rain shower,windy,0.54
+2024-08-09,22:00,23.1,Light rain shower,windy,0.95
+2024-08-09,23:00,22.9,Light rain shower,windy,0.83
+2024-08-10,00:00,22.0,Light drizzle,breezy,0.33
+2024-08-10,01:00,21.9,Light rain shower,breezy,0.21
+2024-08-10,02:00,21.8,Fog,breezy,0.07
+2024-08-10,03:00,21.8,Fog,breezy,0.03
+2024-08-10,04:00,21.9,Fog,calm,0.0
+2024-08-10,05:00,22.1,Fog,calm,0.0
+2024-08-10,06:00,22.3,Fog,calm,0.0
+2024-08-10,07:00,22.7,Fog,calm,0.0
+2024-08-10,08:00,23.3,Cloudy,breezy,0.0
+2024-08-10,09:00,24.4,Sunny,breezy,0.0
+2024-08-10,10:00,25.7,Sunny,breezy,0.0
+2024-08-10,11:00,26.8,Sunny,breezy,0.0
+2024-08-10,12:00,27.6,Sunny,breezy,0.0
+2024-08-10,13:00,28.2,Sunny,breezy,0.0
+2024-08-10,14:00,28.5,Sunny,breezy,0.0
+2024-08-10,15:00,28.4,Sunny,breezy,0.0
+2024-08-10,16:00,28.2,Sunny,breezy,0.0
+2024-08-10,17:00,27.5,Sunny,breezy,0.0
+2024-08-10,18:00,26.2,Sunny,breezy,0.0
+2024-08-10,19:00,24.4,Sunny,breezy,0.0
+2024-08-10,20:00,23.2,Partly cloudy,calm,0.0
+2024-08-10,21:00,22.3,Partly cloudy,calm,0.0
+2024-08-10,22:00,21.7,Clear,calm,0.0
+2024-08-10,23:00,21.7,Clear,calm,0.0
+2024-08-11,00:00,21.8,Partly cloudy,calm,0.0
+2024-08-11,01:00,21.6,Partly cloudy,calm,0.0
+2024-08-11,02:00,21.6,Partly cloudy,calm,0.0
+2024-08-11,03:00,21.6,Partly cloudy,calm,0.0
+2024-08-11,04:00,21.5,Overcast,calm,0.0
+2024-08-11,05:00,21.2,Overcast,calm,0.0
+2024-08-11,06:00,20.9,Overcast,calm,0.0
+2024-08-11,07:00,20.7,Patchy rain possible,calm,0.03
+2024-08-11,08:00,20.8,Partly cloudy,calm,0.0
+2024-08-11,09:00,22.2,Partly cloudy,calm,0.0
+2024-08-11,10:00,23.6,Partly cloudy,calm,0.0
+2024-08-11,11:00,25.1,Partly cloudy,calm,0.0
+2024-08-11,12:00,26.5,Partly cloudy,calm,0.0
+2024-08-11,13:00,27.3,Partly cloudy,calm,0.0
+2024-08-11,14:00,27.7,Partly cloudy,calm,0.0
+2024-08-11,15:00,27.8,Sunny,calm,0.0
+2024-08-11,16:00,27.6,Sunny,breezy,0.0
+2024-08-11,17:00,27.1,Sunny,breezy,0.0
+2024-08-11,18:00,26.0,Sunny,breezy,0.0
+2024-08-11,19:00,24.2,Sunny,breezy,0.0
+2024-08-11,20:00,22.4,Clear,breezy,0.0
+2024-08-11,21:00,21.1,Clear,calm,0.0
+2024-08-11,22:00,20.3,Clear,calm,0.0
+2024-08-11,23:00,19.7,Clear,calm,0.0
+2024-08-12,00:00,19.0,Clear,calm,0.0
+2024-08-12,01:00,18.7,Clear,calm,0.0
+2024-08-12,02:00,18.3,Clear,calm,0.0
+2024-08-12,03:00,17.9,Clear,calm,0.0
+2024-08-12,04:00,17.5,Clear,calm,0.0
+2024-08-12,05:00,17.2,Clear,calm,0.0
+2024-08-12,06:00,17.4,Clear,calm,0.0
+2024-08-12,07:00,18.8,Sunny,calm,0.0
+2024-08-12,08:00,20.4,Sunny,calm,0.0
+2024-08-12,09:00,22.3,Sunny,calm,0.0
+2024-08-12,10:00,23.8,Sunny,breezy,0.0
+2024-08-12,11:00,25.0,Sunny,breezy,0.0
+2024-08-12,12:00,26.0,Sunny,breezy,0.0
+2024-08-12,13:00,26.6,Sunny,breezy,0.0
+2024-08-12,14:00,27.0,Sunny,breezy,0.0
+2024-08-12,15:00,27.1,Sunny,breezy,0.0
+2024-08-12,16:00,26.8,Partly cloudy,breezy,0.0
+2024-08-12,17:00,26.3,Partly cloudy,breezy,0.0
+2024-08-12,18:00,25.1,Sunny,breezy,0.0
+2024-08-12,19:00,23.1,Sunny,breezy,0.0
+2024-08-12,20:00,21.7,Clear,calm,0.0
+2024-08-12,21:00,20.7,Clear,calm,0.0
+2024-08-12,22:00,20.0,Clear,calm,0.0
+2024-08-12,23:00,19.4,Clear,calm,0.0
+2024-08-13,00:00,19.7,Clear,calm,0.0
+2024-08-13,01:00,19.4,Clear,calm,0.0
+2024-08-13,02:00,19.0,Clear,calm,0.0
+2024-08-13,03:00,18.6,Clear,calm,0.0
+2024-08-13,04:00,18.1,Clear,calm,0.0
+2024-08-13,05:00,17.9,Clear,calm,0.0
+2024-08-13,06:00,17.8,Clear,calm,0.0
+2024-08-13,07:00,18.8,Sunny,calm,0.0
+2024-08-13,08:00,20.5,Partly cloudy,calm,0.0
+2024-08-13,09:00,22.1,Partly cloudy,calm,0.0
+2024-08-13,10:00,23.7,Partly cloudy,calm,0.0
+2024-08-13,11:00,25.0,Partly cloudy,calm,0.0
+2024-08-13,12:00,25.8,Partly cloudy,calm,0.0
+2024-08-13,13:00,25.5,Partly cloudy,calm,0.0
+2024-08-13,14:00,24.6,Partly cloudy,calm,0.0
+2024-08-13,15:00,24.3,Patchy rain possible,calm,0.08
+2024-08-13,16:00,24.2,Patchy rain possible,calm,0.04
+2024-08-13,17:00,24.1,Partly cloudy,calm,0.0
+2024-08-13,18:00,23.6,Partly cloudy,calm,0.0
+2024-08-13,19:00,22.7,Partly cloudy,calm,0.0
+2024-08-13,20:00,22.0,Partly cloudy,calm,0.0
+2024-08-13,21:00,21.1,Patchy rain possible,calm,0.12
+2024-08-13,22:00,20.4,Patchy rain possible,calm,0.13
+2024-08-13,23:00,20.0,Patchy rain possible,calm,0.14
+2024-08-14,00:00,20.1,Clear,calm,0.0
+2024-08-14,01:00,19.5,Clear,calm,0.0
+2024-08-14,02:00,19.3,Clear,calm,0.0
+2024-08-14,03:00,18.7,Clear,calm,0.0
+2024-08-14,04:00,18.1,Clear,calm,0.0
+2024-08-14,05:00,17.7,Clear,calm,0.0
+2024-08-14,06:00,17.7,Clear,calm,0.0
+2024-08-14,07:00,19.0,Sunny,calm,0.0
+2024-08-14,08:00,21.0,Sunny,calm,0.0
+2024-08-14,09:00,23.0,Sunny,calm,0.0
+2024-08-14,10:00,24.7,Sunny,calm,0.0
+2024-08-14,11:00,26.0,Sunny,calm,0.0
+2024-08-14,12:00,26.8,Partly cloudy,calm,0.0
+2024-08-14,13:00,26.1,Partly cloudy,calm,0.0
+2024-08-14,14:00,25.3,Partly cloudy,breezy,0.0
+2024-08-14,15:00,24.5,Partly cloudy,breezy,0.0
+2024-08-14,16:00,23.4,Partly cloudy,calm,0.0
+2024-08-14,17:00,23.0,Patchy rain possible,calm,0.02
+2024-08-14,18:00,22.5,Sunny,calm,0.0
+2024-08-14,19:00,21.9,Sunny,calm,0.0
+2024-08-14,20:00,21.5,Partly cloudy,calm,0.0
+2024-08-14,21:00,21.0,Partly cloudy,calm,0.0
+2024-08-14,22:00,20.4,Partly cloudy,calm,0.0
+2024-08-14,23:00,19.9,Clear,calm,0.0
+2024-08-15,00:00,20.3,Partly cloudy,calm,0.0
+2024-08-15,01:00,20.2,Partly cloudy,calm,0.0
+2024-08-15,02:00,19.8,Partly cloudy,calm,0.0
+2024-08-15,03:00,19.5,Clear,calm,0.0
+2024-08-15,04:00,19.4,Partly cloudy,calm,0.0
+2024-08-15,05:00,19.2,Partly cloudy,calm,0.0
+2024-08-15,06:00,19.1,Clear,calm,0.0
+2024-08-15,07:00,20.1,Sunny,calm,0.0
+2024-08-15,08:00,21.9,Sunny,calm,0.0
+2024-08-15,09:00,23.9,Sunny,calm,0.0
+2024-08-15,10:00,25.7,Sunny,calm,0.0
+2024-08-15,11:00,27.2,Sunny,calm,0.0
+2024-08-15,12:00,28.1,Sunny,calm,0.0
+2024-08-15,13:00,28.3,Sunny,calm,0.0
+2024-08-15,14:00,27.7,Sunny,breezy,0.0
+2024-08-15,15:00,26.7,Partly cloudy,breezy,0.0
+2024-08-15,16:00,25.9,Partly cloudy,breezy,0.0
+2024-08-15,17:00,25.7,Sunny,breezy,0.0
+2024-08-15,18:00,24.6,Sunny,breezy,0.0
+2024-08-15,19:00,23.3,Sunny,calm,0.0
+2024-08-15,20:00,22.2,Clear,calm,0.0
+2024-08-15,21:00,21.3,Clear,calm,0.0
+2024-08-15,22:00,20.7,Clear,breezy,0.0
+2024-08-15,23:00,20.3,Clear,calm,0.0
+2024-08-16,00:00,20.3,Clear,calm,0.0
+2024-08-16,01:00,20.0,Clear,calm,0.0
+2024-08-16,02:00,19.8,Clear,calm,0.0
+2024-08-16,03:00,19.6,Clear,calm,0.0
+2024-08-16,04:00,19.4,Clear,calm,0.0
+2024-08-16,05:00,19.2,Clear,calm,0.0
+2024-08-16,06:00,19.3,Clear,calm,0.0
+2024-08-16,07:00,20.6,Sunny,calm,0.0
+2024-08-16,08:00,22.5,Sunny,calm,0.0
+2024-08-16,09:00,24.5,Sunny,calm,0.0
+2024-08-16,10:00,26.4,Sunny,calm,0.0
+2024-08-16,11:00,27.6,Sunny,calm,0.0
+2024-08-16,12:00,28.4,Sunny,breezy,0.0
+2024-08-16,13:00,28.9,Sunny,breezy,0.0
+2024-08-16,14:00,29.1,Sunny,breezy,0.0
+2024-08-16,15:00,28.7,Sunny,breezy,0.0
+2024-08-16,16:00,28.0,Sunny,breezy,0.0
+2024-08-16,17:00,27.0,Sunny,breezy,0.0
+2024-08-16,18:00,25.5,Sunny,breezy,0.0
+2024-08-16,19:00,24.0,Sunny,breezy,0.0
+2024-08-16,20:00,23.2,Clear,breezy,0.0
+2024-08-16,21:00,22.9,Partly cloudy,breezy,0.0
+2024-08-16,22:00,22.7,Cloudy,breezy,0.0
+2024-08-16,23:00,22.3,Partly cloudy,breezy,0.0
+2024-08-17,00:00,20.8,Clear,breezy,0.0
+2024-08-17,01:00,20.4,Clear,breezy,0.0
+2024-08-17,02:00,20.5,Clear,calm,0.0
+2024-08-17,03:00,20.8,Clear,calm,0.0
+2024-08-17,04:00,20.9,Clear,calm,0.0
+2024-08-17,05:00,21.0,Clear,calm,0.0
+2024-08-17,06:00,20.9,Clear,calm,0.0
+2024-08-17,07:00,21.9,Partly cloudy,calm,0.0
+2024-08-17,08:00,22.4,Partly cloudy,breezy,0.0
+2024-08-17,09:00,23.2,Partly cloudy,breezy,0.0
+2024-08-17,10:00,22.9,Partly cloudy,breezy,0.0
+2024-08-17,11:00,23.6,Cloudy,breezy,0.0
+2024-08-17,12:00,25.0,Cloudy,breezy,0.0
+2024-08-17,13:00,26.1,Partly cloudy,breezy,0.0
+2024-08-17,14:00,26.6,Partly cloudy,windy,0.0
+2024-08-17,15:00,24.6,Patchy rain possible,windy,0.06
+2024-08-17,16:00,24.5,Patchy rain possible,breezy,0.05
+2024-08-17,17:00,24.5,Patchy rain possible,breezy,0.03
+2024-08-17,18:00,23.9,Partly cloudy,breezy,0.0
+2024-08-17,19:00,22.8,Partly cloudy,breezy,0.0
+2024-08-17,20:00,21.8,Patchy rain possible,breezy,0.1
+2024-08-17,21:00,21.3,Partly cloudy,breezy,0.0
+2024-08-17,22:00,21.1,Partly cloudy,breezy,0.0
+2024-08-17,23:00,21.1,Patchy rain possible,breezy,0.14
+2024-08-18,00:00,21.0,Patchy rain possible,breezy,0.89
+2024-08-18,01:00,20.8,Patchy rain possible,breezy,0.24
+2024-08-18,02:00,20.8,Patchy rain possible,breezy,0.06
+2024-08-18,03:00,20.8,Clear,breezy,0.0
+2024-08-18,04:00,20.9,Clear,breezy,0.0
+2024-08-18,05:00,20.9,Patchy rain possible,breezy,0.13
+2024-08-18,06:00,21.1,Patchy rain possible,breezy,1.02
+2024-08-18,07:00,21.9,Patchy rain possible,breezy,1.04
+2024-08-18,08:00,22.8,Patchy rain possible,breezy,0.02
+2024-08-18,09:00,24.0,Partly cloudy,breezy,0.0
+2024-08-18,10:00,25.1,Partly cloudy,windy,0.0
+2024-08-18,11:00,25.9,Patchy rain possible,windy,0.18
+2024-08-18,12:00,26.4,Patchy rain possible,breezy,0.13
+2024-08-18,13:00,25.9,Light rain shower,breezy,0.27
+2024-08-18,14:00,24.2,Moderate rain at times,windy,4.78
+2024-08-18,15:00,23.8,Patchy light rain,breezy,2.02
+2024-08-18,16:00,24.6,Sunny,calm,0.0
+2024-08-18,17:00,24.8,Patchy rain possible,breezy,0.01
+2024-08-18,18:00,24.0,Patchy rain possible,breezy,0.03
+2024-08-18,19:00,22.9,Sunny,breezy,0.0
+2024-08-18,20:00,22.1,Patchy light rain,breezy,1.6
+2024-08-18,21:00,21.6,Patchy light rain,calm,2.47
+2024-08-18,22:00,21.6,Fog,breezy,0.0
+2024-08-18,23:00,21.4,Mist,calm,0.0
+2024-08-19,00:00,20.6,Mist,calm,0.0
+2024-08-19,01:00,20.4,Mist,calm,0.0
+2024-08-19,02:00,20.1,Mist,calm,0.0
+2024-08-19,03:00,19.9,Mist,calm,0.0
+2024-08-19,04:00,19.7,Mist,calm,0.0
+2024-08-19,05:00,19.5,Mist,calm,0.0
+2024-08-19,06:00,19.6,Light rain shower,calm,0.88
+2024-08-19,07:00,20.1,Light rain shower,calm,0.31
+2024-08-19,08:00,21.1,Cloudy,calm,0.0
+2024-08-19,09:00,22.4,Cloudy,breezy,0.0
+2024-08-19,10:00,24.3,Partly cloudy,breezy,0.0
+2024-08-19,11:00,26.0,Partly cloudy,calm,0.0
+2024-08-19,12:00,27.3,Sunny,calm,0.0
+2024-08-19,13:00,27.7,Light drizzle,breezy,0.31
+2024-08-19,14:00,27.9,Light drizzle,breezy,0.61
+2024-08-19,15:00,27.9,Light rain shower,breezy,0.42
+2024-08-19,16:00,27.5,Light rain shower,breezy,0.55
+2024-08-19,17:00,26.9,Light rain shower,breezy,0.77
+2024-08-19,18:00,25.8,Patchy rain possible,breezy,0.62
+2024-08-19,19:00,23.6,Light rain shower,breezy,0.85
+2024-08-19,20:00,22.4,Light rain shower,breezy,2.19
+2024-08-19,21:00,21.5,Light rain shower,breezy,1.15
+2024-08-19,22:00,20.2,Light rain shower,breezy,0.31
+2024-08-19,23:00,19.2,Light rain shower,breezy,0.51
+2024-08-20,00:00,19.7,Partly cloudy,breezy,0.0
+2024-08-20,01:00,19.0,Partly cloudy,breezy,0.0
+2024-08-20,02:00,18.5,Overcast,breezy,0.0
+2024-08-20,03:00,18.5,Partly cloudy,breezy,0.0
+2024-08-20,04:00,18.5,Partly cloudy,breezy,0.0
+2024-08-20,05:00,18.3,Partly cloudy,breezy,0.0
+2024-08-20,06:00,17.9,Partly cloudy,breezy,0.0
+2024-08-20,07:00,18.0,Partly cloudy,breezy,0.0
+2024-08-20,08:00,18.8,Sunny,breezy,0.0
+2024-08-20,09:00,20.0,Sunny,breezy,0.0
+2024-08-20,10:00,21.3,Sunny,breezy,0.0
+2024-08-20,11:00,22.6,Sunny,breezy,0.0
+2024-08-20,12:00,23.6,Sunny,breezy,0.0
+2024-08-20,13:00,24.3,Sunny,breezy,0.0
+2024-08-20,14:00,24.7,Sunny,breezy,0.0
+2024-08-20,15:00,24.9,Sunny,breezy,0.0
+2024-08-20,16:00,24.5,Sunny,breezy,0.0
+2024-08-20,17:00,23.7,Sunny,windy,0.0
+2024-08-20,18:00,22.3,Sunny,windy,0.0
+2024-08-20,19:00,20.5,Sunny,breezy,0.0
+2024-08-20,20:00,18.9,Clear,breezy,0.0
+2024-08-20,21:00,17.5,Clear,breezy,0.0
+2024-08-20,22:00,16.3,Clear,breezy,0.0
+2024-08-20,23:00,15.2,Clear,breezy,0.0
+2024-08-21,00:00,14.9,Clear,breezy,0.0
+2024-08-21,01:00,14.2,Clear,breezy,0.0
+2024-08-21,02:00,13.4,Clear,breezy,0.0
+2024-08-21,03:00,12.9,Clear,breezy,0.0
+2024-08-21,04:00,12.6,Clear,breezy,0.0
+2024-08-21,05:00,12.2,Clear,breezy,0.0
+2024-08-21,06:00,12.2,Clear,breezy,0.0
+2024-08-21,07:00,13.4,Sunny,breezy,0.0
+2024-08-21,08:00,15.0,Sunny,breezy,0.0
+2024-08-21,09:00,16.8,Sunny,breezy,0.0
+2024-08-21,10:00,18.5,Sunny,breezy,0.0
+2024-08-21,11:00,19.9,Sunny,breezy,0.0
+2024-08-21,12:00,21.1,Partly cloudy,breezy,0.0
+2024-08-21,13:00,22.0,Partly cloudy,breezy,0.0
+2024-08-21,14:00,22.7,Partly cloudy,breezy,0.0
+2024-08-21,15:00,23.0,Sunny,windy,0.0
+2024-08-21,16:00,23.0,Sunny,breezy,0.0
+2024-08-21,17:00,22.3,Partly cloudy,windy,0.0
+2024-08-21,18:00,21.0,Sunny,breezy,0.0
+2024-08-21,19:00,19.2,Partly cloudy,breezy,0.0
+2024-08-21,20:00,18.1,Partly cloudy,breezy,0.0
+2024-08-21,21:00,17.2,Partly cloudy,breezy,0.0
+2024-08-21,22:00,16.3,Partly cloudy,breezy,0.0
+2024-08-21,23:00,15.6,Clear,breezy,0.0
+2024-08-22,00:00,14.7,Clear,calm,0.0
+2024-08-22,01:00,14.3,Clear,calm,0.0
+2024-08-22,02:00,13.9,Clear,calm,0.0
+2024-08-22,03:00,13.5,Clear,calm,0.0
+2024-08-22,04:00,13.2,Clear,calm,0.0
+2024-08-22,05:00,12.9,Clear,calm,0.0
+2024-08-22,06:00,12.9,Clear,calm,0.0
+2024-08-22,07:00,14.1,Sunny,calm,0.0
+2024-08-22,08:00,16.1,Sunny,calm,0.0
+2024-08-22,09:00,18.2,Sunny,calm,0.0
+2024-08-22,10:00,20.2,Sunny,breezy,0.0
+2024-08-22,11:00,21.9,Sunny,breezy,0.0
+2024-08-22,12:00,23.1,Sunny,breezy,0.0
+2024-08-22,13:00,24.0,Partly cloudy,breezy,0.0
+2024-08-22,14:00,24.6,Sunny,breezy,0.0
+2024-08-22,15:00,24.8,Sunny,breezy,0.0
+2024-08-22,16:00,24.8,Sunny,breezy,0.0
+2024-08-22,17:00,24.2,Sunny,breezy,0.0
+2024-08-22,18:00,22.7,Sunny,breezy,0.0
+2024-08-22,19:00,21.0,Sunny,breezy,0.0
+2024-08-22,20:00,19.8,Clear,breezy,0.0
+2024-08-22,21:00,18.7,Clear,breezy,0.0
+2024-08-22,22:00,17.7,Clear,breezy,0.0
+2024-08-22,23:00,17.1,Clear,breezy,0.0
+2024-08-23,00:00,17.1,Clear,calm,0.0
+2024-08-23,01:00,16.6,Clear,calm,0.0
+2024-08-23,02:00,16.2,Clear,calm,0.0
+2024-08-23,03:00,15.9,Clear,calm,0.0
+2024-08-23,04:00,15.7,Clear,calm,0.0
+2024-08-23,05:00,15.5,Clear,calm,0.0
+2024-08-23,06:00,15.6,Clear,calm,0.0
+2024-08-23,07:00,16.9,Sunny,calm,0.0
+2024-08-23,08:00,19.0,Sunny,calm,0.0
+2024-08-23,09:00,21.3,Sunny,calm,0.0
+2024-08-23,10:00,23.3,Sunny,calm,0.0
+2024-08-23,11:00,24.8,Sunny,calm,0.0
+2024-08-23,12:00,25.8,Sunny,calm,0.0
+2024-08-23,13:00,26.4,Sunny,calm,0.0
+2024-08-23,14:00,26.6,Sunny,calm,0.0
+2024-08-23,15:00,26.3,Sunny,calm,0.0
+2024-08-23,16:00,25.6,Sunny,breezy,0.0
+2024-08-23,17:00,24.8,Sunny,breezy,0.0
+2024-08-23,18:00,23.5,Sunny,breezy,0.0
+2024-08-23,19:00,21.6,Sunny,breezy,0.0
+2024-08-23,20:00,20.1,Clear,breezy,0.0
+2024-08-23,21:00,19.0,Clear,breezy,0.0
+2024-08-23,22:00,18.3,Clear,calm,0.0
+2024-08-23,23:00,17.9,Clear,calm,0.0
+2024-08-24,00:00,17.6,Clear,calm,0.0
+2024-08-24,01:00,17.3,Clear,calm,0.0
+2024-08-24,02:00,17.2,Overcast,calm,0.0
+2024-08-24,03:00,17.1,Partly cloudy,calm,0.0
+2024-08-24,04:00,16.8,Clear,calm,0.0
+2024-08-24,05:00,16.6,Clear,calm,0.0
+2024-08-24,06:00,16.6,Clear,calm,0.0
+2024-08-24,07:00,17.9,Sunny,calm,0.0
+2024-08-24,08:00,19.8,Sunny,calm,0.0
+2024-08-24,09:00,21.8,Sunny,calm,0.0
+2024-08-24,10:00,23.6,Partly cloudy,calm,0.0
+2024-08-24,11:00,25.3,Cloudy,calm,0.0
+2024-08-24,12:00,26.6,Sunny,calm,0.0
+2024-08-24,13:00,27.0,Sunny,calm,0.0
+2024-08-24,14:00,26.5,Sunny,calm,0.0
+2024-08-24,15:00,26.7,Sunny,breezy,0.0
+2024-08-24,16:00,26.7,Sunny,breezy,0.0
+2024-08-24,17:00,26.0,Partly cloudy,breezy,0.0
+2024-08-24,18:00,24.5,Partly cloudy,breezy,0.0
+2024-08-24,19:00,22.8,Partly cloudy,breezy,0.0
+2024-08-24,20:00,21.2,Clear,breezy,0.0
+2024-08-24,21:00,20.1,Clear,breezy,0.0
+2024-08-24,22:00,19.4,Clear,calm,0.0
+2024-08-24,23:00,18.9,Clear,calm,0.0
+2024-08-25,00:00,18.1,Clear,calm,0.0
+2024-08-25,01:00,17.8,Clear,calm,0.0
+2024-08-25,02:00,17.5,Clear,calm,0.0
+2024-08-25,03:00,17.3,Clear,calm,0.0
+2024-08-25,04:00,17.0,Clear,calm,0.0
+2024-08-25,05:00,16.8,Clear,calm,0.0
+2024-08-25,06:00,16.8,Clear,calm,0.0
+2024-08-25,07:00,18.1,Sunny,calm,0.0
+2024-08-25,08:00,20.2,Sunny,calm,0.0
+2024-08-25,09:00,22.5,Sunny,calm,0.0
+2024-08-25,10:00,24.7,Sunny,calm,0.0
+2024-08-25,11:00,26.2,Sunny,calm,0.0
+2024-08-25,12:00,27.2,Sunny,calm,0.0
+2024-08-25,13:00,27.7,Sunny,calm,0.0
+2024-08-25,14:00,27.8,Sunny,breezy,0.0
+2024-08-25,15:00,27.8,Sunny,breezy,0.0
+2024-08-25,16:00,27.6,Sunny,breezy,0.0
+2024-08-25,17:00,26.9,Sunny,breezy,0.0
+2024-08-25,18:00,25.3,Sunny,breezy,0.0
+2024-08-25,19:00,23.4,Sunny,breezy,0.0
+2024-08-25,20:00,22.0,Clear,breezy,0.0
+2024-08-25,21:00,20.9,Clear,breezy,0.0
+2024-08-25,22:00,20.3,Clear,breezy,0.0
+2024-08-25,23:00,19.9,Clear,breezy,0.0
+2024-08-26,00:00,19.3,Clear,breezy,0.0
+2024-08-26,01:00,19.0,Clear,breezy,0.0
+2024-08-26,02:00,18.7,Clear,breezy,0.0
+2024-08-26,03:00,18.4,Clear,breezy,0.0
+2024-08-26,04:00,18.3,Clear,calm,0.0
+2024-08-26,05:00,18.2,Clear,calm,0.0
+2024-08-26,06:00,18.3,Clear,calm,0.0
+2024-08-26,07:00,19.7,Sunny,calm,0.0
+2024-08-26,08:00,21.5,Sunny,calm,0.0
+2024-08-26,09:00,23.4,Sunny,breezy,0.0
+2024-08-26,10:00,25.2,Sunny,breezy,0.0
+2024-08-26,11:00,26.6,Sunny,breezy,0.0
+2024-08-26,12:00,27.1,Sunny,breezy,0.0
+2024-08-26,13:00,27.6,Sunny,breezy,0.0
+2024-08-26,14:00,28.2,Sunny,breezy,0.0
+2024-08-26,15:00,28.1,Partly cloudy,breezy,0.0
+2024-08-26,16:00,27.0,Partly cloudy,breezy,0.0
+2024-08-26,17:00,26.3,Patchy rain possible,breezy,0.05
+2024-08-26,18:00,24.9,Sunny,breezy,0.0
+2024-08-26,19:00,23.0,Patchy rain possible,breezy,0.05
+2024-08-26,20:00,21.6,Patchy rain possible,breezy,0.16
+2024-08-26,21:00,20.8,Patchy rain possible,breezy,0.21
+2024-08-26,22:00,20.2,Patchy rain possible,breezy,0.02
+2024-08-26,23:00,19.8,Mist,breezy,0.37
+2024-08-27,00:00,21.7,Clear,calm,0.0
+2024-08-27,01:00,21.3,Clear,calm,0.0
+2024-08-27,02:00,20.9,Clear,calm,0.0
+2024-08-27,03:00,20.4,Clear,calm,0.0
+2024-08-27,04:00,20.0,Clear,calm,0.0
+2024-08-27,05:00,19.7,Clear,calm,0.0
+2024-08-27,06:00,19.7,Clear,calm,0.0
+2024-08-27,07:00,20.9,Sunny,calm,0.0
+2024-08-27,08:00,22.8,Sunny,calm,0.0
+2024-08-27,09:00,24.9,Sunny,calm,0.0
+2024-08-27,10:00,26.8,Sunny,calm,0.0
+2024-08-27,11:00,28.2,Sunny,calm,0.0
+2024-08-27,12:00,28.9,Sunny,calm,0.0
+2024-08-27,13:00,29.1,Partly cloudy,calm,0.0
+2024-08-27,14:00,28.4,Partly cloudy,breezy,0.0
+2024-08-27,15:00,27.2,Partly cloudy,breezy,0.0
+2024-08-27,16:00,26.1,Partly cloudy,breezy,0.0
+2024-08-27,17:00,25.8,Partly cloudy,breezy,0.0
+2024-08-27,18:00,24.9,Partly cloudy,breezy,0.0
+2024-08-27,19:00,24.0,Partly cloudy,calm,0.0
+2024-08-27,20:00,23.5,Partly cloudy,calm,0.0
+2024-08-27,21:00,23.0,Partly cloudy,calm,0.0
+2024-08-27,22:00,22.5,Clear,calm,0.0
+2024-08-27,23:00,22.1,Partly cloudy,calm,0.0
+2024-08-28,00:00,20.9,Clear,calm,0.0
+2024-08-28,01:00,20.7,Clear,breezy,0.0
+2024-08-28,02:00,20.6,Clear,calm,0.0
+2024-08-28,03:00,20.5,Clear,calm,0.0
+2024-08-28,04:00,20.5,Clear,calm,0.0
+2024-08-28,05:00,20.6,Clear,calm,0.0
+2024-08-28,06:00,20.9,Clear,calm,0.0
+2024-08-28,07:00,22.3,Sunny,calm,0.0
+2024-08-28,08:00,24.3,Sunny,calm,0.0
+2024-08-28,09:00,26.4,Sunny,breezy,0.0
+2024-08-28,10:00,28.4,Sunny,breezy,0.0
+2024-08-28,11:00,30.0,Sunny,breezy,0.0
+2024-08-28,12:00,31.3,Sunny,breezy,0.0
+2024-08-28,13:00,32.4,Sunny,breezy,0.0
+2024-08-28,14:00,33.2,Sunny,breezy,0.0
+2024-08-28,15:00,33.6,Sunny,breezy,0.0
+2024-08-28,16:00,33.5,Sunny,breezy,0.0
+2024-08-28,17:00,32.8,Sunny,breezy,0.0
+2024-08-28,18:00,30.8,Sunny,breezy,0.0
+2024-08-28,19:00,28.6,Sunny,breezy,0.0
+2024-08-28,20:00,27.1,Clear,breezy,0.0
+2024-08-28,21:00,25.4,Clear,breezy,0.0
+2024-08-28,22:00,24.2,Patchy rain possible,calm,1.77
+2024-08-28,23:00,23.5,Moderate or heavy rain shower,calm,2.52
+2024-08-29,00:00,23.5,Patchy rain possible,breezy,0.53
+2024-08-29,01:00,22.7,Moderate or heavy rain shower,calm,2.6
+2024-08-29,02:00,22.4,Moderate or heavy rain shower,breezy,2.83
+2024-08-29,03:00,21.9,Light rain shower,breezy,1.47
+2024-08-29,04:00,21.5,Light rain shower,windy,2.08
+2024-08-29,05:00,21.1,Light rain shower,windy,1.87
+2024-08-29,06:00,20.8,Patchy rain possible,windy,0.07
+2024-08-29,07:00,20.4,Overcast,windy,0.0
+2024-08-29,08:00,20.5,Patchy rain possible,windy,0.02
+2024-08-29,09:00,20.9,Patchy rain possible,breezy,0.01
+2024-08-29,10:00,21.3,Patchy rain possible,breezy,0.01
+2024-08-29,11:00,21.5,Patchy rain possible,breezy,0.01
+2024-08-29,12:00,21.8,Patchy rain possible,windy,0.01
+2024-08-29,13:00,22.5,Patchy rain possible,windy,0.01
+2024-08-29,14:00,22.7,Overcast,windy,0.0
+2024-08-29,15:00,22.4,Patchy rain possible,windy,0.03
+2024-08-29,16:00,22.1,Patchy rain possible,windy,0.06
+2024-08-29,17:00,21.5,Patchy rain possible,windy,0.03
+2024-08-29,18:00,20.6,Overcast,windy,0.0
+2024-08-29,19:00,20.0,Patchy rain possible,windy,0.04
+2024-08-29,20:00,19.9,Cloudy,windy,0.0
+2024-08-29,21:00,19.9,Cloudy,breezy,0.0
+2024-08-29,22:00,19.9,Cloudy,breezy,0.0
+2024-08-29,23:00,19.9,Cloudy,breezy,0.0
+2024-08-30,00:00,19.9,Cloudy,breezy,0.0
+2024-08-30,01:00,19.7,Cloudy,breezy,0.0
+2024-08-30,02:00,19.6,Cloudy,breezy,0.0
+2024-08-30,03:00,19.5,Cloudy,breezy,0.0
+2024-08-30,04:00,19.4,Cloudy,breezy,0.0
+2024-08-30,05:00,19.3,Cloudy,breezy,0.0
+2024-08-30,06:00,19.3,Cloudy,breezy,0.0
+2024-08-30,07:00,19.8,Partly cloudy,breezy,0.0
+2024-08-30,08:00,20.6,Cloudy,breezy,0.0
+2024-08-30,09:00,21.4,Cloudy,breezy,0.0
+2024-08-30,10:00,22.2,Partly cloudy,windy,0.0
+2024-08-30,11:00,22.8,Partly cloudy,breezy,0.0
+2024-08-30,12:00,23.3,Partly cloudy,breezy,0.0
+2024-08-30,13:00,23.7,Partly cloudy,breezy,0.0
+2024-08-30,14:00,23.8,Partly cloudy,breezy,0.0
+2024-08-30,15:00,23.7,Cloudy,breezy,0.0
+2024-08-30,16:00,23.3,Overcast,breezy,0.0
+2024-08-30,17:00,22.6,Overcast,breezy,0.0
+2024-08-30,18:00,21.9,Overcast,breezy,0.0
+2024-08-30,19:00,21.4,Patchy rain possible,breezy,0.01
+2024-08-30,20:00,21.2,Overcast,breezy,0.0
+2024-08-30,21:00,21.1,Cloudy,breezy,0.0
+2024-08-30,22:00,21.1,Cloudy,breezy,0.0
+2024-08-30,23:00,21.1,Cloudy,breezy,0.0
+2024-08-31,00:00,20.9,Patchy rain possible,breezy,0.01
+2024-08-31,01:00,20.9,Patchy rain possible,calm,0.03
+2024-08-31,02:00,20.9,Patchy rain possible,calm,0.06
+2024-08-31,03:00,20.9,Patchy rain possible,calm,0.05
+2024-08-31,04:00,20.9,Overcast,calm,0.0
+2024-08-31,05:00,20.9,Patchy rain possible,calm,0.01
+2024-08-31,06:00,21.0,Patchy rain possible,calm,0.03
+2024-08-31,07:00,21.2,Patchy rain possible,calm,0.08
+2024-08-31,08:00,21.6,Patchy rain possible,calm,0.06
+2024-08-31,09:00,22.3,Patchy rain possible,calm,0.04
+2024-08-31,10:00,23.9,Sunny,breezy,0.0
+2024-08-31,11:00,25.3,Partly cloudy,breezy,0.0
+2024-08-31,12:00,26.2,Patchy rain possible,breezy,0.02
+2024-08-31,13:00,26.5,Patchy rain possible,breezy,0.02
+2024-08-31,14:00,26.7,Patchy rain possible,breezy,0.01
+2024-08-31,15:00,26.7,Partly cloudy,breezy,0.0
+2024-08-31,16:00,26.4,Sunny,breezy,0.0
+2024-08-31,17:00,25.6,Sunny,breezy,0.0
+2024-08-31,18:00,24.5,Sunny,breezy,0.0
+2024-08-31,19:00,23.4,Sunny,breezy,0.0
+2024-08-31,20:00,22.6,Clear,breezy,0.0
+2024-08-31,21:00,22.2,Clear,breezy,0.0
+2024-08-31,22:00,22.0,Clear,breezy,0.0
+2024-08-31,23:00,22.1,Clear,breezy,0.0
+2024-09-01,00:00,21.4,Patchy rain possible,calm,1.09
+2024-09-01,01:00,21.1,Mist,calm,0.0
+2024-09-01,02:00,21.1,Mist,calm,0.05
+2024-09-01,03:00,21.0,Mist,calm,0.02
+2024-09-01,04:00,20.9,Mist,calm,0.02
+2024-09-01,05:00,20.7,Patchy rain possible,calm,0.31
+2024-09-01,06:00,20.8,Light rain shower,calm,0.63
+2024-09-01,07:00,21.2,Light rain shower,calm,1.32
+2024-09-01,08:00,21.9,Light rain shower,calm,0.88
+2024-09-01,09:00,22.6,Light rain shower,calm,0.96
+2024-09-01,10:00,23.2,Light rain shower,calm,0.52
+2024-09-01,11:00,24.1,Light rain shower,calm,0.22
+2024-09-01,12:00,26.0,Patchy rain possible,calm,0.42
+2024-09-01,13:00,27.0,Light rain shower,breezy,0.21
+2024-09-01,14:00,27.8,Light rain shower,breezy,0.93
+2024-09-01,15:00,27.9,Light rain shower,breezy,0.23
+2024-09-01,16:00,26.7,Light rain shower,breezy,0.78
+2024-09-01,17:00,25.5,Light rain shower,calm,1.16
+2024-09-01,18:00,24.6,Light rain shower,calm,0.94
+2024-09-01,19:00,23.8,Light rain shower,calm,0.23
+2024-09-01,20:00,23.1,Partly cloudy,calm,0.0
+2024-09-01,21:00,22.7,Partly cloudy,calm,0.0
+2024-09-01,22:00,22.5,Patchy rain possible,calm,0.01
+2024-09-01,23:00,22.1,Patchy rain possible,calm,0.11
+2024-09-02,00:00,21.8,Patchy rain possible,calm,0.05
+2024-09-02,01:00,21.5,Clear,calm,0.0
+2024-09-02,02:00,21.3,Patchy rain possible,calm,0.07
+2024-09-02,03:00,20.9,Patchy rain possible,calm,0.01
+2024-09-02,04:00,20.4,Clear,breezy,0.0
+2024-09-02,05:00,19.9,Clear,breezy,0.0
+2024-09-02,06:00,19.5,Clear,breezy,0.0
+2024-09-02,07:00,19.7,Sunny,breezy,0.0
+2024-09-02,08:00,20.4,Sunny,breezy,0.0
+2024-09-02,09:00,21.6,Partly cloudy,breezy,0.0
+2024-09-02,10:00,22.7,Partly cloudy,breezy,0.0
+2024-09-02,11:00,23.7,Sunny,breezy,0.0
+2024-09-02,12:00,24.4,Overcast,breezy,0.0
+2024-09-02,13:00,25.2,Overcast,breezy,0.0
+2024-09-02,14:00,25.8,Overcast,breezy,0.0
+2024-09-02,15:00,26.1,Sunny,breezy,0.0
+2024-09-02,16:00,25.9,Sunny,breezy,0.0
+2024-09-02,17:00,25.2,Sunny,calm,0.0
+2024-09-02,18:00,23.3,Sunny,calm,0.0
+2024-09-02,19:00,21.3,Sunny,calm,0.0
+2024-09-02,20:00,20.4,Clear,calm,0.0
+2024-09-02,21:00,19.7,Clear,breezy,0.0
+2024-09-02,22:00,18.9,Clear,breezy,0.0
+2024-09-02,23:00,17.9,Clear,breezy,0.0
+2024-09-03,00:00,17.3,Clear,breezy,0.0
+2024-09-03,01:00,16.4,Clear,breezy,0.0
+2024-09-03,02:00,15.6,Clear,breezy,0.0
+2024-09-03,03:00,14.9,Clear,breezy,0.0
+2024-09-03,04:00,14.5,Clear,breezy,0.0
+2024-09-03,05:00,14.2,Clear,breezy,0.0
+2024-09-03,06:00,14.0,Clear,breezy,0.0
+2024-09-03,07:00,14.8,Sunny,breezy,0.0
+2024-09-03,08:00,16.5,Sunny,breezy,0.0
+2024-09-03,09:00,18.2,Sunny,breezy,0.0
+2024-09-03,10:00,19.7,Sunny,breezy,0.0
+2024-09-03,11:00,20.7,Sunny,breezy,0.0
+2024-09-03,12:00,21.5,Sunny,breezy,0.0
+2024-09-03,13:00,22.0,Sunny,breezy,0.0
+2024-09-03,14:00,22.2,Sunny,breezy,0.0
+2024-09-03,15:00,22.2,Sunny,breezy,0.0
+2024-09-03,16:00,21.8,Sunny,breezy,0.0
+2024-09-03,17:00,20.9,Sunny,breezy,0.0
+2024-09-03,18:00,19.3,Sunny,breezy,0.0
+2024-09-03,19:00,17.7,Sunny,breezy,0.0
+2024-09-03,20:00,16.8,Clear,breezy,0.0
+2024-09-03,21:00,16.3,Clear,calm,0.0
+2024-09-03,22:00,15.9,Clear,calm,0.0
+2024-09-03,23:00,15.7,Clear,calm,0.0
+2024-09-04,00:00,15.8,Clear,calm,0.0
+2024-09-04,01:00,15.6,Clear,calm,0.0
+2024-09-04,02:00,15.4,Clear,calm,0.0
+2024-09-04,03:00,15.2,Clear,calm,0.0
+2024-09-04,04:00,14.9,Clear,calm,0.0
+2024-09-04,05:00,14.8,Clear,calm,0.0
+2024-09-04,06:00,14.8,Clear,calm,0.0
+2024-09-04,07:00,15.7,Partly cloudy,calm,0.0
+2024-09-04,08:00,17.5,Cloudy,calm,0.0
+2024-09-04,09:00,19.5,Overcast,breezy,0.0
+2024-09-04,10:00,20.9,Overcast,breezy,0.0
+2024-09-04,11:00,21.8,Overcast,breezy,0.0
+2024-09-04,12:00,22.4,Overcast,breezy,0.0
+2024-09-04,13:00,22.7,Overcast,breezy,0.0
+2024-09-04,14:00,22.8,Overcast,breezy,0.0
+2024-09-04,15:00,22.7,Cloudy,breezy,0.0
+2024-09-04,16:00,22.3,Sunny,breezy,0.0
+2024-09-04,17:00,21.6,Partly cloudy,breezy,0.0
+2024-09-04,18:00,20.3,Partly cloudy,breezy,0.0
+2024-09-04,19:00,19.1,Overcast,breezy,0.0
+2024-09-04,20:00,18.3,Partly cloudy,breezy,0.0
+2024-09-04,21:00,17.9,Partly cloudy,breezy,0.0
+2024-09-04,22:00,17.6,Clear,breezy,0.0
+2024-09-04,23:00,17.3,Clear,breezy,0.0
+2024-09-05,00:00,16.8,Clear,breezy,0.0
+2024-09-05,01:00,16.7,Clear,calm,0.0
+2024-09-05,02:00,16.5,Clear,breezy,0.0
+2024-09-05,03:00,16.4,Clear,breezy,0.0
+2024-09-05,04:00,16.3,Clear,breezy,0.0
+2024-09-05,05:00,16.1,Clear,breezy,0.0
+2024-09-05,06:00,16.3,Partly cloudy,breezy,0.0
+2024-09-05,07:00,17.6,Partly cloudy,breezy,0.0
+2024-09-05,08:00,19.6,Partly cloudy,breezy,0.0
+2024-09-05,09:00,21.1,Partly cloudy,breezy,0.0
+2024-09-05,10:00,22.3,Partly cloudy,breezy,0.0
+2024-09-05,11:00,23.2,Sunny,breezy,0.0
+2024-09-05,12:00,23.8,Sunny,breezy,0.0
+2024-09-05,13:00,24.2,Sunny,breezy,0.0
+2024-09-05,14:00,24.3,Sunny,windy,0.0
+2024-09-05,15:00,24.1,Sunny,windy,0.0
+2024-09-05,16:00,23.8,Sunny,windy,0.0
+2024-09-05,17:00,23.2,Sunny,breezy,0.0
+2024-09-05,18:00,22.1,Sunny,breezy,0.0
+2024-09-05,19:00,20.7,Sunny,breezy,0.0
+2024-09-05,20:00,19.7,Clear,breezy,0.0
+2024-09-05,21:00,19.2,Clear,breezy,0.0
+2024-09-05,22:00,18.9,Clear,breezy,0.0
+2024-09-05,23:00,18.9,Patchy rain possible,breezy,0.01
+2024-09-06,00:00,20.2,Patchy rain possible,breezy,0.01
+2024-09-06,01:00,20.1,Patchy rain possible,breezy,0.02
+2024-09-06,02:00,20.1,Patchy rain possible,breezy,0.06
+2024-09-06,03:00,20.1,Patchy rain possible,breezy,0.04
+2024-09-06,04:00,20.0,Patchy rain possible,breezy,0.04
+2024-09-06,05:00,20.0,Patchy rain possible,breezy,0.07
+2024-09-06,06:00,20.0,Patchy rain possible,breezy,0.08
+2024-09-06,07:00,20.2,Patchy rain possible,breezy,0.04
+2024-09-06,08:00,20.6,Patchy rain possible,breezy,0.03
+2024-09-06,09:00,21.1,Patchy rain possible,breezy,0.05
+2024-09-06,10:00,21.8,Patchy rain possible,breezy,0.08
+2024-09-06,11:00,22.7,Patchy rain possible,breezy,0.07
+2024-09-06,12:00,23.4,Light rain shower,breezy,0.26
+2024-09-06,13:00,23.7,Patchy rain possible,windy,0.12
+2024-09-06,14:00,23.9,Patchy rain possible,breezy,0.05
+2024-09-06,15:00,23.9,Patchy rain possible,breezy,0.02
+2024-09-06,16:00,23.5,Patchy rain possible,windy,0.02
+2024-09-06,17:00,22.9,Patchy rain possible,breezy,0.02
+2024-09-06,18:00,22.0,Partly cloudy,breezy,0.0
+2024-09-06,19:00,20.9,Partly cloudy,breezy,0.0
+2024-09-06,20:00,20.2,Partly cloudy,breezy,0.0
+2024-09-06,21:00,19.8,Partly cloudy,breezy,0.0
+2024-09-06,22:00,19.4,Partly cloudy,breezy,0.0
+2024-09-06,23:00,19.2,Partly cloudy,calm,0.0
+2024-09-07,00:00,19.6,Mist,calm,0.01
+2024-09-07,01:00,19.8,Patchy rain possible,calm,0.03
+2024-09-07,02:00,20.0,Patchy rain possible,calm,0.02
+2024-09-07,03:00,20.2,Mist,calm,0.05
+2024-09-07,04:00,20.1,Mist,breezy,0.01
+2024-09-07,05:00,20.0,Mist,breezy,0.02
+2024-09-07,06:00,20.0,Mist,calm,0.12
+2024-09-07,07:00,20.4,Light rain shower,calm,0.22
+2024-09-07,08:00,21.2,Light rain shower,calm,0.81
+2024-09-07,09:00,22.1,Light rain shower,breezy,1.06
+2024-09-07,10:00,22.5,Light rain shower,breezy,1.32
+2024-09-07,11:00,23.1,Light rain shower,breezy,0.88
+2024-09-07,12:00,23.6,Patchy rain possible,breezy,0.57
+2024-09-07,13:00,23.5,Patchy rain possible,breezy,0.46
+2024-09-07,14:00,23.0,Light rain shower,breezy,0.61
+2024-09-07,15:00,23.2,Light rain shower,windy,0.16
+2024-09-07,16:00,23.5,Partly cloudy,breezy,0.0
+2024-09-07,17:00,22.9,Overcast,breezy,0.0
+2024-09-07,18:00,21.4,Cloudy,breezy,0.0
+2024-09-07,19:00,19.4,Partly cloudy,breezy,0.0
+2024-09-07,20:00,18.3,Partly cloudy,breezy,0.0
+2024-09-07,21:00,17.2,Clear,breezy,0.0
+2024-09-07,22:00,16.1,Clear,breezy,0.0
+2024-09-07,23:00,15.1,Clear,breezy,0.0
+2024-09-08,00:00,16.3,Clear,breezy,0.0
+2024-09-08,01:00,15.5,Clear,breezy,0.0
+2024-09-08,02:00,14.7,Clear,breezy,0.0
+2024-09-08,03:00,13.7,Clear,breezy,0.0
+2024-09-08,04:00,12.8,Clear,breezy,0.0
+2024-09-08,05:00,12.0,Clear,breezy,0.0
+2024-09-08,06:00,11.5,Clear,breezy,0.0
+2024-09-08,07:00,12.3,Sunny,breezy,0.0
+2024-09-08,08:00,13.6,Sunny,breezy,0.0
+2024-09-08,09:00,15.1,Sunny,breezy,0.0
+2024-09-08,10:00,16.5,Sunny,breezy,0.0
+2024-09-08,11:00,17.9,Sunny,breezy,0.0
+2024-09-08,12:00,19.2,Sunny,breezy,0.0
+2024-09-08,13:00,20.3,Sunny,breezy,0.0
+2024-09-08,14:00,21.1,Sunny,breezy,0.0
+2024-09-08,15:00,21.6,Sunny,breezy,0.0
+2024-09-08,16:00,21.6,Sunny,breezy,0.0
+2024-09-08,17:00,21.1,Sunny,breezy,0.0
+2024-09-08,18:00,19.4,Sunny,breezy,0.0
+2024-09-08,19:00,17.7,Sunny,breezy,0.0
+2024-09-08,20:00,16.6,Clear,calm,0.0
+2024-09-08,21:00,15.8,Clear,calm,0.0
+2024-09-08,22:00,15.2,Clear,calm,0.0
+2024-09-08,23:00,14.7,Clear,calm,0.0
+2024-09-09,00:00,13.9,Clear,calm,0.0
+2024-09-09,01:00,13.4,Clear,calm,0.0
+2024-09-09,02:00,12.8,Clear,breezy,0.0
+2024-09-09,03:00,12.5,Clear,calm,0.0
+2024-09-09,04:00,12.1,Clear,calm,0.0
+2024-09-09,05:00,11.9,Clear,calm,0.0
+2024-09-09,06:00,11.8,Clear,calm,0.0
+2024-09-09,07:00,12.9,Sunny,calm,0.0
+2024-09-09,08:00,15.0,Sunny,calm,0.0
+2024-09-09,09:00,17.3,Sunny,calm,0.0
+2024-09-09,10:00,19.4,Sunny,calm,0.0
+2024-09-09,11:00,21.2,Sunny,calm,0.0
+2024-09-09,12:00,22.6,Sunny,breezy,0.0
+2024-09-09,13:00,23.6,Sunny,breezy,0.0
+2024-09-09,14:00,24.3,Sunny,breezy,0.0
+2024-09-09,15:00,24.7,Sunny,breezy,0.0
+2024-09-09,16:00,24.6,Sunny,breezy,0.0
+2024-09-09,17:00,24.0,Sunny,breezy,0.0
+2024-09-09,18:00,22.2,Sunny,breezy,0.0
+2024-09-09,19:00,20.3,Sunny,breezy,0.0
+2024-09-09,20:00,19.0,Clear,breezy,0.0
+2024-09-09,21:00,18.3,Clear,breezy,0.0
+2024-09-09,22:00,17.9,Clear,breezy,0.0
+2024-09-09,23:00,17.4,Clear,breezy,0.0
+2024-09-10,00:00,16.5,Clear,breezy,0.0
+2024-09-10,01:00,16.0,Clear,breezy,0.0
+2024-09-10,02:00,15.8,Clear,breezy,0.0
+2024-09-10,03:00,15.7,Clear,breezy,0.0
+2024-09-10,04:00,15.5,Clear,breezy,0.0
+2024-09-10,05:00,15.3,Clear,breezy,0.0
+2024-09-10,06:00,15.1,Clear,breezy,0.0
+2024-09-10,07:00,16.3,Sunny,breezy,0.0
+2024-09-10,08:00,18.5,Sunny,breezy,0.0
+2024-09-10,09:00,21.0,Sunny,breezy,0.0
+2024-09-10,10:00,23.1,Sunny,breezy,0.0
+2024-09-10,11:00,24.9,Sunny,calm,0.0
+2024-09-10,12:00,26.3,Sunny,calm,0.0
+2024-09-10,13:00,27.3,Sunny,calm,0.0
+2024-09-10,14:00,28.0,Sunny,calm,0.0
+2024-09-10,15:00,28.1,Sunny,calm,0.0
+2024-09-10,16:00,27.7,Sunny,calm,0.0
+2024-09-10,17:00,26.3,Sunny,calm,0.0
+2024-09-10,18:00,23.7,Sunny,calm,0.0
+2024-09-10,19:00,21.6,Sunny,calm,0.0
+2024-09-10,20:00,20.3,Clear,calm,0.0
+2024-09-10,21:00,19.5,Clear,calm,0.0
+2024-09-10,22:00,19.0,Clear,calm,0.0
+2024-09-10,23:00,18.7,Clear,calm,0.0
+2024-09-11,00:00,17.5,Clear,calm,0.0
+2024-09-11,01:00,17.1,Clear,calm,0.0
+2024-09-11,02:00,16.7,Clear,calm,0.0
+2024-09-11,03:00,16.4,Clear,calm,0.0
+2024-09-11,04:00,16.0,Clear,calm,0.0
+2024-09-11,05:00,15.7,Clear,calm,0.0
+2024-09-11,06:00,15.5,Clear,calm,0.0
+2024-09-11,07:00,16.4,Sunny,calm,0.0
+2024-09-11,08:00,18.3,Sunny,calm,0.0
+2024-09-11,09:00,20.5,Sunny,breezy,0.0
+2024-09-11,10:00,22.5,Sunny,calm,0.0
+2024-09-11,11:00,24.0,Sunny,calm,0.0
+2024-09-11,12:00,25.1,Sunny,calm,0.0
+2024-09-11,13:00,25.5,Sunny,breezy,0.0
+2024-09-11,14:00,25.4,Sunny,breezy,0.0
+2024-09-11,15:00,24.8,Sunny,breezy,0.0
+2024-09-11,16:00,24.0,Sunny,breezy,0.0
+2024-09-11,17:00,23.0,Sunny,breezy,0.0
+2024-09-11,18:00,21.2,Sunny,breezy,0.0
+2024-09-11,19:00,19.7,Sunny,calm,0.0
+2024-09-11,20:00,18.8,Clear,calm,0.0
+2024-09-11,21:00,18.3,Clear,calm,0.0
+2024-09-11,22:00,18.0,Clear,calm,0.0
+2024-09-11,23:00,17.8,Clear,calm,0.0
+2024-09-12,00:00,17.4,Clear,calm,0.0
+2024-09-12,01:00,17.3,Clear,calm,0.0
+2024-09-12,02:00,17.2,Clear,calm,0.0
+2024-09-12,03:00,17.0,Clear,calm,0.0
+2024-09-12,04:00,16.8,Clear,calm,0.0
+2024-09-12,05:00,16.5,Clear,calm,0.0
+2024-09-12,06:00,16.4,Clear,calm,0.0
+2024-09-12,07:00,17.4,Sunny,calm,0.0
+2024-09-12,08:00,19.1,Sunny,calm,0.0
+2024-09-12,09:00,20.9,Sunny,calm,0.0
+2024-09-12,10:00,22.4,Sunny,calm,0.0
+2024-09-12,11:00,23.4,Sunny,calm,0.0
+2024-09-12,12:00,24.1,Sunny,breezy,0.0
+2024-09-12,13:00,24.4,Sunny,breezy,0.0
+2024-09-12,14:00,24.5,Sunny,breezy,0.0
+2024-09-12,15:00,24.3,Sunny,breezy,0.0
+2024-09-12,16:00,23.8,Sunny,breezy,0.0
+2024-09-12,17:00,22.9,Sunny,breezy,0.0
+2024-09-12,18:00,21.0,Sunny,calm,0.0
+2024-09-12,19:00,19.5,Sunny,calm,0.0
+2024-09-12,20:00,18.8,Clear,calm,0.0
+2024-09-12,21:00,18.4,Clear,calm,0.0
+2024-09-12,22:00,18.2,Clear,calm,0.0
+2024-09-12,23:00,17.9,Clear,calm,0.0
+2024-09-13,00:00,18.1,Clear,calm,0.0
+2024-09-13,01:00,18.1,Clear,calm,0.0
+2024-09-13,02:00,18.0,Clear,calm,0.0
+2024-09-13,03:00,17.8,Clear,calm,0.0
+2024-09-13,04:00,17.6,Clear,calm,0.0
+2024-09-13,05:00,17.4,Mist,calm,0.0
+2024-09-13,06:00,17.2,Mist,calm,0.0
+2024-09-13,07:00,17.9,Mist,calm,0.0
+2024-09-13,08:00,19.4,Sunny,calm,0.0
+2024-09-13,09:00,21.0,Partly cloudy,calm,0.0
+2024-09-13,10:00,22.4,Sunny,calm,0.0
+2024-09-13,11:00,23.5,Cloudy,breezy,0.0
+2024-09-13,12:00,24.4,Cloudy,breezy,0.0
+2024-09-13,13:00,24.9,Sunny,breezy,0.0
+2024-09-13,14:00,25.0,Sunny,breezy,0.0
+2024-09-13,15:00,24.8,Sunny,breezy,0.0
+2024-09-13,16:00,24.3,Overcast,breezy,0.0
+2024-09-13,17:00,23.3,Partly cloudy,breezy,0.0
+2024-09-13,18:00,21.7,Partly cloudy,calm,0.0
+2024-09-13,19:00,20.4,Sunny,calm,0.0
+2024-09-13,20:00,19.6,Partly cloudy,calm,0.0
+2024-09-13,21:00,19.1,Clear,calm,0.0
+2024-09-13,22:00,18.7,Clear,calm,0.0
+2024-09-13,23:00,18.5,Clear,calm,0.0
+2024-09-14,00:00,18.7,Mist,calm,0.0
+2024-09-14,01:00,18.5,Mist,calm,0.0
+2024-09-14,02:00,18.3,Mist,calm,0.0
+2024-09-14,03:00,18.0,Mist,calm,0.0
+2024-09-14,04:00,17.7,Mist,calm,0.0
+2024-09-14,05:00,17.4,Mist,calm,0.0
+2024-09-14,06:00,17.1,Mist,calm,0.0
+2024-09-14,07:00,17.9,Sunny,calm,0.0
+2024-09-14,08:00,19.6,Sunny,calm,0.0
+2024-09-14,09:00,21.6,Sunny,breezy,0.0
+2024-09-14,10:00,23.2,Sunny,breezy,0.0
+2024-09-14,11:00,24.4,Sunny,breezy,0.0
+2024-09-14,12:00,25.0,Sunny,breezy,0.0
+2024-09-14,13:00,25.2,Sunny,breezy,0.0
+2024-09-14,14:00,25.2,Sunny,breezy,0.0
+2024-09-14,15:00,25.0,Sunny,breezy,0.0
+2024-09-14,16:00,24.5,Sunny,breezy,0.0
+2024-09-14,17:00,23.4,Sunny,breezy,0.0
+2024-09-14,18:00,21.7,Sunny,breezy,0.0
+2024-09-14,19:00,20.3,Sunny,calm,0.0
+2024-09-14,20:00,19.5,Clear,breezy,0.0
+2024-09-14,21:00,19.1,Clear,breezy,0.0
+2024-09-14,22:00,18.8,Clear,calm,0.0
+2024-09-14,23:00,18.6,Clear,calm,0.0
+2024-09-15,00:00,18.5,Clear,calm,0.0
+2024-09-15,01:00,18.3,Clear,calm,0.0
+2024-09-15,02:00,18.1,Clear,calm,0.0
+2024-09-15,03:00,17.9,Clear,calm,0.0
+2024-09-15,04:00,17.7,Clear,calm,0.0
+2024-09-15,05:00,17.6,Clear,calm,0.0
+2024-09-15,06:00,17.5,Clear,calm,0.0
+2024-09-15,07:00,18.5,Sunny,calm,0.0
+2024-09-15,08:00,20.2,Sunny,breezy,0.0
+2024-09-15,09:00,21.8,Sunny,breezy,0.0
+2024-09-15,10:00,23.1,Sunny,breezy,0.0
+2024-09-15,11:00,24.0,Sunny,breezy,0.0
+2024-09-15,12:00,24.5,Sunny,breezy,0.0
+2024-09-15,13:00,24.7,Sunny,breezy,0.0
+2024-09-15,14:00,24.7,Sunny,breezy,0.0
+2024-09-15,15:00,24.4,Sunny,breezy,0.0
+2024-09-15,16:00,23.8,Sunny,breezy,0.0
+2024-09-15,17:00,22.9,Sunny,breezy,0.0
+2024-09-15,18:00,21.5,Sunny,breezy,0.0
+2024-09-15,19:00,20.2,Sunny,breezy,0.0
+2024-09-15,20:00,19.3,Clear,breezy,0.0
+2024-09-15,21:00,18.7,Clear,breezy,0.0
+2024-09-15,22:00,18.4,Clear,breezy,0.0
+2024-09-15,23:00,18.1,Clear,breezy,0.0
+2024-09-16,00:00,18.5,Partly cloudy,breezy,0.0
+2024-09-16,01:00,18.5,Partly cloudy,breezy,0.0
+2024-09-16,02:00,18.3,Clear,breezy,0.0
+2024-09-16,03:00,17.8,Clear,breezy,0.0
+2024-09-16,04:00,17.4,Clear,breezy,0.0
+2024-09-16,05:00,17.2,Clear,breezy,0.0
+2024-09-16,06:00,17.3,Partly cloudy,breezy,0.0
+2024-09-16,07:00,18.4,Partly cloudy,breezy,0.0
+2024-09-16,08:00,20.0,Partly cloudy,breezy,0.0
+2024-09-16,09:00,21.2,Partly cloudy,windy,0.0
+2024-09-16,10:00,22.4,Partly cloudy,windy,0.0
+2024-09-16,11:00,23.3,Partly cloudy,windy,0.0
+2024-09-16,12:00,23.9,Partly cloudy,windy,0.0
+2024-09-16,13:00,24.2,Cloudy,windy,0.0
+2024-09-16,14:00,24.1,Overcast,windy,0.0
+2024-09-16,15:00,23.4,Overcast,windy,0.0
+2024-09-16,16:00,22.6,Patchy rain possible,windy,0.01
+2024-09-16,17:00,22.3,Overcast,windy,0.0
+2024-09-16,18:00,21.9,Patchy rain possible,windy,0.01
+2024-09-16,19:00,21.6,Patchy rain possible,windy,0.01
+2024-09-16,20:00,21.4,Partly cloudy,windy,0.0
+2024-09-16,21:00,21.3,Partly cloudy,windy,0.0
+2024-09-16,22:00,21.3,Patchy rain possible,windy,0.01
+2024-09-16,23:00,21.3,Patchy rain possible,windy,0.03
+2024-09-17,00:00,20.4,Overcast,breezy,0.0
+2024-09-17,01:00,20.5,Overcast,breezy,0.0
+2024-09-17,02:00,20.5,Overcast,breezy,0.0
+2024-09-17,03:00,20.5,Overcast,breezy,0.0
+2024-09-17,04:00,20.5,Overcast,breezy,0.0
+2024-09-17,05:00,20.6,Overcast,breezy,0.0
+2024-09-17,06:00,20.6,Overcast,breezy,0.0
+2024-09-17,07:00,20.7,Overcast,breezy,0.0
+2024-09-17,08:00,21.5,Overcast,breezy,0.0
+2024-09-17,09:00,22.3,Overcast,breezy,0.0
+2024-09-17,10:00,23.2,Overcast,windy,0.0
+2024-09-17,11:00,23.1,Partly cloudy,windy,0.0
+2024-09-17,12:00,22.8,Partly cloudy,windy,0.0
+2024-09-17,13:00,22.5,Partly cloudy,windy,0.0
+2024-09-17,14:00,22.3,Overcast,windy,0.0
+2024-09-17,15:00,22.3,Overcast,windy,0.0
+2024-09-17,16:00,22.3,Overcast,breezy,0.0
+2024-09-17,17:00,22.1,Overcast,windy,0.0
+2024-09-17,18:00,22.0,Overcast,breezy,0.0
+2024-09-17,19:00,21.8,Overcast,breezy,0.0
+2024-09-17,20:00,21.8,Overcast,breezy,0.0
+2024-09-17,21:00,21.7,Overcast,breezy,0.0
+2024-09-17,22:00,20.9,Overcast,breezy,0.0
+2024-09-17,23:00,21.2,Overcast,breezy,0.0
+2024-09-18,00:00,20.6,Overcast,breezy,0.0
+2024-09-18,01:00,20.4,Overcast,breezy,0.0
+2024-09-18,02:00,20.2,Overcast,breezy,0.0
+2024-09-18,03:00,20.1,Overcast,breezy,0.0
+2024-09-18,04:00,20.0,Overcast,breezy,0.0
+2024-09-18,05:00,20.0,Overcast,breezy,0.0
+2024-09-18,06:00,20.0,Overcast,breezy,0.0
+2024-09-18,07:00,20.0,Overcast,breezy,0.0
+2024-09-18,08:00,20.1,Overcast,windy,0.0
+2024-09-18,09:00,20.1,Overcast,windy,0.0
+2024-09-18,10:00,20.2,Overcast,windy,0.0
+2024-09-18,11:00,20.3,Overcast,windy,0.0
+2024-09-18,12:00,20.3,Overcast,windy,0.0
+2024-09-18,13:00,20.3,Overcast,windy,0.0
+2024-09-18,14:00,20.2,Overcast,windy,0.0
+2024-09-18,15:00,20.1,Overcast,windy,0.0
+2024-09-18,16:00,20.0,Overcast,windy,0.0
+2024-09-18,17:00,20.0,Overcast,windy,0.0
+2024-09-18,18:00,20.0,Overcast,windy,0.0
+2024-09-18,19:00,20.1,Overcast,windy,0.0
+2024-09-18,20:00,19.9,Cloudy,windy,0.0
+2024-09-18,21:00,19.7,Cloudy,windy,0.0
+2024-09-18,22:00,20.4,Cloudy,breezy,0.0
+2024-09-18,23:00,19.5,Overcast,breezy,0.0
+2024-09-19,00:00,19.9,Moderate rain,windy,2.24
+2024-09-19,01:00,19.9,Moderate rain,windy,1.96
+2024-09-19,02:00,19.9,Light rain,windy,1.68
+2024-09-19,03:00,19.9,Light rain,windy,1.68
+2024-09-19,04:00,20.0,Light rain,windy,1.69
+2024-09-19,05:00,19.8,Light rain,breezy,1.69
+2024-09-19,06:00,19.5,Light rain,windy,1.74
+2024-09-19,07:00,19.3,Light rain,windy,1.76
+2024-09-19,08:00,19.4,Light rain,windy,1.78
+2024-09-19,09:00,19.6,Light rain,windy,0.89
+2024-09-19,10:00,19.7,Light rain,windy,0.45
+2024-09-19,11:00,20.0,Overcast,windy,0.0
+2024-09-19,12:00,20.2,Overcast,windy,0.0
+2024-09-19,13:00,20.4,Overcast,breezy,0.0
+2024-09-19,14:00,20.6,Overcast,breezy,0.0
+2024-09-19,15:00,20.7,Overcast,breezy,0.0
+2024-09-19,16:00,20.7,Overcast,breezy,0.0
+2024-09-19,17:00,20.5,Overcast,breezy,0.0
+2024-09-19,18:00,20.2,Overcast,windy,0.0
+2024-09-19,19:00,19.9,Overcast,windy,0.0
+2024-09-19,20:00,19.6,Overcast,breezy,0.0
+2024-09-19,21:00,19.4,Overcast,breezy,0.0
+2024-09-19,22:00,19.8,Overcast,breezy,0.0
+2024-09-19,23:00,19.2,Moderate rain,breezy,2.8
+2024-09-20,00:00,20.3,Overcast,calm,0.0
+2024-09-20,01:00,20.3,Overcast,calm,0.0
+2024-09-20,02:00,20.0,Overcast,breezy,0.0
+2024-09-20,03:00,19.7,Overcast,breezy,0.0
+2024-09-20,04:00,19.4,Overcast,breezy,0.0
+2024-09-20,05:00,19.1,Overcast,breezy,0.0
+2024-09-20,06:00,19.0,Overcast,breezy,0.0
+2024-09-20,07:00,18.8,Overcast,breezy,0.0
+2024-09-20,08:00,18.7,Overcast,breezy,0.0
+2024-09-20,09:00,18.7,Overcast,breezy,0.0
+2024-09-20,10:00,18.6,Overcast,breezy,0.0
+2024-09-20,11:00,18.6,Overcast,windy,0.0
+2024-09-20,12:00,18.6,Overcast,windy,0.0
+2024-09-20,13:00,18.5,Overcast,windy,0.0
+2024-09-20,14:00,18.5,Overcast,windy,0.0
+2024-09-20,15:00,18.6,Overcast,breezy,0.0
+2024-09-20,16:00,18.6,Overcast,breezy,0.0
+2024-09-20,17:00,18.4,Overcast,windy,0.0
+2024-09-20,18:00,18.2,Overcast,windy,0.0
+2024-09-20,19:00,18.1,Overcast,windy,0.0
+2024-09-20,20:00,18.3,Overcast,windy,0.0
+2024-09-20,21:00,18.5,Overcast,breezy,0.0
+2024-09-20,22:00,19.8,Overcast,breezy,0.0
+2024-09-20,23:00,19.1,Overcast,breezy,0.0
+2024-09-21,00:00,19.5,Clear,calm,0.0
+2024-09-21,01:00,19.4,Clear,calm,0.0
+2024-09-21,02:00,19.0,Partly cloudy,calm,0.0
+2024-09-21,03:00,18.6,Partly cloudy,calm,0.0
+2024-09-21,04:00,18.2,Partly cloudy,calm,0.0
+2024-09-21,05:00,18.1,Clear,calm,0.0
+2024-09-21,06:00,18.1,Partly cloudy,calm,0.0
+2024-09-21,07:00,18.2,Partly cloudy,calm,0.0
+2024-09-21,08:00,19.0,Partly cloudy,calm,0.0
+2024-09-21,09:00,19.8,Partly cloudy,breezy,0.0
+2024-09-21,10:00,20.7,Partly cloudy,breezy,0.0
+2024-09-21,11:00,21.5,Overcast,breezy,0.0
+2024-09-21,12:00,22.0,Overcast,breezy,0.0
+2024-09-21,13:00,22.5,Overcast,breezy,0.0
+2024-09-21,14:00,22.8,Sunny,breezy,0.0
+2024-09-21,15:00,23.0,Sunny,breezy,0.0
+2024-09-21,16:00,23.2,Partly cloudy,breezy,0.0
+2024-09-21,17:00,22.5,Partly cloudy,breezy,0.0
+2024-09-21,18:00,21.7,Partly cloudy,breezy,0.0
+2024-09-21,19:00,21.0,Partly cloudy,breezy,0.0
+2024-09-21,20:00,20.5,Overcast,breezy,0.0
+2024-09-21,21:00,20.3,Overcast,breezy,0.0
+2024-09-21,22:00,20.3,Overcast,breezy,0.0
+2024-09-21,23:00,19.7,Clear,breezy,0.0
+2024-09-22,00:00,18.0,Clear,breezy,0.0
+2024-09-22,01:00,17.8,Clear,calm,0.0
+2024-09-22,02:00,17.5,Clear,breezy,0.0
+2024-09-22,03:00,17.3,Clear,calm,0.0
+2024-09-22,04:00,17.2,Partly cloudy,calm,0.0
+2024-09-22,05:00,17.1,Partly cloudy,breezy,0.0
+2024-09-22,06:00,17.1,Partly cloudy,breezy,0.0
+2024-09-22,07:00,17.1,Partly cloudy,breezy,0.0
+2024-09-22,08:00,17.5,Cloudy,breezy,0.0
+2024-09-22,09:00,17.9,Cloudy,breezy,0.0
+2024-09-22,10:00,18.4,Cloudy,breezy,0.0
+2024-09-22,11:00,19.4,Cloudy,breezy,0.0
+2024-09-22,12:00,20.3,Cloudy,breezy,0.0
+2024-09-22,13:00,21.1,Cloudy,breezy,0.0
+2024-09-22,14:00,21.4,Partly cloudy,breezy,0.0
+2024-09-22,15:00,21.4,Partly cloudy,windy,0.0
+2024-09-22,16:00,21.3,Partly cloudy,breezy,0.0
+2024-09-22,17:00,20.4,Partly cloudy,breezy,0.0
+2024-09-22,18:00,19.6,Partly cloudy,breezy,0.0
+2024-09-22,19:00,18.8,Partly cloudy,breezy,0.0
+2024-09-22,20:00,18.2,Clear,breezy,0.0
+2024-09-22,21:00,17.9,Clear,breezy,0.0
+2024-09-22,22:00,18.4,Partly cloudy,breezy,0.0
+2024-09-22,23:00,17.7,Clear,breezy,0.0
+2024-09-23,00:00,17.5,Overcast,breezy,0.0
+2024-09-23,01:00,17.5,Overcast,breezy,0.0
+2024-09-23,02:00,17.4,Cloudy,breezy,0.0
+2024-09-23,03:00,17.3,Cloudy,breezy,0.0
+2024-09-23,04:00,17.3,Cloudy,breezy,0.0
+2024-09-23,05:00,17.3,Overcast,breezy,0.0
+2024-09-23,06:00,17.4,Overcast,breezy,0.0
+2024-09-23,07:00,17.5,Overcast,breezy,0.0
+2024-09-23,08:00,18.2,Partly cloudy,breezy,0.0
+2024-09-23,09:00,18.9,Partly cloudy,breezy,0.0
+2024-09-23,10:00,19.5,Partly cloudy,breezy,0.0
+2024-09-23,11:00,20.3,Cloudy,breezy,0.0
+2024-09-23,12:00,21.0,Cloudy,breezy,0.0
+2024-09-23,13:00,21.5,Cloudy,breezy,0.0
+2024-09-23,14:00,21.5,Partly cloudy,breezy,0.0
+2024-09-23,15:00,21.3,Partly cloudy,breezy,0.0
+2024-09-23,16:00,21.0,Partly cloudy,breezy,0.0
+2024-09-23,17:00,20.3,Cloudy,breezy,0.0
+2024-09-23,18:00,19.7,Cloudy,breezy,0.0
+2024-09-23,19:00,19.2,Cloudy,breezy,0.0
+2024-09-23,20:00,19.0,Cloudy,breezy,0.0
+2024-09-23,21:00,19.0,Cloudy,breezy,0.0
+2024-09-23,22:00,18.4,Cloudy,breezy,0.0
+2024-09-23,23:00,18.8,Overcast,breezy,0.0
+2024-09-24,00:00,18.1,Overcast,breezy,0.0
+2024-09-24,01:00,18.0,Overcast,breezy,0.0
+2024-09-24,02:00,17.8,Overcast,breezy,0.0
+2024-09-24,03:00,17.7,Overcast,breezy,0.0
+2024-09-24,04:00,17.6,Overcast,breezy,0.0
+2024-09-24,05:00,17.6,Overcast,breezy,0.0
+2024-09-24,06:00,17.5,Overcast,breezy,0.0
+2024-09-24,07:00,17.5,Overcast,breezy,0.0
+2024-09-24,08:00,18.2,Overcast,breezy,0.0
+2024-09-24,09:00,18.8,Overcast,breezy,0.0
+2024-09-24,10:00,19.5,Overcast,breezy,0.0
+2024-09-24,11:00,20.0,Overcast,breezy,0.0
+2024-09-24,12:00,20.3,Overcast,breezy,0.0
+2024-09-24,13:00,20.5,Overcast,breezy,0.0
+2024-09-24,14:00,20.4,Cloudy,breezy,0.0
+2024-09-24,15:00,20.3,Cloudy,breezy,0.0
+2024-09-24,16:00,20.1,Cloudy,breezy,0.0
+2024-09-24,17:00,19.8,Overcast,breezy,0.0
+2024-09-24,18:00,19.6,Overcast,breezy,0.0
+2024-09-24,19:00,19.4,Overcast,breezy,0.0
+2024-09-24,20:00,19.2,Overcast,breezy,0.0
+2024-09-24,21:00,19.0,Overcast,breezy,0.0
+2024-09-24,22:00,18.7,Overcast,breezy,0.0
+2024-09-24,23:00,18.7,Overcast,breezy,0.0
+2024-09-25,00:00,19.5,Overcast,breezy,0.0
+2024-09-25,01:00,19.6,Overcast,breezy,0.0
+2024-09-25,02:00,19.6,Overcast,breezy,0.0
+2024-09-25,03:00,19.6,Overcast,breezy,0.0
+2024-09-25,04:00,19.6,Overcast,breezy,0.0
+2024-09-25,05:00,19.6,Overcast,breezy,0.0
+2024-09-25,06:00,19.6,Overcast,breezy,0.0
+2024-09-25,07:00,19.7,Overcast,breezy,0.0
+2024-09-25,08:00,19.8,Overcast,breezy,0.0
+2024-09-25,09:00,19.9,Overcast,breezy,0.0
+2024-09-25,10:00,20.0,Overcast,breezy,0.0
+2024-09-25,11:00,20.2,Overcast,breezy,0.0
+2024-09-25,12:00,20.4,Overcast,breezy,0.0
+2024-09-25,13:00,20.6,Overcast,breezy,0.0
+2024-09-25,14:00,20.8,Overcast,breezy,0.0
+2024-09-25,15:00,21.0,Overcast,breezy,0.0
+2024-09-25,16:00,21.1,Overcast,breezy,0.0
+2024-09-25,17:00,21.0,Overcast,breezy,0.0
+2024-09-25,18:00,20.9,Moderate rain at times,breezy,0.7
+2024-09-25,19:00,20.8,Heavy rain at times,breezy,1.06
+2024-09-25,20:00,21.0,Light rain,breezy,1.41
+2024-09-25,21:00,21.2,Light rain,breezy,1.28
+2024-09-25,22:00,20.5,Light rain,breezy,1.22
+2024-09-25,23:00,21.2,Overcast,breezy,0.0
+2024-09-26,00:00,21.4,Overcast,breezy,0.0
+2024-09-26,01:00,21.5,Overcast,breezy,0.0
+2024-09-26,02:00,21.7,Overcast,breezy,0.0
+2024-09-26,03:00,21.8,Overcast,breezy,0.0
+2024-09-26,04:00,21.8,Overcast,breezy,0.0
+2024-09-26,05:00,21.9,Overcast,breezy,0.0
+2024-09-26,06:00,22.0,Overcast,breezy,0.0
+2024-09-26,07:00,22.1,Overcast,breezy,0.0
+2024-09-26,08:00,22.7,Overcast,breezy,0.0
+2024-09-26,09:00,23.2,Overcast,breezy,0.0
+2024-09-26,10:00,23.7,Overcast,breezy,0.0
+2024-09-26,11:00,24.4,Overcast,breezy,0.0
+2024-09-26,12:00,24.9,Overcast,breezy,0.0
+2024-09-26,13:00,25.4,Overcast,breezy,0.0
+2024-09-26,14:00,25.5,Overcast,breezy,0.0
+2024-09-26,15:00,25.5,Overcast,breezy,0.0
+2024-09-26,16:00,25.5,Overcast,breezy,0.0
+2024-09-26,17:00,24.6,Overcast,breezy,0.0
+2024-09-26,18:00,23.7,Overcast,breezy,0.0
+2024-09-26,19:00,22.8,Overcast,breezy,0.0
+2024-09-26,20:00,22.2,Partly cloudy,breezy,0.0
+2024-09-26,21:00,21.8,Partly cloudy,breezy,0.0
+2024-09-26,22:00,21.5,Partly cloudy,breezy,0.0
+2024-09-26,23:00,21.3,Overcast,calm,0.0
+2024-09-27,00:00,20.9,Fog,calm,0.0
+2024-09-27,01:00,20.8,Fog,calm,0.0
+2024-09-27,02:00,20.8,Fog,calm,0.0
+2024-09-27,03:00,20.8,Fog,calm,0.0
+2024-09-27,04:00,20.9,Fog,calm,0.0
+2024-09-27,05:00,21.0,Fog,calm,0.0
+2024-09-27,06:00,21.0,Fog,calm,0.0
+2024-09-27,07:00,21.1,Fog,calm,0.0
+2024-09-27,08:00,21.4,Fog,calm,0.0
+2024-09-27,09:00,21.7,Fog,calm,0.0
+2024-09-27,10:00,21.9,Fog,calm,0.0
+2024-09-27,11:00,22.4,Mist,calm,0.0
+2024-09-27,12:00,22.8,Mist,calm,0.0
+2024-09-27,13:00,23.1,Mist,calm,0.0
+2024-09-27,14:00,22.9,Overcast,calm,0.0
+2024-09-27,15:00,22.5,Overcast,calm,0.0
+2024-09-27,16:00,22.1,Overcast,calm,0.0
+2024-09-27,17:00,21.4,Overcast,calm,0.0
+2024-09-27,18:00,20.8,Overcast,breezy,0.0
+2024-09-27,19:00,20.3,Overcast,breezy,0.0
+2024-09-27,20:00,20.0,Overcast,breezy,0.0
+2024-09-27,21:00,19.8,Overcast,breezy,0.0
+2024-09-27,22:00,20.5,Overcast,breezy,0.0
+2024-09-27,23:00,20.0,Fog,breezy,0.0
+2024-09-28,00:00,20.6,Moderate or heavy rain shower,breezy,17.69
+2024-09-28,01:00,20.2,Moderate or heavy rain shower,breezy,26.53
+2024-09-28,02:00,20.1,Heavy rain,breezy,35.38
+2024-09-28,03:00,20.0,Heavy rain,breezy,24.21
+2024-09-28,04:00,20.1,Heavy rain,breezy,18.63
+2024-09-28,05:00,20.2,Heavy rain,breezy,13.05
+2024-09-28,06:00,20.2,Heavy rain,breezy,6.53
+2024-09-28,07:00,20.3,Heavy rain,breezy,3.26
+2024-09-28,08:00,20.5,Overcast,breezy,0.0
+2024-09-28,09:00,20.7,Overcast,breezy,0.0
+2024-09-28,10:00,20.8,Overcast,breezy,0.0
+2024-09-28,11:00,21.0,Overcast,breezy,0.0
+2024-09-28,12:00,21.1,Overcast,calm,0.0
+2024-09-28,13:00,21.1,Overcast,calm,0.0
+2024-09-28,14:00,20.9,Overcast,calm,0.0
+2024-09-28,15:00,20.6,Overcast,breezy,0.0
+2024-09-28,16:00,20.3,Overcast,breezy,0.0
+2024-09-28,17:00,19.9,Overcast,breezy,0.0
+2024-09-28,18:00,19.6,Overcast,breezy,0.0
+2024-09-28,19:00,19.3,Overcast,calm,0.0
+2024-09-28,20:00,19.0,Overcast,calm,0.0
+2024-09-28,21:00,18.9,Moderate rain at times,breezy,0.81
+2024-09-28,22:00,20.2,Heavy rain at times,breezy,1.22
+2024-09-28,23:00,19.3,Overcast,breezy,0.0
+2024-09-29,00:00,20.6,Overcast,calm,0.0
+2024-09-29,01:00,20.4,Overcast,calm,0.0
+2024-09-29,02:00,20.3,Overcast,calm,0.0
+2024-09-29,03:00,20.1,Overcast,calm,0.0
+2024-09-29,04:00,20.0,Overcast,calm,0.0
+2024-09-29,05:00,19.9,Overcast,calm,0.0
+2024-09-29,06:00,19.8,Overcast,breezy,0.0
+2024-09-29,07:00,19.8,Overcast,breezy,0.0
+2024-09-29,08:00,19.8,Overcast,breezy,0.0
+2024-09-29,09:00,19.8,Overcast,breezy,0.0
+2024-09-29,10:00,19.9,Overcast,breezy,0.0
+2024-09-29,11:00,19.8,Overcast,breezy,0.0
+2024-09-29,12:00,19.8,Overcast,windy,0.0
+2024-09-29,13:00,19.7,Overcast,windy,0.0
+2024-09-29,14:00,19.6,Overcast,windy,0.0
+2024-09-29,15:00,19.5,Overcast,windy,0.0
+2024-09-29,16:00,19.4,Overcast,breezy,0.0
+2024-09-29,17:00,19.1,Overcast,breezy,0.0
+2024-09-29,18:00,18.9,Overcast,windy,0.0
+2024-09-29,19:00,18.6,Overcast,windy,0.0
+2024-09-29,20:00,18.5,Overcast,breezy,0.0
+2024-09-29,21:00,18.5,Overcast,breezy,0.0
+2024-09-29,22:00,19.7,Overcast,breezy,0.0
+2024-09-29,23:00,19.1,Overcast,breezy,0.0
+2024-09-30,00:00,18.7,Overcast,breezy,0.0
+2024-09-30,01:00,18.5,Overcast,breezy,0.0
+2024-09-30,02:00,18.3,Overcast,breezy,0.0
+2024-09-30,03:00,18.2,Overcast,breezy,0.0
+2024-09-30,04:00,18.1,Overcast,breezy,0.0
+2024-09-30,05:00,18.1,Overcast,breezy,0.0
+2024-09-30,06:00,18.1,Overcast,breezy,0.0
+2024-09-30,07:00,18.2,Overcast,windy,0.0
+2024-09-30,08:00,18.2,Overcast,windy,0.0
+2024-09-30,09:00,18.3,Overcast,windy,0.0
+2024-09-30,10:00,18.3,Overcast,windy,0.0
+2024-09-30,11:00,18.4,Overcast,windy,0.0
+2024-09-30,12:00,18.4,Overcast,windy,0.0
+2024-09-30,13:00,18.4,Overcast,windy,0.0
+2024-09-30,14:00,18.3,Overcast,windy,0.0
+2024-09-30,15:00,18.3,Overcast,windy,0.0
+2024-09-30,16:00,18.2,Overcast,windy,0.0
+2024-09-30,17:00,18.1,Overcast,windy,0.0
+2024-09-30,18:00,18.1,Overcast,windy,0.0
+2024-09-30,19:00,18.0,Overcast,windy,0.0
+2024-09-30,20:00,18.0,Overcast,windy,0.0
+2024-09-30,21:00,18.1,Overcast,windy,0.0
+2024-09-30,22:00,18.5,Overcast,windy,0.0
+2024-09-30,23:00,18.2,Overcast,windy,0.0
+2024-10-01,00:00,18.3,Overcast,breezy,0.0
+2024-10-01,01:00,18.2,Overcast,breezy,0.0
+2024-10-01,02:00,18.0,Overcast,breezy,0.0
+2024-10-01,03:00,17.8,Overcast,breezy,0.0
+2024-10-01,04:00,17.7,Overcast,breezy,0.0
+2024-10-01,05:00,17.4,Overcast,breezy,0.0
+2024-10-01,06:00,17.2,Overcast,breezy,0.0
+2024-10-01,07:00,17.0,Overcast,breezy,0.0
+2024-10-01,08:00,17.0,Overcast,windy,0.0
+2024-10-01,09:00,17.1,Overcast,windy,0.0
+2024-10-01,10:00,17.3,Overcast,windy,0.0
+2024-10-01,11:00,17.5,Overcast,windy,0.0
+2024-10-01,12:00,17.7,Overcast,windy,0.0
+2024-10-01,13:00,17.9,Overcast,windy,0.0
+2024-10-01,14:00,18.0,Overcast,windy,0.0
+2024-10-01,15:00,18.0,Overcast,windy,0.0
+2024-10-01,16:00,17.9,Overcast,windy,0.0
+2024-10-01,17:00,17.7,Overcast,windy,0.0
+2024-10-01,18:00,17.5,Overcast,windy,0.0
+2024-10-01,19:00,17.3,Overcast,windy,0.0
+2024-10-01,20:00,17.1,Overcast,breezy,0.0
+2024-10-01,21:00,17.0,Overcast,breezy,0.0
+2024-10-01,22:00,17.8,Overcast,breezy,0.0
+2024-10-01,23:00,17.2,Overcast,breezy,0.0
+2024-10-02,00:00,17.3,Overcast,breezy,0.0
+2024-10-02,01:00,17.2,Overcast,breezy,0.0
+2024-10-02,02:00,17.0,Overcast,breezy,0.0
+2024-10-02,03:00,16.9,Overcast,breezy,0.0
+2024-10-02,04:00,16.8,Overcast,breezy,0.0
+2024-10-02,05:00,16.7,Overcast,breezy,0.0
+2024-10-02,06:00,16.6,Overcast,breezy,0.0
+2024-10-02,07:00,16.6,Overcast,breezy,0.0
+2024-10-02,08:00,17.0,Overcast,breezy,0.0
+2024-10-02,09:00,17.5,Overcast,breezy,0.0
+2024-10-02,10:00,18.0,Overcast,breezy,0.0
+2024-10-02,11:00,18.7,Overcast,breezy,0.0
+2024-10-02,12:00,19.2,Overcast,breezy,0.0
+2024-10-02,13:00,19.6,Overcast,breezy,0.0
+2024-10-02,14:00,19.6,Cloudy,breezy,0.0
+2024-10-02,15:00,19.5,Cloudy,breezy,0.0
+2024-10-02,16:00,19.4,Cloudy,breezy,0.0
+2024-10-02,17:00,18.6,Partly cloudy,breezy,0.0
+2024-10-02,18:00,17.9,Partly cloudy,breezy,0.0
+2024-10-02,19:00,17.3,Partly cloudy,breezy,0.0
+2024-10-02,20:00,16.9,Partly cloudy,calm,0.0
+2024-10-02,21:00,16.7,Partly cloudy,calm,0.0
+2024-10-02,22:00,17.0,Partly cloudy,calm,0.0
+2024-10-02,23:00,16.8,Overcast,calm,0.0
+2024-10-03,00:00,16.4,Partly cloudy,calm,0.0
+2024-10-03,01:00,16.3,Partly cloudy,calm,0.0
+2024-10-03,02:00,16.3,Cloudy,calm,0.0
+2024-10-03,03:00,16.2,Cloudy,calm,0.0
+2024-10-03,04:00,16.2,Cloudy,calm,0.0
+2024-10-03,05:00,16.1,Partly cloudy,calm,0.0
+2024-10-03,06:00,16.1,Partly cloudy,calm,0.0
+2024-10-03,07:00,16.0,Partly cloudy,calm,0.0
+2024-10-03,08:00,16.9,Partly cloudy,calm,0.0
+2024-10-03,09:00,17.8,Partly cloudy,calm,0.0
+2024-10-03,10:00,18.6,Partly cloudy,calm,0.0
+2024-10-03,11:00,19.4,Partly cloudy,calm,0.0
+2024-10-03,12:00,19.9,Partly cloudy,breezy,0.0
+2024-10-03,13:00,20.4,Partly cloudy,breezy,0.0
+2024-10-03,14:00,20.7,Partly cloudy,breezy,0.0
+2024-10-03,15:00,21.0,Partly cloudy,breezy,0.0
+2024-10-03,16:00,21.2,Partly cloudy,breezy,0.0
+2024-10-03,17:00,20.3,Partly cloudy,breezy,0.0
+2024-10-03,18:00,19.4,Partly cloudy,breezy,0.0
+2024-10-03,19:00,18.5,Partly cloudy,calm,0.0
+2024-10-03,20:00,17.3,Clear,calm,0.0
+2024-10-03,21:00,16.6,Clear,calm,0.0
+2024-10-03,22:00,16.3,Clear,calm,0.0
+2024-10-03,23:00,16.1,Partly cloudy,calm,0.0
+2024-10-04,00:00,17.6,Clear,calm,0.0
+2024-10-04,01:00,17.6,Partly cloudy,calm,0.0
+2024-10-04,02:00,17.5,Partly cloudy,calm,0.0
+2024-10-04,03:00,17.4,Partly cloudy,calm,0.0
+2024-10-04,04:00,17.3,Partly cloudy,calm,0.0
+2024-10-04,05:00,17.2,Partly cloudy,calm,0.0
+2024-10-04,06:00,17.2,Partly cloudy,calm,0.0
+2024-10-04,07:00,17.2,Partly cloudy,calm,0.0
+2024-10-04,08:00,18.2,Partly cloudy,calm,0.0
+2024-10-04,09:00,19.3,Partly cloudy,calm,0.0
+2024-10-04,10:00,20.3,Partly cloudy,calm,0.0
+2024-10-04,11:00,21.3,Sunny,breezy,0.0
+2024-10-04,12:00,22.0,Partly cloudy,breezy,0.0
+2024-10-04,13:00,22.6,Partly cloudy,breezy,0.0
+2024-10-04,14:00,22.3,Partly cloudy,breezy,0.0
+2024-10-04,15:00,21.9,Partly cloudy,breezy,0.0
+2024-10-04,16:00,21.5,Partly cloudy,breezy,0.0
+2024-10-04,17:00,20.8,Overcast,breezy,0.0
+2024-10-04,18:00,20.2,Overcast,breezy,0.0
+2024-10-04,19:00,19.6,Overcast,breezy,0.0
+2024-10-04,20:00,19.2,Overcast,breezy,0.0
+2024-10-04,21:00,18.9,Overcast,breezy,0.0
+2024-10-04,22:00,18.4,Overcast,calm,0.0
+2024-10-04,23:00,18.2,Clear,calm,0.0
+2024-10-05,00:00,19.0,Partly cloudy,calm,0.0
+2024-10-05,01:00,18.8,Partly cloudy,calm,0.0
+2024-10-05,02:00,18.6,Partly cloudy,calm,0.0
+2024-10-05,03:00,18.5,Partly cloudy,calm,0.0
+2024-10-05,04:00,18.3,Partly cloudy,calm,0.0
+2024-10-05,05:00,18.3,Cloudy,calm,0.0
+2024-10-05,06:00,18.3,Cloudy,calm,0.0
+2024-10-05,07:00,18.4,Cloudy,calm,0.0
+2024-10-05,08:00,20.0,Partly cloudy,calm,0.0
+2024-10-05,09:00,21.5,Partly cloudy,calm,0.0
+2024-10-05,10:00,23.1,Partly cloudy,calm,0.0
+2024-10-05,11:00,24.7,Sunny,calm,0.0
+2024-10-05,12:00,25.8,Sunny,calm,0.0
+2024-10-05,13:00,26.8,Sunny,breezy,0.0
+2024-10-05,14:00,27.0,Sunny,breezy,0.0
+2024-10-05,15:00,27.0,Sunny,breezy,0.0
+2024-10-05,16:00,26.8,Sunny,breezy,0.0
+2024-10-05,17:00,25.3,Sunny,breezy,0.0
+2024-10-05,18:00,23.7,Sunny,breezy,0.0
+2024-10-05,19:00,22.2,Clear,calm,0.0
+2024-10-05,20:00,20.8,Clear,calm,0.0
+2024-10-05,21:00,19.8,Clear,calm,0.0
+2024-10-05,22:00,19.5,Clear,calm,0.0
+2024-10-05,23:00,18.2,Partly cloudy,calm,0.0
+2024-10-06,00:00,16.8,Clear,calm,0.0
+2024-10-06,01:00,16.3,Clear,calm,0.0
+2024-10-06,02:00,15.7,Clear,calm,0.0
+2024-10-06,03:00,15.1,Clear,calm,0.0
+2024-10-06,04:00,14.7,Clear,calm,0.0
+2024-10-06,05:00,14.3,Clear,calm,0.0
+2024-10-06,06:00,14.0,Clear,calm,0.0
+2024-10-06,07:00,13.7,Clear,calm,0.0
+2024-10-06,08:00,15.7,Sunny,calm,0.0
+2024-10-06,09:00,17.7,Sunny,calm,0.0
+2024-10-06,10:00,19.7,Sunny,calm,0.0
+2024-10-06,11:00,20.9,Sunny,calm,0.0
+2024-10-06,12:00,21.7,Sunny,calm,0.0
+2024-10-06,13:00,22.2,Sunny,breezy,0.0
+2024-10-06,14:00,22.2,Sunny,breezy,0.0
+2024-10-06,15:00,22.1,Sunny,breezy,0.0
+2024-10-06,16:00,22.0,Sunny,breezy,0.0
+2024-10-06,17:00,20.6,Partly cloudy,breezy,0.0
+2024-10-06,18:00,19.2,Partly cloudy,breezy,0.0
+2024-10-06,19:00,17.9,Partly cloudy,breezy,0.0
+2024-10-06,20:00,17.4,Cloudy,breezy,0.0
+2024-10-06,21:00,17.1,Cloudy,breezy,0.0
+2024-10-06,22:00,17.6,Cloudy,breezy,0.0
+2024-10-06,23:00,17.3,Clear,breezy,0.0
+2024-10-07,00:00,16.2,Cloudy,breezy,0.0
+2024-10-07,01:00,16.1,Cloudy,breezy,0.0
+2024-10-07,02:00,16.1,Overcast,breezy,0.0
+2024-10-07,03:00,16.2,Overcast,breezy,0.0
+2024-10-07,04:00,16.3,Overcast,breezy,0.0
+2024-10-07,05:00,16.6,Overcast,breezy,0.0
+2024-10-07,06:00,16.9,Overcast,breezy,0.0
+2024-10-07,07:00,17.1,Overcast,breezy,0.0
+2024-10-07,08:00,17.4,Thundery outbreaks possible,breezy,0.0
+2024-10-07,09:00,17.6,Thundery outbreaks possible,breezy,0.0
+2024-10-07,10:00,17.8,Thundery outbreaks possible,breezy,0.0
+2024-10-07,11:00,19.1,Overcast,breezy,0.0
+2024-10-07,12:00,20.4,Overcast,breezy,0.0
+2024-10-07,13:00,21.6,Overcast,breezy,0.0
+2024-10-07,14:00,21.7,Partly cloudy,breezy,0.0
+2024-10-07,15:00,21.5,Partly cloudy,breezy,0.0
+2024-10-07,16:00,21.2,Partly cloudy,breezy,0.0
+2024-10-07,17:00,20.1,Partly cloudy,breezy,0.0
+2024-10-07,18:00,19.1,Partly cloudy,breezy,0.0
+2024-10-07,19:00,18.2,Partly cloudy,breezy,0.0
+2024-10-07,20:00,17.2,Clear,breezy,0.0
+2024-10-07,21:00,16.5,Clear,breezy,0.0
+2024-10-07,22:00,16.2,Clear,breezy,0.0
+2024-10-07,23:00,15.2,Cloudy,breezy,0.0
+2024-10-08,00:00,16.5,Overcast,breezy,0.0
+2024-10-08,01:00,16.0,Overcast,breezy,0.0
+2024-10-08,02:00,15.1,Clear,calm,0.0
+2024-10-08,03:00,14.3,Clear,calm,0.0
+2024-10-08,04:00,13.5,Clear,calm,0.0
+2024-10-08,05:00,12.9,Clear,calm,0.0
+2024-10-08,06:00,12.4,Partly cloudy,calm,0.0
+2024-10-08,07:00,12.1,Cloudy,calm,0.0
+2024-10-08,08:00,12.7,Cloudy,calm,0.0
+2024-10-08,09:00,13.5,Cloudy,breezy,0.0
+2024-10-08,10:00,14.3,Cloudy,breezy,0.0
+2024-10-08,11:00,16.3,Partly cloudy,breezy,0.0
+2024-10-08,12:00,18.1,Partly cloudy,breezy,0.0
+2024-10-08,13:00,19.8,Partly cloudy,breezy,0.0
+2024-10-08,14:00,20.6,Sunny,breezy,0.0
+2024-10-08,15:00,21.1,Sunny,breezy,0.0
+2024-10-08,16:00,21.3,Sunny,breezy,0.0
+2024-10-08,17:00,20.0,Sunny,breezy,0.0
+2024-10-08,18:00,18.7,Sunny,breezy,0.0
+2024-10-08,19:00,17.3,Clear,breezy,0.0
+2024-10-08,20:00,16.2,Clear,breezy,0.0
+2024-10-08,21:00,15.3,Clear,calm,0.0
+2024-10-08,22:00,17.0,Clear,calm,0.0
+2024-10-08,23:00,15.0,Overcast,calm,0.0
+2024-10-09,00:00,13.8,Clear,calm,0.0
+2024-10-09,01:00,13.3,Clear,breezy,0.0
+2024-10-09,02:00,12.9,Clear,breezy,0.0
+2024-10-09,03:00,12.6,Clear,breezy,0.0
+2024-10-09,04:00,12.3,Clear,breezy,0.0
+2024-10-09,05:00,11.9,Clear,breezy,0.0
+2024-10-09,06:00,11.5,Clear,breezy,0.0
+2024-10-09,07:00,11.2,Clear,calm,0.0
+2024-10-09,08:00,13.3,Sunny,calm,0.0
+2024-10-09,09:00,15.4,Sunny,calm,0.0
+2024-10-09,10:00,17.6,Sunny,calm,0.0
+2024-10-09,11:00,19.4,Sunny,breezy,0.0
+2024-10-09,12:00,20.7,Sunny,breezy,0.0
+2024-10-09,13:00,21.7,Sunny,breezy,0.0
+2024-10-09,14:00,22.1,Sunny,breezy,0.0
+2024-10-09,15:00,22.2,Sunny,windy,0.0
+2024-10-09,16:00,22.1,Sunny,windy,0.0
+2024-10-09,17:00,20.8,Sunny,breezy,0.0
+2024-10-09,18:00,19.5,Sunny,breezy,0.0
+2024-10-09,19:00,18.1,Clear,breezy,0.0
+2024-10-09,20:00,16.9,Clear,breezy,0.0
+2024-10-09,21:00,16.0,Clear,breezy,0.0
+2024-10-09,22:00,15.3,Partly cloudy,breezy,0.0
+2024-10-09,23:00,14.5,Clear,breezy,0.0
+2024-10-10,00:00,14.0,Clear,breezy,0.0
+2024-10-10,01:00,13.6,Partly cloudy,breezy,0.0
+2024-10-10,02:00,12.7,Partly cloudy,breezy,0.0
+2024-10-10,03:00,12.0,Partly cloudy,breezy,0.0
+2024-10-10,04:00,11.3,Partly cloudy,breezy,0.0
+2024-10-10,05:00,10.5,Clear,breezy,0.0
+2024-10-10,06:00,9.9,Clear,breezy,0.0
+2024-10-10,07:00,9.4,Clear,breezy,0.0
+2024-10-10,08:00,10.7,Sunny,breezy,0.0
+2024-10-10,09:00,12.1,Sunny,breezy,0.0
+2024-10-10,10:00,13.6,Sunny,breezy,0.0
+2024-10-10,11:00,15.1,Sunny,breezy,0.0
+2024-10-10,12:00,16.2,Sunny,breezy,0.0
+2024-10-10,13:00,17.2,Sunny,breezy,0.0
+2024-10-10,14:00,17.5,Sunny,breezy,0.0
+2024-10-10,15:00,17.7,Sunny,breezy,0.0
+2024-10-10,16:00,17.7,Sunny,breezy,0.0
+2024-10-10,17:00,16.3,Sunny,breezy,0.0
+2024-10-10,18:00,15.0,Sunny,breezy,0.0
+2024-10-10,19:00,13.6,Clear,breezy,0.0
+2024-10-10,20:00,12.5,Clear,breezy,0.0
+2024-10-10,21:00,11.7,Clear,breezy,0.0
+2024-10-10,22:00,13.4,Clear,breezy,0.0
+2024-10-10,23:00,11.4,Clear,breezy,0.0
+2024-10-11,00:00,11.4,Clear,breezy,0.0
+2024-10-11,01:00,10.6,Clear,breezy,0.0
+2024-10-11,02:00,9.9,Clear,breezy,0.0
+2024-10-11,03:00,9.2,Clear,breezy,0.0
+2024-10-11,04:00,8.6,Clear,breezy,0.0
+2024-10-11,05:00,7.9,Clear,breezy,0.0
+2024-10-11,06:00,7.2,Clear,breezy,0.0
+2024-10-11,07:00,7.0,Clear,breezy,0.0
+2024-10-11,08:00,8.1,Sunny,breezy,0.0
+2024-10-11,09:00,9.7,Sunny,breezy,0.0
+2024-10-11,10:00,12.5,Sunny,breezy,0.0
+2024-10-11,11:00,15.0,Sunny,breezy,0.0
+2024-10-11,12:00,17.1,Sunny,breezy,0.0
+2024-10-11,13:00,18.8,Sunny,breezy,0.0
+2024-10-11,14:00,20.0,Sunny,breezy,0.0
+2024-10-11,15:00,20.8,Sunny,breezy,0.0
+2024-10-11,16:00,20.9,Sunny,breezy,0.0
+2024-10-11,17:00,20.5,Sunny,breezy,0.0
+2024-10-11,18:00,19.9,Sunny,breezy,0.0
+2024-10-11,19:00,17.8,Clear,breezy,0.0
+2024-10-11,20:00,16.4,Clear,breezy,0.0
+2024-10-11,21:00,15.6,Clear,breezy,0.0
+2024-10-11,22:00,14.0,Clear,breezy,0.0
+2024-10-11,23:00,14.1,Clear,breezy,0.0
+2024-10-12,00:00,14.0,Clear,breezy,0.0
+2024-10-12,01:00,14.0,Clear,breezy,0.0
+2024-10-12,02:00,14.0,Clear,breezy,0.0
+2024-10-12,03:00,14.0,Clear,breezy,0.0
+2024-10-12,04:00,14.0,Clear,breezy,0.0
+2024-10-12,05:00,13.9,Clear,breezy,0.0
+2024-10-12,06:00,13.8,Clear,breezy,0.0
+2024-10-12,07:00,13.7,Clear,breezy,0.0
+2024-10-12,08:00,15.7,Sunny,breezy,0.0
+2024-10-12,09:00,17.8,Sunny,breezy,0.0
+2024-10-12,10:00,19.8,Sunny,windy,0.0
+2024-10-12,11:00,21.6,Sunny,breezy,0.0
+2024-10-12,12:00,22.8,Sunny,breezy,0.0
+2024-10-12,13:00,23.7,Sunny,breezy,0.0
+2024-10-12,14:00,23.9,Sunny,breezy,0.0
+2024-10-12,15:00,23.9,Sunny,breezy,0.0
+2024-10-12,16:00,23.8,Sunny,breezy,0.0
+2024-10-12,17:00,22.6,Sunny,breezy,0.0
+2024-10-12,18:00,21.5,Partly cloudy,calm,0.0
+2024-10-12,19:00,20.5,Partly cloudy,calm,0.0
+2024-10-12,20:00,19.2,Partly cloudy,calm,0.0
+2024-10-12,21:00,18.2,Partly cloudy,calm,0.0
+2024-10-12,22:00,16.3,Partly cloudy,calm,0.0
+2024-10-12,23:00,16.3,Clear,calm,0.0
+2024-10-13,00:00,17.0,Partly cloudy,calm,0.0
+2024-10-13,01:00,16.6,Partly cloudy,calm,0.0
+2024-10-13,02:00,16.5,Clear,calm,0.0
+2024-10-13,03:00,16.5,Clear,calm,0.0
+2024-10-13,04:00,16.5,Clear,calm,0.0
+2024-10-13,05:00,16.6,Clear,calm,0.0
+2024-10-13,06:00,16.6,Clear,calm,0.0
+2024-10-13,07:00,16.7,Clear,calm,0.0
+2024-10-13,08:00,18.7,Sunny,calm,0.0
+2024-10-13,09:00,20.7,Sunny,breezy,0.0
+2024-10-13,10:00,22.7,Sunny,breezy,0.0
+2024-10-13,11:00,24.1,Sunny,breezy,0.0
+2024-10-13,12:00,25.1,Sunny,windy,0.0
+2024-10-13,13:00,25.7,Sunny,windy,0.0
+2024-10-13,14:00,25.3,Sunny,windy,0.0
+2024-10-13,15:00,24.7,Sunny,windy,0.0
+2024-10-13,16:00,24.1,Partly cloudy,windy,0.0
+2024-10-13,17:00,23.1,Partly cloudy,windy,0.0
+2024-10-13,18:00,22.2,Partly cloudy,windy,0.0
+2024-10-13,19:00,21.5,Partly cloudy,windy,0.0
+2024-10-13,20:00,21.0,Cloudy,windy,0.0
+2024-10-13,21:00,20.7,Moderate rain at times,windy,0.73
+2024-10-13,22:00,19.3,Heavy rain at times,windy,1.1
+2024-10-13,23:00,19.6,Partly cloudy,windy,0.0
+2024-10-14,00:00,20.8,Thundery outbreaks possible,windy,0.0
+2024-10-14,01:00,20.6,Thundery outbreaks possible,windy,0.0
+2024-10-14,02:00,19.9,Thundery outbreaks possible,windy,0.0
+2024-10-14,03:00,19.3,Thundery outbreaks possible,windy,0.0
+2024-10-14,04:00,18.8,Thundery outbreaks possible,breezy,0.0
+2024-10-14,05:00,16.7,Thundery outbreaks possible,breezy,0.0
+2024-10-14,06:00,14.7,Thundery outbreaks possible,breezy,0.0
+2024-10-14,07:00,12.8,Thundery outbreaks possible,breezy,0.0
+2024-10-14,08:00,12.5,Overcast,breezy,0.0
+2024-10-14,09:00,12.7,Overcast,breezy,0.0
+2024-10-14,10:00,13.2,Overcast,breezy,0.0
+2024-10-14,11:00,14.1,Sunny,breezy,0.0
+2024-10-14,12:00,14.8,Sunny,breezy,0.0
+2024-10-14,13:00,15.6,Sunny,windy,0.0
+2024-10-14,14:00,16.0,Sunny,windy,0.0
+2024-10-14,15:00,16.2,Sunny,windy,0.0
+2024-10-14,16:00,16.4,Sunny,windy,0.0
+2024-10-14,17:00,15.2,Sunny,windy,0.0
+2024-10-14,18:00,14.0,Sunny,windy,0.0
+2024-10-14,19:00,12.7,Clear,windy,0.0
+2024-10-14,20:00,11.6,Clear,breezy,0.0
+2024-10-14,21:00,10.8,Clear,calm,0.0
+2024-10-14,22:00,16.3,Clear,calm,0.0
+2024-10-14,23:00,12.3,Thundery outbreaks possible,breezy,0.0
+2024-10-15,00:00,8.6,Partly cloudy,calm,0.0
+2024-10-15,01:00,8.3,Partly cloudy,calm,0.0
+2024-10-15,02:00,7.9,Partly cloudy,calm,0.0
+2024-10-15,03:00,7.6,Partly cloudy,calm,0.0
+2024-10-15,04:00,7.4,Partly cloudy,breezy,0.0
+2024-10-15,05:00,7.1,Overcast,breezy,0.0
+2024-10-15,06:00,6.8,Overcast,breezy,0.0
+2024-10-15,07:00,6.6,Overcast,breezy,0.0
+2024-10-15,08:00,7.8,Cloudy,breezy,0.0
+2024-10-15,09:00,9.0,Cloudy,breezy,0.0
+2024-10-15,10:00,10.2,Cloudy,breezy,0.0
+2024-10-15,11:00,11.2,Partly cloudy,breezy,0.0
+2024-10-15,12:00,11.9,Partly cloudy,breezy,0.0
+2024-10-15,13:00,12.5,Partly cloudy,breezy,0.0
+2024-10-15,14:00,12.7,Partly cloudy,breezy,0.0
+2024-10-15,15:00,12.7,Partly cloudy,windy,0.0
+2024-10-15,16:00,12.6,Partly cloudy,breezy,0.0
+2024-10-15,17:00,11.8,Sunny,breezy,0.0
+2024-10-15,18:00,11.0,Sunny,breezy,0.0
+2024-10-15,19:00,10.2,Clear,breezy,0.0
+2024-10-15,20:00,9.6,Clear,breezy,0.0
+2024-10-15,21:00,9.2,Clear,breezy,0.0
+2024-10-15,22:00,9.1,Clear,breezy,0.0
+2024-10-15,23:00,8.5,Partly cloudy,breezy,0.0
+2024-10-16,00:00,8.8,Clear,breezy,0.0
+2024-10-16,01:00,8.1,Clear,breezy,0.0
+2024-10-16,02:00,7.4,Clear,breezy,0.0
+2024-10-16,03:00,6.7,Clear,breezy,0.0
+2024-10-16,04:00,5.9,Clear,breezy,0.0
+2024-10-16,05:00,5.4,Clear,breezy,0.0
+2024-10-16,06:00,5.0,Clear,breezy,0.0
+2024-10-16,07:00,4.8,Clear,breezy,0.0
+2024-10-16,08:00,6.1,Sunny,breezy,0.0
+2024-10-16,09:00,7.9,Sunny,breezy,0.0
+2024-10-16,10:00,11.0,Sunny,breezy,0.0
+2024-10-16,11:00,13.3,Sunny,breezy,0.0
+2024-10-16,12:00,14.9,Sunny,breezy,0.0
+2024-10-16,13:00,16.1,Sunny,breezy,0.0
+2024-10-16,14:00,16.8,Sunny,breezy,0.0
+2024-10-16,15:00,17.1,Sunny,breezy,0.0
+2024-10-16,16:00,16.5,Sunny,breezy,0.0
+2024-10-16,17:00,15.8,Sunny,breezy,0.0
+2024-10-16,18:00,15.0,Sunny,breezy,0.0
+2024-10-16,19:00,13.3,Clear,breezy,0.0
+2024-10-16,20:00,12.2,Clear,breezy,0.0
+2024-10-16,21:00,11.5,Clear,breezy,0.0
+2024-10-16,22:00,10.9,Clear,breezy,0.0
+2024-10-16,23:00,10.2,Clear,breezy,0.0
+2024-10-17,00:00,9.5,Clear,breezy,0.0
+2024-10-17,01:00,9.0,Partly cloudy,breezy,0.0
+2024-10-17,02:00,8.3,Partly cloudy,breezy,0.0
+2024-10-17,03:00,7.7,Clear,breezy,0.0
+2024-10-17,04:00,7.2,Clear,breezy,0.0
+2024-10-17,05:00,6.8,Clear,breezy,0.0
+2024-10-17,06:00,6.6,Clear,breezy,0.0
+2024-10-17,07:00,6.6,Partly cloudy,breezy,0.0
+2024-10-17,08:00,7.4,Partly cloudy,breezy,0.0
+2024-10-17,09:00,8.7,Partly cloudy,breezy,0.0
+2024-10-17,10:00,10.2,Partly cloudy,breezy,0.0
+2024-10-17,11:00,11.7,Partly cloudy,breezy,0.0
+2024-10-17,12:00,12.9,Sunny,breezy,0.0
+2024-10-17,13:00,15.0,Sunny,breezy,0.0
+2024-10-17,14:00,15.3,Sunny,breezy,0.0
+2024-10-17,15:00,16.3,Sunny,breezy,0.0
+2024-10-17,16:00,16.5,Sunny,breezy,0.0
+2024-10-17,17:00,15.4,Sunny,breezy,0.0
+2024-10-17,18:00,14.3,Sunny,calm,0.0
+2024-10-17,19:00,13.0,Clear,calm,0.0
+2024-10-17,20:00,12.1,Clear,breezy,0.0
+2024-10-17,21:00,11.5,Clear,breezy,0.0
+2024-10-17,22:00,9.8,Clear,breezy,0.0
+2024-10-17,23:00,9.7,Clear,breezy,0.0
+2024-10-18,00:00,9.4,Clear,breezy,0.0
+2024-10-18,01:00,9.0,Clear,breezy,0.0
+2024-10-18,02:00,8.6,Clear,breezy,0.0
+2024-10-18,03:00,8.3,Clear,breezy,0.0
+2024-10-18,04:00,8.0,Clear,breezy,0.0
+2024-10-18,05:00,7.8,Clear,breezy,0.0
+2024-10-18,06:00,7.7,Clear,breezy,0.0
+2024-10-18,07:00,7.6,Clear,breezy,0.0
+2024-10-18,08:00,9.8,Sunny,breezy,0.0
+2024-10-18,09:00,12.1,Sunny,breezy,0.0
+2024-10-18,10:00,14.4,Sunny,windy,0.0
+2024-10-18,11:00,16.8,Sunny,windy,0.0
+2024-10-18,12:00,18.6,Sunny,windy,0.0
+2024-10-18,13:00,20.1,Sunny,breezy,0.0
+2024-10-18,14:00,20.7,Sunny,breezy,0.0
+2024-10-18,15:00,20.9,Sunny,breezy,0.0
+2024-10-18,16:00,21.0,Sunny,breezy,0.0
+2024-10-18,17:00,19.7,Sunny,breezy,0.0
+2024-10-18,18:00,18.4,Sunny,breezy,0.0
+2024-10-18,19:00,17.1,Clear,calm,0.0
+2024-10-18,20:00,16.1,Clear,calm,0.0
+2024-10-18,21:00,15.5,Clear,calm,0.0
+2024-10-18,22:00,13.1,Clear,calm,0.0
+2024-10-18,23:00,13.4,Clear,calm,0.0
+2024-10-19,00:00,12.2,Clear,calm,0.0
+2024-10-19,01:00,11.8,Clear,calm,0.0
+2024-10-19,02:00,11.3,Clear,calm,0.0
+2024-10-19,03:00,10.9,Clear,breezy,0.0
+2024-10-19,04:00,10.5,Clear,breezy,0.0
+2024-10-19,05:00,10.0,Clear,breezy,0.0
+2024-10-19,06:00,9.7,Clear,breezy,0.0
+2024-10-19,07:00,9.4,Clear,breezy,0.0
+2024-10-19,08:00,11.8,Sunny,calm,0.0
+2024-10-19,09:00,14.3,Sunny,breezy,0.0
+2024-10-19,10:00,16.9,Sunny,breezy,0.0
+2024-10-19,11:00,19.0,Sunny,breezy,0.0
+2024-10-19,12:00,20.4,Sunny,breezy,0.0
+2024-10-19,13:00,21.6,Sunny,breezy,0.0
+2024-10-19,14:00,21.4,Sunny,breezy,0.0
+2024-10-19,15:00,20.9,Sunny,breezy,0.0
+2024-10-19,16:00,20.2,Sunny,breezy,0.0
+2024-10-19,17:00,18.8,Sunny,breezy,0.0
+2024-10-19,18:00,17.5,Sunny,calm,0.0
+2024-10-19,19:00,16.2,Clear,calm,0.0
+2024-10-19,20:00,15.2,Clear,calm,0.0
+2024-10-19,21:00,14.6,Clear,calm,0.0
+2024-10-19,22:00,13.8,Clear,calm,0.0
+2024-10-19,23:00,13.1,Clear,calm,0.0
+2024-10-20,00:00,12.5,Clear,calm,0.0
+2024-10-20,01:00,12.2,Clear,calm,0.0
+2024-10-20,02:00,11.5,Clear,calm,0.0
+2024-10-20,03:00,10.9,Cloudy,calm,0.0
+2024-10-20,04:00,10.3,Cloudy,calm,0.0
+2024-10-20,05:00,8.8,Fog,calm,0.0
+2024-10-20,06:00,7.5,Fog,calm,0.0
+2024-10-20,07:00,6.3,Fog,calm,0.0
+2024-10-20,08:00,8.4,Mist,calm,0.0
+2024-10-20,09:00,10.7,Mist,calm,0.0
+2024-10-20,10:00,13.2,Mist,calm,0.0
+2024-10-20,11:00,15.9,Sunny,calm,0.0
+2024-10-20,12:00,17.9,Sunny,calm,0.0
+2024-10-20,13:00,19.6,Sunny,calm,0.0
+2024-10-20,14:00,20.3,Partly cloudy,calm,0.0
+2024-10-20,15:00,20.6,Partly cloudy,calm,0.0
+2024-10-20,16:00,20.6,Partly cloudy,calm,0.0
+2024-10-20,17:00,19.4,Sunny,calm,0.0
+2024-10-20,18:00,18.2,Sunny,calm,0.0
+2024-10-20,19:00,16.9,Clear,calm,0.0
+2024-10-20,20:00,15.6,Clear,breezy,0.0
+2024-10-20,21:00,14.6,Clear,breezy,0.0
+2024-10-20,22:00,14.0,Clear,calm,0.0
+2024-10-20,23:00,12.6,Clear,calm,0.0
+2024-10-21,00:00,10.5,Fog,calm,0.0
+2024-10-21,01:00,9.7,Fog,calm,0.0
+2024-10-21,02:00,9.1,Mist,calm,0.0
+2024-10-21,03:00,8.6,Mist,calm,0.0
+2024-10-21,04:00,8.3,Mist,calm,0.0
+2024-10-21,05:00,7.9,Mist,calm,0.0
+2024-10-21,06:00,7.6,Mist,calm,0.0
+2024-10-21,07:00,7.4,Mist,calm,0.0
+2024-10-21,08:00,8.7,Mist,calm,0.0
+2024-10-21,09:00,10.1,Mist,calm,0.0
+2024-10-21,10:00,11.6,Mist,calm,0.0
+2024-10-21,11:00,15.5,Partly cloudy,calm,0.0
+2024-10-21,12:00,19.1,Partly cloudy,calm,0.0
+2024-10-21,13:00,22.5,Partly cloudy,calm,0.0
+2024-10-21,14:00,24.2,Sunny,calm,0.0
+2024-10-21,15:00,25.0,Sunny,calm,0.0
+2024-10-21,16:00,25.4,Sunny,calm,0.0
+2024-10-21,17:00,23.8,Sunny,calm,0.0
+2024-10-21,18:00,22.2,Sunny,calm,0.0
+2024-10-21,19:00,20.5,Clear,calm,0.0
+2024-10-21,20:00,19.2,Clear,calm,0.0
+2024-10-21,21:00,18.3,Clear,calm,0.0
+2024-10-21,22:00,14.8,Clear,calm,0.0
+2024-10-21,23:00,15.5,Fog,calm,0.0
+2024-10-22,00:00,17.7,Clear,calm,0.0
+2024-10-22,01:00,17.1,Clear,calm,0.0
+2024-10-22,02:00,16.6,Clear,calm,0.0
+2024-10-22,03:00,16.0,Clear,calm,0.0
+2024-10-22,04:00,14.2,Clear,calm,0.0
+2024-10-22,05:00,13.0,Clear,calm,0.0
+2024-10-22,06:00,12.1,Clear,calm,0.0
+2024-10-22,07:00,11.6,Clear,calm,0.0
+2024-10-22,08:00,12.5,Sunny,calm,0.0
+2024-10-22,09:00,14.9,Sunny,calm,0.0
+2024-10-22,10:00,18.2,Sunny,calm,0.0
+2024-10-22,11:00,20.8,Sunny,calm,0.0
+2024-10-22,12:00,22.6,Sunny,calm,0.0
+2024-10-22,13:00,23.7,Sunny,calm,0.0
+2024-10-22,14:00,24.6,Sunny,breezy,0.0
+2024-10-22,15:00,25.0,Sunny,breezy,0.0
+2024-10-22,16:00,24.1,Sunny,breezy,0.0
+2024-10-22,17:00,23.9,Sunny,breezy,0.0
+2024-10-22,18:00,22.9,Sunny,breezy,0.0
+2024-10-22,19:00,20.3,Clear,breezy,0.0
+2024-10-22,20:00,18.8,Clear,breezy,0.0
+2024-10-22,21:00,17.7,Clear,breezy,0.0
+2024-10-22,22:00,16.9,Clear,breezy,0.0
+2024-10-22,23:00,16.2,Clear,breezy,0.0
+2024-10-23,00:00,15.6,Clear,breezy,0.0
+2024-10-23,01:00,15.0,Mist,breezy,0.0
+2024-10-23,02:00,14.2,Mist,calm,0.0
+2024-10-23,03:00,13.3,Mist,calm,0.0
+2024-10-23,04:00,12.5,Mist,calm,0.0
+2024-10-23,05:00,11.9,Mist,calm,0.0
+2024-10-23,06:00,11.6,Mist,calm,0.0
+2024-10-23,07:00,11.6,Mist,calm,0.0
+2024-10-23,08:00,12.7,Fog,calm,0.0
+2024-10-23,09:00,14.3,Mist,calm,0.0
+2024-10-23,10:00,15.6,Mist,breezy,0.0
+2024-10-23,11:00,16.5,Mist,breezy,0.0
+2024-10-23,12:00,17.1,Overcast,breezy,0.0
+2024-10-23,13:00,17.9,Overcast,breezy,0.0
+2024-10-23,14:00,18.4,Cloudy,breezy,0.0
+2024-10-23,15:00,18.7,Cloudy,breezy,0.0
+2024-10-23,16:00,18.9,Cloudy,breezy,0.0
+2024-10-23,17:00,18.4,Partly cloudy,breezy,0.0
+2024-10-23,18:00,17.8,Partly cloudy,breezy,0.0
+2024-10-23,19:00,17.3,Partly cloudy,breezy,0.0
+2024-10-23,20:00,16.7,Partly cloudy,breezy,0.0
+2024-10-23,21:00,16.2,Partly cloudy,breezy,0.0
+2024-10-23,22:00,15.8,Partly cloudy,breezy,0.0
+2024-10-23,23:00,15.6,Clear,breezy,0.0
+2024-10-24,00:00,15.4,Cloudy,breezy,0.0
+2024-10-24,01:00,15.3,Cloudy,breezy,0.0
+2024-10-24,02:00,15.3,Overcast,breezy,0.0
+2024-10-24,03:00,15.2,Overcast,windy,0.0
+2024-10-24,04:00,15.2,Overcast,windy,0.0
+2024-10-24,05:00,14.9,Overcast,windy,0.0
+2024-10-24,06:00,14.5,Overcast,windy,0.0
+2024-10-24,07:00,14.2,Overcast,windy,0.0
+2024-10-24,08:00,13.6,Partly cloudy,windy,0.0
+2024-10-24,09:00,13.2,Partly cloudy,windy,0.0
+2024-10-24,10:00,12.8,Partly cloudy,windy,0.0
+2024-10-24,11:00,13.5,Cloudy,windy,0.0
+2024-10-24,12:00,14.4,Cloudy,windy,0.0
+2024-10-24,13:00,15.3,Cloudy,windy,0.0
+2024-10-24,14:00,15.9,Sunny,windy,0.0
+2024-10-24,15:00,16.3,Sunny,breezy,0.0
+2024-10-24,16:00,16.5,Sunny,breezy,0.0
+2024-10-24,17:00,15.2,Sunny,breezy,0.0
+2024-10-24,18:00,13.7,Sunny,breezy,0.0
+2024-10-24,19:00,12.3,Clear,breezy,0.0
+2024-10-24,20:00,11.1,Clear,breezy,0.0
+2024-10-24,21:00,10.3,Clear,breezy,0.0
+2024-10-24,22:00,12.9,Clear,breezy,0.0
+2024-10-24,23:00,10.5,Cloudy,breezy,0.0
+2024-10-25,00:00,9.1,Clear,breezy,0.0
+2024-10-25,01:00,8.1,Clear,breezy,0.0
+2024-10-25,02:00,7.3,Clear,breezy,0.0
+2024-10-25,03:00,6.7,Clear,breezy,0.0
+2024-10-25,04:00,6.2,Clear,calm,0.0
+2024-10-25,05:00,5.7,Clear,calm,0.0
+2024-10-25,06:00,5.3,Clear,calm,0.0
+2024-10-25,07:00,4.9,Clear,calm,0.0
+2024-10-25,08:00,6.4,Sunny,calm,0.0
+2024-10-25,09:00,7.9,Sunny,calm,0.0
+2024-10-25,10:00,9.4,Sunny,calm,0.0
+2024-10-25,11:00,11.8,Sunny,calm,0.0
+2024-10-25,12:00,13.8,Sunny,calm,0.0
+2024-10-25,13:00,15.5,Sunny,calm,0.0
+2024-10-25,14:00,16.4,Sunny,calm,0.0
+2024-10-25,15:00,16.5,Sunny,calm,0.0
+2024-10-25,16:00,15.9,Sunny,breezy,0.0
+2024-10-25,17:00,14.1,Sunny,breezy,0.0
+2024-10-25,18:00,12.8,Sunny,calm,0.0
+2024-10-25,19:00,12.3,Clear,breezy,0.0
+2024-10-25,20:00,12.4,Clear,breezy,0.0
+2024-10-25,21:00,12.8,Partly cloudy,breezy,0.0
+2024-10-25,22:00,10.9,Partly cloudy,breezy,0.0
+2024-10-25,23:00,12.6,Clear,breezy,0.0
+2024-10-26,00:00,13.0,Partly cloudy,breezy,0.0
+2024-10-26,01:00,13.1,Patchy light drizzle,breezy,0.22
+2024-10-26,02:00,13.2,Clear,breezy,0.0
+2024-10-26,03:00,13.4,Clear,breezy,0.0
+2024-10-26,04:00,13.6,Clear,breezy,0.0
+2024-10-26,05:00,13.6,Clear,breezy,0.0
+2024-10-26,06:00,13.4,Clear,breezy,0.0
+2024-10-26,07:00,13.3,Clear,breezy,0.0
+2024-10-26,08:00,14.5,Sunny,breezy,0.0
+2024-10-26,09:00,16.2,Patchy rain possible,breezy,0.06
+2024-10-26,10:00,18.0,Partly cloudy,breezy,0.0
+2024-10-26,11:00,19.7,Sunny,breezy,0.0
+2024-10-26,12:00,21.1,Sunny,breezy,0.0
+2024-10-26,13:00,21.3,Partly cloudy,breezy,0.0
+2024-10-26,14:00,19.8,Overcast,windy,0.0
+2024-10-26,15:00,18.4,Patchy rain possible,windy,0.01
+2024-10-26,16:00,18.2,Patchy rain possible,breezy,0.01
+2024-10-26,17:00,17.5,Sunny,breezy,0.0
+2024-10-26,18:00,16.4,Sunny,breezy,0.0
+2024-10-26,19:00,15.6,Clear,breezy,0.0
+2024-10-26,20:00,14.5,Clear,breezy,0.0
+2024-10-26,21:00,13.2,Clear,breezy,0.0
+2024-10-26,22:00,12.0,Clear,breezy,0.0
+2024-10-26,23:00,10.6,Clear,breezy,0.0
+2024-10-27,00:00,9.4,Clear,breezy,0.0
+2024-10-27,01:00,8.5,Clear,breezy,0.0
+2024-10-27,02:00,8.0,Clear,breezy,0.0
+2024-10-27,03:00,7.5,Cloudy,breezy,0.0
+2024-10-27,04:00,7.2,Clear,breezy,0.0
+2024-10-27,05:00,7.1,Cloudy,breezy,0.0
+2024-10-27,06:00,7.1,Clear,breezy,0.0
+2024-10-27,07:00,7.3,Cloudy,breezy,0.0
+2024-10-27,08:00,8.0,Sunny,breezy,0.0
+2024-10-27,09:00,9.1,Sunny,breezy,0.0
+2024-10-27,10:00,10.3,Sunny,breezy,0.0
+2024-10-27,11:00,11.3,Sunny,breezy,0.0
+2024-10-27,12:00,12.3,Sunny,breezy,0.0
+2024-10-27,13:00,13.2,Sunny,breezy,0.0
+2024-10-27,14:00,13.6,Sunny,breezy,0.0
+2024-10-27,15:00,13.6,Sunny,breezy,0.0
+2024-10-27,16:00,13.6,Sunny,breezy,0.0
+2024-10-27,17:00,12.6,Sunny,breezy,0.0
+2024-10-27,18:00,11.2,Sunny,calm,0.0
+2024-10-27,19:00,9.5,Clear,calm,0.0
+2024-10-27,20:00,8.5,Clear,calm,0.0
+2024-10-27,21:00,7.7,Clear,calm,0.0
+2024-10-27,22:00,7.0,Clear,calm,0.0
+2024-10-27,23:00,6.6,Clear,calm,0.0
+2024-10-28,00:00,6.8,Clear,calm,0.0
+2024-10-28,01:00,6.3,Clear,calm,0.0
+2024-10-28,02:00,5.6,Clear,calm,0.0
+2024-10-28,03:00,5.0,Clear,calm,0.0
+2024-10-28,04:00,4.5,Clear,calm,0.0
+2024-10-28,05:00,4.1,Clear,calm,0.0
+2024-10-28,06:00,3.8,Clear,calm,0.0
+2024-10-28,07:00,3.5,Clear,calm,0.0
+2024-10-28,08:00,6.1,Sunny,calm,0.0
+2024-10-28,09:00,8.7,Sunny,calm,0.0
+2024-10-28,10:00,11.3,Sunny,calm,0.0
+2024-10-28,11:00,13.3,Sunny,calm,0.0
+2024-10-28,12:00,14.6,Sunny,calm,0.0
+2024-10-28,13:00,15.7,Sunny,calm,0.0
+2024-10-28,14:00,15.6,Sunny,breezy,0.0
+2024-10-28,15:00,15.2,Sunny,breezy,0.0
+2024-10-28,16:00,14.7,Sunny,breezy,0.0
+2024-10-28,17:00,13.8,Sunny,breezy,0.0
+2024-10-28,18:00,13.1,Sunny,calm,0.0
+2024-10-28,19:00,12.4,Clear,calm,0.0
+2024-10-28,20:00,11.8,Clear,calm,0.0
+2024-10-28,21:00,11.5,Clear,calm,0.0
+2024-10-28,22:00,9.7,Clear,calm,0.0
+2024-10-28,23:00,10.2,Clear,calm,0.0
+2024-10-29,00:00,11.1,Partly cloudy,calm,0.0
+2024-10-29,01:00,11.3,Partly cloudy,calm,0.0
+2024-10-29,02:00,11.4,Partly cloudy,calm,0.0
+2024-10-29,03:00,11.4,Partly cloudy,breezy,0.0
+2024-10-29,04:00,11.5,Partly cloudy,calm,0.0
+2024-10-29,05:00,11.4,Partly cloudy,calm,0.0
+2024-10-29,06:00,11.3,Partly cloudy,calm,0.0
+2024-10-29,07:00,11.3,Partly cloudy,calm,0.0
+2024-10-29,08:00,11.8,Partly cloudy,calm,0.0
+2024-10-29,09:00,12.3,Partly cloudy,breezy,0.0
+2024-10-29,10:00,12.8,Partly cloudy,breezy,0.0
+2024-10-29,11:00,12.9,Overcast,breezy,0.0
+2024-10-29,12:00,12.9,Overcast,breezy,0.0
+2024-10-29,13:00,12.9,Overcast,breezy,0.0
+2024-10-29,14:00,12.9,Overcast,breezy,0.0
+2024-10-29,15:00,13.0,Overcast,breezy,0.0
+2024-10-29,16:00,13.0,Overcast,breezy,0.0
+2024-10-29,17:00,12.6,Partly cloudy,breezy,0.0
+2024-10-29,18:00,12.1,Partly cloudy,breezy,0.0
+2024-10-29,19:00,11.7,Partly cloudy,breezy,0.0
+2024-10-29,20:00,11.2,Fog,breezy,0.0
+2024-10-29,21:00,10.9,Fog,breezy,0.0
+2024-10-29,22:00,10.9,Fog,breezy,0.0
+2024-10-29,23:00,10.2,Partly cloudy,breezy,0.0
+2024-10-30,00:00,13.4,Clear,calm,0.0
+2024-10-30,01:00,13.1,Partly cloudy,calm,0.0
+2024-10-30,02:00,12.9,Mist,breezy,0.0
+2024-10-30,03:00,12.7,Mist,calm,0.0
+2024-10-30,04:00,12.6,Mist,calm,0.0
+2024-10-30,05:00,12.5,Fog,calm,0.0
+2024-10-30,06:00,12.5,Fog,calm,0.0
+2024-10-30,07:00,12.6,Fog,calm,0.0
+2024-10-30,08:00,13.7,Fog,calm,0.0
+2024-10-30,09:00,14.8,Fog,breezy,0.0
+2024-10-30,10:00,16.0,Fog,breezy,0.0
+2024-10-30,11:00,18.5,Partly cloudy,breezy,0.0
+2024-10-30,12:00,20.7,Partly cloudy,breezy,0.0
+2024-10-30,13:00,22.7,Partly cloudy,breezy,0.0
+2024-10-30,14:00,23.3,Sunny,breezy,0.0
+2024-10-30,15:00,23.4,Sunny,breezy,0.0
+2024-10-30,16:00,23.3,Sunny,breezy,0.0
+2024-10-30,17:00,22.1,Sunny,breezy,0.0
+2024-10-30,18:00,21.0,Clear,calm,0.0
+2024-10-30,19:00,20.0,Partly cloudy,calm,0.0
+2024-10-30,20:00,19.3,Partly cloudy,calm,0.0
+2024-10-30,21:00,18.9,Partly cloudy,breezy,0.0
+2024-10-30,22:00,16.2,Partly cloudy,breezy,0.0
+2024-10-30,23:00,17.0,Clear,breezy,0.0
+2024-10-31,00:00,17.3,Partly cloudy,breezy,0.0
+2024-10-31,01:00,17.4,Partly cloudy,breezy,0.0
+2024-10-31,02:00,17.2,Clear,breezy,0.0
+2024-10-31,03:00,17.0,Clear,breezy,0.0
+2024-10-31,04:00,16.8,Clear,breezy,0.0
+2024-10-31,05:00,16.6,Clear,breezy,0.0
+2024-10-31,06:00,16.4,Clear,breezy,0.0
+2024-10-31,07:00,16.2,Clear,breezy,0.0
+2024-10-31,08:00,17.8,Sunny,breezy,0.0
+2024-10-31,09:00,19.4,Sunny,breezy,0.0
+2024-10-31,10:00,21.1,Sunny,breezy,0.0
+2024-10-31,11:00,22.9,Sunny,windy,0.0
+2024-10-31,12:00,24.2,Sunny,windy,0.0
+2024-10-31,13:00,25.4,Sunny,windy,0.0
+2024-10-31,14:00,25.1,Sunny,windy,0.0
+2024-10-31,15:00,24.8,Partly cloudy,windy,0.0
+2024-10-31,16:00,24.1,Sunny,breezy,0.0
+2024-10-31,17:00,22.9,Sunny,breezy,0.0
+2024-10-31,18:00,21.9,Clear,breezy,0.0
+2024-10-31,19:00,21.1,Partly cloudy,breezy,0.0
+2024-10-31,20:00,20.7,Clear,breezy,0.0
+2024-10-31,21:00,20.4,Partly cloudy,breezy,0.0
+2024-10-31,22:00,19.4,Overcast,breezy,0.0
+2024-10-31,23:00,19.6,Partly cloudy,windy,0.0
+2024-11-01,00:00,19.7,Clear,windy,0.0
+2024-11-01,01:00,19.7,Clear,windy,0.0
+2024-11-01,02:00,19.5,Clear,windy,0.0
+2024-11-01,03:00,19.2,Clear,windy,0.0
+2024-11-01,04:00,18.9,Clear,windy,0.0
+2024-11-01,05:00,18.6,Clear,windy,0.0
+2024-11-01,06:00,18.3,Clear,breezy,0.0
+2024-11-01,07:00,18.1,Partly cloudy,breezy,0.0
+2024-11-01,08:00,18.5,Partly cloudy,breezy,0.0
+2024-11-01,09:00,18.4,Patchy rain possible,breezy,0.03
+2024-11-01,10:00,18.2,Light drizzle,breezy,0.34
+2024-11-01,11:00,17.6,Light drizzle,breezy,0.71
+2024-11-01,12:00,17.0,Light rain,breezy,1.54
+2024-11-01,13:00,16.6,Light drizzle,breezy,0.62
+2024-11-01,14:00,16.4,Patchy light drizzle,breezy,0.42
+2024-11-01,15:00,16.1,Patchy light drizzle,calm,0.23
+2024-11-01,16:00,15.8,Patchy light drizzle,breezy,0.57
+2024-11-01,17:00,15.5,Light drizzle,breezy,0.23
+2024-11-01,18:00,15.2,Patchy rain possible,breezy,0.06
+2024-11-01,19:00,14.6,Patchy rain possible,breezy,0.14
+2024-11-01,20:00,13.4,Clear,breezy,0.0
+2024-11-01,21:00,12.3,Clear,breezy,0.0
+2024-11-01,22:00,11.7,Clear,breezy,0.0
+2024-11-01,23:00,11.2,Clear,breezy,0.0
+2024-11-02,00:00,10.7,Clear,breezy,0.0
+2024-11-02,01:00,10.2,Clear,breezy,0.0
+2024-11-02,02:00,9.7,Clear,breezy,0.0
+2024-11-02,03:00,9.2,Clear,breezy,0.0
+2024-11-02,04:00,8.6,Clear,breezy,0.0
+2024-11-02,05:00,8.3,Clear,breezy,0.0
+2024-11-02,06:00,7.9,Clear,breezy,0.0
+2024-11-02,07:00,7.6,Clear,breezy,0.0
+2024-11-02,08:00,8.5,Sunny,breezy,0.0
+2024-11-02,09:00,10.0,Partly cloudy,breezy,0.0
+2024-11-02,10:00,11.7,Sunny,breezy,0.0
+2024-11-02,11:00,12.6,Partly cloudy,breezy,0.0
+2024-11-02,12:00,12.9,Cloudy,breezy,0.0
+2024-11-02,13:00,13.1,Partly cloudy,breezy,0.0
+2024-11-02,14:00,13.0,Cloudy,breezy,0.0
+2024-11-02,15:00,13.0,Cloudy,breezy,0.0
+2024-11-02,16:00,12.8,Cloudy,breezy,0.0
+2024-11-02,17:00,12.5,Cloudy,breezy,0.0
+2024-11-02,18:00,11.9,Partly cloudy,breezy,0.0
+2024-11-02,19:00,11.4,Cloudy,breezy,0.0
+2024-11-02,20:00,10.8,Partly cloudy,breezy,0.0
+2024-11-02,21:00,10.3,Clear,calm,0.0
+2024-11-02,22:00,9.8,Partly cloudy,calm,0.0
+2024-11-02,23:00,9.5,Clear,calm,0.0
+2024-11-03,00:00,8.1,Clear,breezy,0.0
+2024-11-03,01:00,7.6,Clear,breezy,0.0
+2024-11-03,02:00,6.7,Clear,breezy,0.0
+2024-11-03,03:00,6.0,Clear,breezy,0.0
+2024-11-03,04:00,5.4,Clear,breezy,0.0
+2024-11-03,05:00,4.7,Clear,breezy,0.0
+2024-11-03,06:00,4.2,Clear,breezy,0.0
+2024-11-03,07:00,3.8,Clear,breezy,0.0
+2024-11-03,08:00,5.3,Sunny,breezy,0.0
+2024-11-03,09:00,6.9,Sunny,breezy,0.0
+2024-11-03,10:00,8.6,Sunny,breezy,0.0
+2024-11-03,11:00,10.4,Sunny,breezy,0.0
+2024-11-03,12:00,11.8,Sunny,breezy,0.0
+2024-11-03,13:00,12.9,Sunny,breezy,0.0
+2024-11-03,14:00,12.9,Sunny,breezy,0.0
+2024-11-03,15:00,12.6,Sunny,breezy,0.0
+2024-11-03,16:00,12.2,Sunny,breezy,0.0
+2024-11-03,17:00,11.2,Sunny,breezy,0.0
+2024-11-03,18:00,10.3,Clear,breezy,0.0
+2024-11-03,19:00,9.5,Clear,calm,0.0
+2024-11-03,20:00,8.8,Clear,calm,0.0
+2024-11-03,21:00,8.2,Clear,calm,0.0
+2024-11-03,22:00,8.6,Clear,calm,0.0
+2024-11-03,23:00,7.8,Clear,calm,0.0
+2024-11-04,00:00,8.6,Clear,calm,0.0
+2024-11-04,01:00,8.5,Clear,calm,0.0
+2024-11-04,02:00,8.5,Clear,calm,0.0
+2024-11-04,03:00,8.5,Clear,calm,0.0
+2024-11-04,04:00,8.5,Clear,calm,0.0
+2024-11-04,05:00,8.8,Clear,calm,0.0
+2024-11-04,06:00,9.1,Cloudy,calm,0.0
+2024-11-04,07:00,9.4,Cloudy,calm,0.0
+2024-11-04,08:00,10.2,Overcast,calm,0.0
+2024-11-04,09:00,11.0,Overcast,calm,0.0
+2024-11-04,10:00,11.7,Overcast,breezy,0.0
+2024-11-04,11:00,12.4,Overcast,breezy,0.0
+2024-11-04,12:00,12.9,Overcast,breezy,0.0
+2024-11-04,13:00,13.4,Overcast,breezy,0.0
+2024-11-04,14:00,13.7,Overcast,breezy,0.0
+2024-11-04,15:00,13.8,Overcast,breezy,0.0
+2024-11-04,16:00,14.0,Overcast,breezy,0.0
+2024-11-04,17:00,14.0,Overcast,breezy,0.0
+2024-11-04,18:00,13.9,Overcast,breezy,0.0
+2024-11-04,19:00,13.9,Overcast,breezy,0.0
+2024-11-04,20:00,14.0,Overcast,breezy,0.0
+2024-11-04,21:00,14.2,Overcast,breezy,0.0
+2024-11-04,22:00,11.5,Overcast,breezy,0.0
+2024-11-04,23:00,13.1,Clear,breezy,0.0
+2024-11-05,00:00,15.3,Overcast,calm,0.0
+2024-11-05,01:00,15.6,Overcast,calm,0.0
+2024-11-05,02:00,16.0,Overcast,calm,0.0
+2024-11-05,03:00,16.3,Overcast,calm,0.0
+2024-11-05,04:00,16.6,Overcast,calm,0.0
+2024-11-05,05:00,16.8,Overcast,calm,0.0
+2024-11-05,06:00,17.0,Overcast,calm,0.0
+2024-11-05,07:00,17.1,Overcast,calm,0.0
+2024-11-05,08:00,17.6,Overcast,calm,0.0
+2024-11-05,09:00,18.1,Overcast,calm,0.0
+2024-11-05,10:00,18.6,Overcast,breezy,0.0
+2024-11-05,11:00,19.9,Partly cloudy,breezy,0.0
+2024-11-05,12:00,21.1,Partly cloudy,breezy,0.0
+2024-11-05,13:00,22.3,Partly cloudy,breezy,0.0
+2024-11-05,14:00,22.0,Sunny,breezy,0.0
+2024-11-05,15:00,21.5,Partly cloudy,breezy,0.0
+2024-11-05,16:00,20.8,Partly cloudy,windy,0.0
+2024-11-05,17:00,20.1,Cloudy,breezy,0.0
+2024-11-05,18:00,19.6,Cloudy,windy,0.0
+2024-11-05,19:00,19.1,Cloudy,windy,0.0
+2024-11-05,20:00,18.4,Clear,windy,0.0
+2024-11-05,21:00,17.9,Partly cloudy,windy,0.0
+2024-11-05,22:00,16.5,Partly cloudy,windy,0.0
+2024-11-05,23:00,16.4,Overcast,windy,0.0
+2024-11-06,00:00,16.6,Overcast,windy,0.0
+2024-11-06,01:00,16.3,Overcast,windy,0.0
+2024-11-06,02:00,16.2,Overcast,windy,0.0
+2024-11-06,03:00,16.1,Overcast,windy,0.0
+2024-11-06,04:00,16.0,Overcast,windy,0.0
+2024-11-06,05:00,15.9,Overcast,windy,0.0
+2024-11-06,06:00,15.8,Overcast,breezy,0.0
+2024-11-06,07:00,15.7,Overcast,breezy,0.0
+2024-11-06,08:00,16.1,Overcast,breezy,0.0
+2024-11-06,09:00,16.6,Overcast,breezy,0.0
+2024-11-06,10:00,17.0,Overcast,windy,0.0
+2024-11-06,11:00,18.3,Overcast,windy,0.0
+2024-11-06,12:00,19.4,Overcast,windy,0.0
+2024-11-06,13:00,20.4,Overcast,windy,0.0
+2024-11-06,14:00,21.1,Partly cloudy,windy,0.0
+2024-11-06,15:00,21.6,Partly cloudy,windy,0.0
+2024-11-06,16:00,21.9,Partly cloudy,breezy,0.0
+2024-11-06,17:00,21.6,Overcast,breezy,0.0
+2024-11-06,18:00,21.2,Overcast,breezy,0.0
+2024-11-06,19:00,20.7,Overcast,breezy,0.0
+2024-11-06,20:00,20.3,Overcast,breezy,0.0
+2024-11-06,21:00,19.9,Overcast,calm,0.0
+2024-11-06,22:00,18.2,Overcast,calm,0.0
+2024-11-06,23:00,18.6,Overcast,calm,0.0
+2024-11-07,00:00,18.7,Overcast,calm,0.0
+2024-11-07,01:00,18.7,Overcast,calm,0.0
+2024-11-07,02:00,18.6,Cloudy,calm,0.0
+2024-11-07,03:00,18.5,Cloudy,calm,0.0
+2024-11-07,04:00,18.3,Cloudy,calm,0.0
+2024-11-07,05:00,18.1,Overcast,calm,0.0
+2024-11-07,06:00,17.8,Overcast,calm,0.0
+2024-11-07,07:00,17.6,Overcast,calm,0.0
+2024-11-07,08:00,18.4,Overcast,calm,0.0
+2024-11-07,09:00,19.3,Overcast,calm,0.0
+2024-11-07,10:00,20.2,Overcast,calm,0.0
+2024-11-07,11:00,21.6,Partly cloudy,calm,0.0
+2024-11-07,12:00,22.8,Partly cloudy,calm,0.0
+2024-11-07,13:00,23.8,Partly cloudy,calm,0.0
+2024-11-07,14:00,22.0,Sunny,calm,0.0
+2024-11-07,15:00,21.0,Partly cloudy,calm,0.0
+2024-11-07,16:00,20.1,Partly cloudy,calm,0.0
+2024-11-07,17:00,18.5,Partly cloudy,calm,0.0
+2024-11-07,18:00,17.4,Partly cloudy,calm,0.0
+2024-11-07,19:00,16.6,Partly cloudy,calm,0.0
+2024-11-07,20:00,16.0,Partly cloudy,calm,0.0
+2024-11-07,21:00,15.6,Partly cloudy,calm,0.0
+2024-11-07,22:00,17.5,Partly cloudy,calm,0.0
+2024-11-07,23:00,16.4,Overcast,calm,0.0
+2024-11-08,00:00,16.3,Overcast,calm,0.0
+2024-11-08,01:00,16.2,Overcast,calm,0.0
+2024-11-08,02:00,16.1,Cloudy,calm,0.0
+2024-11-08,03:00,15.8,Overcast,breezy,0.0
+2024-11-08,04:00,15.5,Cloudy,breezy,0.0
+2024-11-08,05:00,15.2,Patchy rain possible,calm,0.01
+2024-11-08,06:00,15.0,Patchy rain possible,calm,0.01
+2024-11-08,07:00,14.5,Patchy rain possible,calm,0.01
+2024-11-08,08:00,14.9,Partly cloudy,calm,0.0
+2024-11-08,09:00,15.8,Cloudy,calm,0.0
+2024-11-08,10:00,17.0,Cloudy,calm,0.0
+2024-11-08,11:00,17.5,Overcast,calm,0.0
+2024-11-08,12:00,17.6,Overcast,calm,0.0
+2024-11-08,13:00,17.5,Overcast,calm,0.0
+2024-11-08,14:00,17.3,Overcast,calm,0.0
+2024-11-08,15:00,17.2,Overcast,calm,0.0
+2024-11-08,16:00,17.0,Overcast,calm,0.0
+2024-11-08,17:00,16.7,Patchy rain possible,calm,0.01
+2024-11-08,18:00,16.5,Cloudy,calm,0.0
+2024-11-08,19:00,16.5,Overcast,calm,0.0
+2024-11-08,20:00,16.5,Cloudy,calm,0.0
+2024-11-08,21:00,16.1,Cloudy,calm,0.0
+2024-11-08,22:00,15.4,Partly cloudy,calm,0.0
+2024-11-08,23:00,14.7,Partly cloudy,calm,0.0
+2024-11-09,00:00,12.1,Clear,breezy,0.0
+2024-11-09,01:00,11.2,Clear,breezy,0.0
+2024-11-09,02:00,10.1,Clear,breezy,0.0
+2024-11-09,03:00,9.2,Clear,breezy,0.0
+2024-11-09,04:00,8.4,Clear,breezy,0.0
+2024-11-09,05:00,7.6,Clear,breezy,0.0
+2024-11-09,06:00,7.1,Clear,breezy,0.0
+2024-11-09,07:00,6.6,Sunny,breezy,0.0
+2024-11-09,08:00,7.5,Sunny,breezy,0.0
+2024-11-09,09:00,8.5,Sunny,breezy,0.0
+2024-11-09,10:00,9.6,Sunny,breezy,0.0
+2024-11-09,11:00,10.9,Sunny,breezy,0.0
+2024-11-09,12:00,12.0,Sunny,breezy,0.0
+2024-11-09,13:00,12.9,Sunny,breezy,0.0
+2024-11-09,14:00,13.3,Sunny,breezy,0.0
+2024-11-09,15:00,13.4,Sunny,calm,0.0
+2024-11-09,16:00,13.3,Sunny,calm,0.0
+2024-11-09,17:00,12.0,Clear,calm,0.0
+2024-11-09,18:00,10.8,Clear,calm,0.0
+2024-11-09,19:00,9.5,Clear,calm,0.0
+2024-11-09,20:00,8.4,Clear,calm,0.0
+2024-11-09,21:00,7.6,Clear,calm,0.0
+2024-11-09,22:00,10.4,Clear,calm,0.0
+2024-11-09,23:00,7.9,Clear,calm,0.0
+2024-11-10,00:00,6.1,Clear,calm,0.0
+2024-11-10,01:00,5.5,Clear,calm,0.0
+2024-11-10,02:00,4.9,Clear,calm,0.0
+2024-11-10,03:00,4.4,Clear,calm,0.0
+2024-11-10,04:00,4.1,Clear,calm,0.0
+2024-11-10,05:00,4.0,Clear,calm,0.0
+2024-11-10,06:00,4.1,Clear,calm,0.0
+2024-11-10,07:00,4.2,Sunny,calm,0.0
+2024-11-10,08:00,6.5,Sunny,calm,0.0
+2024-11-10,09:00,8.8,Partly cloudy,calm,0.0
+2024-11-10,10:00,11.0,Partly cloudy,breezy,0.0
+2024-11-10,11:00,12.5,Partly cloudy,breezy,0.0
+2024-11-10,12:00,13.4,Partly cloudy,breezy,0.0
+2024-11-10,13:00,14.0,Partly cloudy,windy,0.0
+2024-11-10,14:00,14.1,Partly cloudy,windy,0.0
+2024-11-10,15:00,14.1,Partly cloudy,breezy,0.0
+2024-11-10,16:00,14.1,Partly cloudy,breezy,0.0
+2024-11-10,17:00,13.9,Overcast,breezy,0.0
+2024-11-10,18:00,13.8,Overcast,breezy,0.0
+2024-11-10,19:00,13.7,Overcast,breezy,0.0
+2024-11-10,20:00,13.8,Overcast,breezy,0.0
+2024-11-10,21:00,13.9,Overcast,windy,0.0
+2024-11-10,22:00,10.4,Overcast,windy,0.0
+2024-11-10,23:00,12.3,Clear,windy,0.0
+2024-11-11,00:00,15.2,Moderate rain,windy,6.52
+2024-11-11,01:00,15.3,Moderate rain,windy,8.48
+2024-11-11,02:00,15.4,Heavy rain,windy,10.45
+2024-11-11,03:00,15.5,Heavy rain,windy,5.97
+2024-11-11,04:00,15.6,Heavy rain,windy,3.73
+2024-11-11,05:00,15.7,Light rain,windy,1.49
+2024-11-11,06:00,15.8,Light rain,windy,0.74
+2024-11-11,07:00,15.8,Light rain,windy,0.37
+2024-11-11,08:00,16.0,Overcast,windy,0.0
+2024-11-11,09:00,16.2,Overcast,breezy,0.0
+2024-11-11,10:00,16.3,Overcast,windy,0.0
+2024-11-11,11:00,17.3,Overcast,windy,0.0
+2024-11-11,12:00,18.3,Overcast,windy,0.0
+2024-11-11,13:00,19.3,Overcast,windy,0.0
+2024-11-11,14:00,19.9,Sunny,windy,0.0
+2024-11-11,15:00,20.3,Sunny,windy,0.0
+2024-11-11,16:00,20.6,Sunny,breezy,0.0
+2024-11-11,17:00,19.7,Clear,breezy,0.0
+2024-11-11,18:00,18.6,Clear,breezy,0.0
+2024-11-11,19:00,17.6,Clear,breezy,0.0
+2024-11-11,20:00,16.8,Clear,breezy,0.0
+2024-11-11,21:00,16.2,Clear,breezy,0.0
+2024-11-11,22:00,16.0,Clear,breezy,0.0
+2024-11-11,23:00,15.3,Moderate rain,breezy,2.6
+2024-11-12,00:00,14.3,Clear,breezy,0.0
+2024-11-12,01:00,13.8,Clear,breezy,0.0
+2024-11-12,02:00,12.8,Clear,breezy,0.0
+2024-11-12,03:00,12.0,Clear,breezy,0.0
+2024-11-12,04:00,11.2,Clear,breezy,0.0
+2024-11-12,05:00,10.3,Clear,windy,0.0
+2024-11-12,06:00,9.5,Clear,windy,0.0
+2024-11-12,07:00,8.9,Sunny,windy,0.0
+2024-11-12,08:00,9.6,Sunny,windy,0.0
+2024-11-12,09:00,10.4,Sunny,windy,0.0
+2024-11-12,10:00,11.3,Sunny,windy,0.0
+2024-11-12,11:00,12.2,Sunny,windy,0.0
+2024-11-12,12:00,12.9,Sunny,windy,0.0
+2024-11-12,13:00,13.4,Sunny,windy,0.0
+2024-11-12,14:00,13.2,Sunny,windy,0.0
+2024-11-12,15:00,12.9,Sunny,windy,0.0
+2024-11-12,16:00,12.5,Sunny,windy,0.0
+2024-11-12,17:00,10.9,Clear,windy,0.0
+2024-11-12,18:00,9.4,Clear,windy,0.0
+2024-11-12,19:00,7.9,Clear,windy,0.0
+2024-11-12,20:00,6.6,Clear,windy,0.0
+2024-11-12,21:00,5.6,Clear,windy,0.0
+2024-11-12,22:00,10.8,Clear,windy,0.0
+2024-11-12,23:00,7.0,Clear,breezy,0.0
+2024-11-13,00:00,4.0,Clear,breezy,0.0
+2024-11-13,01:00,3.2,Clear,breezy,0.0
+2024-11-13,02:00,2.6,Clear,breezy,0.0
+2024-11-13,03:00,2.2,Clear,breezy,0.0
+2024-11-13,04:00,1.9,Clear,breezy,0.0
+2024-11-13,05:00,1.6,Clear,breezy,0.0
+2024-11-13,06:00,1.3,Clear,breezy,0.0
+2024-11-13,07:00,1.1,Sunny,breezy,0.0
+2024-11-13,08:00,2.3,Sunny,breezy,0.0
+2024-11-13,09:00,3.5,Sunny,breezy,0.0
+2024-11-13,10:00,4.8,Sunny,breezy,0.0
+2024-11-13,11:00,6.1,Partly cloudy,breezy,0.0
+2024-11-13,12:00,7.1,Partly cloudy,breezy,0.0
+2024-11-13,13:00,8.0,Partly cloudy,breezy,0.0
+2024-11-13,14:00,8.8,Sunny,breezy,0.0
+2024-11-13,15:00,9.4,Sunny,breezy,0.0
+2024-11-13,16:00,9.9,Sunny,breezy,0.0
+2024-11-13,17:00,9.0,Clear,breezy,0.0
+2024-11-13,18:00,8.0,Clear,breezy,0.0
+2024-11-13,19:00,7.0,Clear,calm,0.0
+2024-11-13,20:00,6.3,Clear,calm,0.0
+2024-11-13,21:00,5.8,Partly cloudy,calm,0.0
+2024-11-13,22:00,5.3,Cloudy,calm,0.0
+2024-11-13,23:00,5.3,Clear,calm,0.0
+2024-11-14,00:00,6.0,Partly cloudy,breezy,0.0
+2024-11-14,01:00,5.9,Partly cloudy,calm,0.0
+2024-11-14,02:00,5.9,Overcast,breezy,0.0
+2024-11-14,03:00,5.9,Overcast,breezy,0.0
+2024-11-14,04:00,5.9,Overcast,calm,0.0
+2024-11-14,05:00,6.1,Overcast,breezy,0.0
+2024-11-14,06:00,6.3,Overcast,breezy,0.0
+2024-11-14,07:00,6.5,Overcast,breezy,0.0
+2024-11-14,08:00,7.4,Overcast,calm,0.0
+2024-11-14,09:00,8.3,Overcast,calm,0.0
+2024-11-14,10:00,9.2,Overcast,breezy,0.0
+2024-11-14,11:00,9.8,Partly cloudy,breezy,0.0
+2024-11-14,12:00,10.2,Partly cloudy,breezy,0.0
+2024-11-14,13:00,10.5,Partly cloudy,breezy,0.0
+2024-11-14,14:00,10.5,Overcast,breezy,0.0
+2024-11-14,15:00,10.5,Overcast,breezy,0.0
+2024-11-14,16:00,10.4,Overcast,breezy,0.0
+2024-11-14,17:00,10.3,Overcast,breezy,0.0
+2024-11-14,18:00,10.2,Overcast,breezy,0.0
+2024-11-14,19:00,10.1,Overcast,breezy,0.0
+2024-11-14,20:00,10.1,Overcast,breezy,0.0
+2024-11-14,21:00,10.1,Overcast,calm,0.0
+2024-11-14,22:00,8.1,Overcast,calm,0.0
+2024-11-14,23:00,8.8,Partly cloudy,calm,0.0
+2024-11-15,00:00,9.4,Overcast,calm,0.0
+2024-11-15,01:00,9.1,Overcast,breezy,0.0
+2024-11-15,02:00,8.3,Cloudy,breezy,0.0
+2024-11-15,03:00,7.6,Cloudy,breezy,0.0
+2024-11-15,04:00,7.0,Cloudy,breezy,0.0
+2024-11-15,05:00,6.1,Partly cloudy,breezy,0.0
+2024-11-15,06:00,5.3,Partly cloudy,breezy,0.0
+2024-11-15,07:00,4.7,Partly cloudy,breezy,0.0
+2024-11-15,08:00,5.5,Sunny,breezy,0.0
+2024-11-15,09:00,6.4,Sunny,breezy,0.0
+2024-11-15,10:00,7.5,Sunny,breezy,0.0
+2024-11-15,11:00,8.9,Sunny,breezy,0.0
+2024-11-15,12:00,10.0,Cloudy,breezy,0.0
+2024-11-15,13:00,11.1,Cloudy,breezy,0.0
+2024-11-15,14:00,11.5,Overcast,breezy,0.0
+2024-11-15,15:00,11.7,Overcast,breezy,0.0
+2024-11-15,16:00,11.8,Overcast,breezy,0.0
+2024-11-15,17:00,11.3,Overcast,breezy,0.0
+2024-11-15,18:00,10.8,Overcast,breezy,0.0
+2024-11-15,19:00,10.3,Overcast,breezy,0.0
+2024-11-15,20:00,9.5,Clear,breezy,0.0
+2024-11-15,21:00,8.7,Clear,breezy,0.0
+2024-11-15,22:00,9.4,Clear,breezy,0.0
+2024-11-15,23:00,7.8,Overcast,breezy,0.0
+2024-11-16,00:00,7.3,Clear,breezy,0.0
+2024-11-16,01:00,6.8,Clear,breezy,0.0
+2024-11-16,02:00,6.1,Clear,breezy,0.0
+2024-11-16,03:00,5.5,Clear,breezy,0.0
+2024-11-16,04:00,5.1,Clear,breezy,0.0
+2024-11-16,05:00,4.6,Clear,windy,0.0
+2024-11-16,06:00,4.2,Clear,breezy,0.0
+2024-11-16,07:00,3.8,Sunny,breezy,0.0
+2024-11-16,08:00,5.5,Sunny,breezy,0.0
+2024-11-16,09:00,7.3,Sunny,breezy,0.0
+2024-11-16,10:00,9.1,Sunny,windy,0.0
+2024-11-16,11:00,11.3,Sunny,windy,0.0
+2024-11-16,12:00,13.0,Sunny,windy,0.0
+2024-11-16,13:00,14.5,Sunny,windy,0.0
+2024-11-16,14:00,15.2,Sunny,windy,0.0
+2024-11-16,15:00,15.6,Sunny,windy,0.0
+2024-11-16,16:00,15.7,Sunny,breezy,0.0
+2024-11-16,17:00,14.4,Clear,breezy,0.0
+2024-11-16,18:00,13.1,Clear,breezy,0.0
+2024-11-16,19:00,11.7,Clear,breezy,0.0
+2024-11-16,20:00,10.4,Clear,breezy,0.0
+2024-11-16,21:00,9.5,Clear,breezy,0.0
+2024-11-16,22:00,8.8,Clear,breezy,0.0
+2024-11-16,23:00,7.8,Clear,breezy,0.0
+2024-11-17,00:00,8.2,Clear,breezy,0.0
+2024-11-17,01:00,7.6,Clear,breezy,0.0
+2024-11-17,02:00,6.9,Clear,breezy,0.0
+2024-11-17,03:00,6.3,Clear,breezy,0.0
+2024-11-17,04:00,5.9,Clear,breezy,0.0
+2024-11-17,05:00,5.3,Clear,breezy,0.0
+2024-11-17,06:00,4.8,Clear,breezy,0.0
+2024-11-17,07:00,4.3,Sunny,breezy,0.0
+2024-11-17,08:00,5.5,Sunny,breezy,0.0
+2024-11-17,09:00,6.7,Sunny,breezy,0.0
+2024-11-17,10:00,8.0,Sunny,breezy,0.0
+2024-11-17,11:00,9.5,Sunny,breezy,0.0
+2024-11-17,12:00,10.6,Sunny,breezy,0.0
+2024-11-17,13:00,11.5,Partly cloudy,breezy,0.0
+2024-11-17,14:00,11.8,Partly cloudy,breezy,0.0
+2024-11-17,15:00,11.9,Partly cloudy,breezy,0.0
+2024-11-17,16:00,11.8,Partly cloudy,breezy,0.0
+2024-11-17,17:00,11.1,Clear,calm,0.0
+2024-11-17,18:00,10.4,Clear,calm,0.0
+2024-11-17,19:00,9.8,Partly cloudy,calm,0.0
+2024-11-17,20:00,9.1,Partly cloudy,calm,0.0
+2024-11-17,21:00,8.5,Partly cloudy,calm,0.0
+2024-11-17,22:00,8.8,Partly cloudy,breezy,0.0
+2024-11-17,23:00,8.0,Clear,breezy,0.0
+2024-11-18,00:00,7.5,Partly cloudy,breezy,0.0
+2024-11-18,01:00,7.2,Partly cloudy,breezy,0.0
+2024-11-18,02:00,7.0,Partly cloudy,breezy,0.0
+2024-11-18,03:00,7.0,Partly cloudy,breezy,0.0
+2024-11-18,04:00,7.0,Partly cloudy,breezy,0.0
+2024-11-18,05:00,7.0,Partly cloudy,breezy,0.0
+2024-11-18,06:00,7.1,Partly cloudy,breezy,0.0
+2024-11-18,07:00,7.1,Partly cloudy,breezy,0.0
+2024-11-18,08:00,8.9,Overcast,breezy,0.0
+2024-11-18,09:00,10.7,Overcast,breezy,0.0
+2024-11-18,10:00,12.5,Overcast,breezy,0.0
+2024-11-18,11:00,14.3,Sunny,breezy,0.0
+2024-11-18,12:00,15.6,Sunny,breezy,0.0
+2024-11-18,13:00,16.6,Sunny,breezy,0.0
+2024-11-18,14:00,16.9,Sunny,breezy,0.0
+2024-11-18,15:00,16.8,Sunny,windy,0.0
+2024-11-18,16:00,16.2,Sunny,breezy,0.0
+2024-11-18,17:00,14.9,Clear,breezy,0.0
+2024-11-18,18:00,13.6,Partly cloudy,breezy,0.0
+2024-11-18,19:00,12.7,Partly cloudy,breezy,0.0
+2024-11-18,20:00,11.9,Clear,breezy,0.0
+2024-11-18,21:00,11.2,Cloudy,breezy,0.0
+2024-11-18,22:00,9.4,Clear,breezy,0.0
+2024-11-18,23:00,9.6,Partly cloudy,breezy,0.0
+2024-11-19,00:00,9.3,Clear,breezy,0.0
+2024-11-19,01:00,8.8,Clear,breezy,0.0
+2024-11-19,02:00,8.2,Clear,breezy,0.0
+2024-11-19,03:00,7.7,Clear,calm,0.0
+2024-11-19,04:00,7.4,Clear,breezy,0.0
+2024-11-19,05:00,7.0,Clear,breezy,0.0
+2024-11-19,06:00,6.7,Clear,breezy,0.0
+2024-11-19,07:00,6.5,Partly cloudy,breezy,0.0
+2024-11-19,08:00,7.3,Partly cloudy,calm,0.0
+2024-11-19,09:00,8.5,Partly cloudy,breezy,0.0
+2024-11-19,10:00,9.2,Partly cloudy,breezy,0.0
+2024-11-19,11:00,9.7,Cloudy,calm,0.0
+2024-11-19,12:00,10.2,Overcast,breezy,0.0
+2024-11-19,13:00,11.1,Partly cloudy,calm,0.0
+2024-11-19,14:00,11.9,Sunny,calm,0.0
+2024-11-19,15:00,12.3,Sunny,calm,0.0
+2024-11-19,16:00,12.2,Sunny,calm,0.0
+2024-11-19,17:00,11.6,Clear,calm,0.0
+2024-11-19,18:00,10.9,Clear,calm,0.0
+2024-11-19,19:00,9.9,Partly cloudy,calm,0.0
+2024-11-19,20:00,10.0,Partly cloudy,calm,0.0
+2024-11-19,21:00,9.5,Partly cloudy,calm,0.0
+2024-11-19,22:00,9.7,Partly cloudy,calm,0.0
+2024-11-19,23:00,10.1,Partly cloudy,calm,0.0
+2024-11-20,00:00,11.3,Overcast,calm,0.0
+2024-11-20,01:00,11.2,Overcast,calm,0.0
+2024-11-20,02:00,11.2,Overcast,calm,0.0
+2024-11-20,03:00,11.2,Overcast,calm,0.0
+2024-11-20,04:00,11.2,Overcast,calm,0.0
+2024-11-20,05:00,11.4,Overcast,calm,0.0
+2024-11-20,06:00,11.7,Overcast,calm,0.0
+2024-11-20,07:00,11.9,Overcast,calm,0.0
+2024-11-20,08:00,12.3,Overcast,calm,0.0
+2024-11-20,09:00,12.6,Overcast,calm,0.0
+2024-11-20,10:00,13.0,Overcast,calm,0.0
+2024-11-20,11:00,13.3,Overcast,calm,0.0
+2024-11-20,12:00,13.5,Overcast,calm,0.0
+2024-11-20,13:00,13.6,Overcast,calm,0.0
+2024-11-20,14:00,13.9,Mist,calm,0.0
+2024-11-20,15:00,14.1,Mist,calm,0.0
+2024-11-20,16:00,14.2,Mist,breezy,0.0
+2024-11-20,17:00,14.4,Fog,breezy,0.0
+2024-11-20,18:00,14.5,Fog,breezy,0.0
+2024-11-20,19:00,14.6,Fog,breezy,0.0
+2024-11-20,20:00,14.7,Fog,breezy,0.0
+2024-11-20,21:00,14.8,Fog,breezy,0.0
+2024-11-20,22:00,13.0,Fog,breezy,0.0
+2024-11-20,23:00,13.4,Overcast,breezy,0.0
+2024-11-21,00:00,13.9,Moderate or heavy rain shower,breezy,4.01
+2024-11-21,01:00,14.2,Moderate or heavy rain shower,breezy,6.02
+2024-11-21,02:00,13.4,Heavy rain,breezy,8.02
+2024-11-21,03:00,12.6,Heavy rain,windy,5.48
+2024-11-21,04:00,11.8,Heavy rain,windy,4.21
+2024-11-21,05:00,10.7,Moderate or heavy rain shower,windy,2.94
+2024-11-21,06:00,9.8,Moderate or heavy rain shower,breezy,1.47
+2024-11-21,07:00,9.0,Moderate or heavy rain shower,windy,0.74
+2024-11-21,08:00,8.9,Sunny,windy,0.0
+2024-11-21,09:00,8.9,Sunny,windy,0.0
+2024-11-21,10:00,9.1,Sunny,windy,0.0
+2024-11-21,11:00,9.8,Sunny,windy,0.0
+2024-11-21,12:00,10.5,Sunny,windy,0.0
+2024-11-21,13:00,11.1,Sunny,windy,0.0
+2024-11-21,14:00,11.7,Sunny,windy,0.0
+2024-11-21,15:00,12.2,Sunny,windy,0.0
+2024-11-21,16:00,12.5,Sunny,windy,0.0
+2024-11-21,17:00,11.4,Clear,windy,0.0
+2024-11-21,18:00,10.3,Partly cloudy,windy,0.0
+2024-11-21,19:00,9.0,Partly cloudy,windy,0.0
+2024-11-21,20:00,7.8,Partly cloudy,windy,0.0
+2024-11-21,21:00,7.0,Partly cloudy,windy,0.0
+2024-11-21,22:00,10.2,Partly cloudy,windy,0.0
+2024-11-21,23:00,7.3,Overcast,windy,0.0
+2024-11-22,00:00,5.3,Overcast,breezy,0.0
+2024-11-22,01:00,4.9,Overcast,breezy,0.0
+2024-11-22,02:00,4.4,Cloudy,breezy,0.0
+2024-11-22,03:00,3.9,Cloudy,breezy,0.0
+2024-11-22,04:00,3.5,Cloudy,breezy,0.0
+2024-11-22,05:00,3.1,Clear,breezy,0.0
+2024-11-22,06:00,2.8,Clear,breezy,0.0
+2024-11-22,07:00,2.5,Sunny,breezy,0.0
+2024-11-22,08:00,3.3,Sunny,breezy,0.0
+2024-11-22,09:00,4.2,Sunny,breezy,0.0
+2024-11-22,10:00,5.1,Sunny,windy,0.0
+2024-11-22,11:00,5.8,Sunny,windy,0.0
+2024-11-22,12:00,6.2,Sunny,windy,0.0
+2024-11-22,13:00,6.6,Sunny,windy,0.0
+2024-11-22,14:00,6.4,Partly cloudy,windy,0.0
+2024-11-22,15:00,6.1,Partly cloudy,windy,0.0
+2024-11-22,16:00,5.7,Partly cloudy,breezy,0.0
+2024-11-22,17:00,5.7,Overcast,breezy,0.0
+2024-11-22,18:00,5.7,Overcast,breezy,0.0
+2024-11-22,19:00,5.7,Overcast,breezy,0.0
+2024-11-22,20:00,5.5,Overcast,breezy,0.0
+2024-11-22,21:00,5.3,Overcast,breezy,0.0
+2024-11-22,22:00,5.7,Overcast,breezy,0.0
+2024-11-22,23:00,5.1,Overcast,breezy,0.0
+2024-11-23,00:00,4.1,Light sleet,windy,0.52
+2024-11-23,01:00,3.9,Light sleet,breezy,0.26
+2024-11-23,02:00,3.8,Overcast,windy,0.0
+2024-11-23,03:00,3.8,Overcast,windy,0.0
+2024-11-23,04:00,3.8,Overcast,windy,0.0
+2024-11-23,05:00,3.6,Partly cloudy,windy,0.0
+2024-11-23,06:00,3.4,Partly cloudy,windy,0.0
+2024-11-23,07:00,3.2,Partly cloudy,windy,0.0
+2024-11-23,08:00,3.5,Sunny,windy,0.0
+2024-11-23,09:00,3.8,Sunny,windy,0.0
+2024-11-23,10:00,4.1,Partly cloudy,windy,0.0
+2024-11-23,11:00,6.0,Partly cloudy,windy,0.0
+2024-11-23,12:00,7.9,Partly cloudy,windy,0.0
+2024-11-23,13:00,9.6,Partly cloudy,windy,0.0
+2024-11-23,14:00,10.0,Sunny,windy,0.0
+2024-11-23,15:00,9.9,Sunny,windy,0.0
+2024-11-23,16:00,9.6,Sunny,windy,0.0
+2024-11-23,17:00,9.2,Clear,windy,0.0
+2024-11-23,18:00,8.9,Cloudy,windy,0.0
+2024-11-23,19:00,8.6,Cloudy,windy,0.0
+2024-11-23,20:00,8.7,Cloudy,windy,0.0
+2024-11-23,21:00,8.9,Cloudy,windy,0.0
+2024-11-23,22:00,6.6,Cloudy,windy,0.0
+2024-11-23,23:00,7.6,Light sleet,windy,1.04
+2024-11-24,00:00,8.1,Clear,windy,0.0
+2024-11-24,01:00,7.7,Clear,windy,0.0
+2024-11-24,02:00,7.2,Clear,windy,0.0
+2024-11-24,03:00,6.7,Clear,windy,0.0
+2024-11-24,04:00,6.4,Clear,windy,0.0
+2024-11-24,05:00,6.1,Clear,windy,0.0
+2024-11-24,06:00,5.9,Clear,windy,0.0
+2024-11-24,07:00,5.8,Sunny,windy,0.0
+2024-11-24,08:00,6.8,Sunny,windy,0.0
+2024-11-24,09:00,7.8,Sunny,windy,0.0
+2024-11-24,10:00,8.9,Partly cloudy,windy,0.0
+2024-11-24,11:00,9.6,Partly cloudy,windy,0.0
+2024-11-24,12:00,10.1,Partly cloudy,windy,0.0
+2024-11-24,13:00,10.5,Partly cloudy,windy,0.0
+2024-11-24,14:00,11.3,Cloudy,windy,0.0
+2024-11-24,15:00,12.0,Cloudy,windy,0.0
+2024-11-24,16:00,12.7,Cloudy,windy,0.0
+2024-11-24,17:00,11.9,Clear,breezy,0.0
+2024-11-24,18:00,10.9,Clear,breezy,0.0
+2024-11-24,19:00,9.9,Clear,breezy,0.0
+2024-11-24,20:00,8.9,Clear,breezy,0.0
+2024-11-24,21:00,8.1,Clear,breezy,0.0
+2024-11-24,22:00,8.4,Partly cloudy,calm,0.0
+2024-11-24,23:00,7.0,Clear,breezy,0.0
+2024-11-25,00:00,5.8,Clear,breezy,0.0
+2024-11-25,01:00,5.2,Clear,breezy,0.0
+2024-11-25,02:00,4.6,Clear,breezy,0.0
+2024-11-25,03:00,4.1,Clear,breezy,0.0
+2024-11-25,04:00,3.7,Clear,breezy,0.0
+2024-11-25,05:00,3.3,Clear,breezy,0.0
+2024-11-25,06:00,2.9,Clear,calm,0.0
+2024-11-25,07:00,2.6,Sunny,calm,0.0
+2024-11-25,08:00,3.7,Sunny,calm,0.0
+2024-11-25,09:00,4.8,Sunny,calm,0.0
+2024-11-25,10:00,6.0,Sunny,calm,0.0
+2024-11-25,11:00,7.7,Sunny,breezy,0.0
+2024-11-25,12:00,9.2,Sunny,breezy,0.0
+2024-11-25,13:00,10.4,Sunny,breezy,0.0
+2024-11-25,14:00,11.1,Sunny,breezy,0.0
+2024-11-25,15:00,11.4,Sunny,breezy,0.0
+2024-11-25,16:00,11.6,Sunny,breezy,0.0
+2024-11-25,17:00,11.1,Clear,calm,0.0
+2024-11-25,18:00,10.5,Clear,calm,0.0
+2024-11-25,19:00,9.8,Clear,calm,0.0
+2024-11-25,20:00,9.7,Clear,calm,0.0
+2024-11-25,21:00,9.8,Clear,breezy,0.0
+2024-11-25,22:00,8.3,Clear,breezy,0.0
+2024-11-25,23:00,9.5,Clear,breezy,0.0
+2024-11-26,00:00,10.4,Partly cloudy,breezy,0.0
+2024-11-26,01:00,10.6,Partly cloudy,breezy,0.0
+2024-11-26,02:00,11.1,Overcast,breezy,0.0
+2024-11-26,03:00,11.5,Overcast,breezy,0.0
+2024-11-26,04:00,11.8,Overcast,breezy,0.0
+2024-11-26,05:00,12.0,Overcast,breezy,0.0
+2024-11-26,06:00,12.0,Overcast,breezy,0.0
+2024-11-26,07:00,12.0,Overcast,breezy,0.0
+2024-11-26,08:00,12.4,Partly cloudy,breezy,0.0
+2024-11-26,09:00,12.7,Partly cloudy,breezy,0.0
+2024-11-26,10:00,13.1,Partly cloudy,breezy,0.0
+2024-11-26,11:00,12.8,Thundery outbreaks possible,breezy,0.0
+2024-11-26,12:00,12.5,Thundery outbreaks possible,breezy,0.0
+2024-11-26,13:00,12.1,Thundery outbreaks possible,breezy,0.0
+2024-11-26,14:00,13.1,Overcast,breezy,0.0
+2024-11-26,15:00,14.1,Overcast,breezy,0.0
+2024-11-26,16:00,15.3,Overcast,windy,0.0
+2024-11-26,17:00,14.2,Clear,breezy,0.0
+2024-11-26,18:00,12.9,Clear,breezy,0.0
+2024-11-26,19:00,11.4,Clear,breezy,0.0
+2024-11-26,20:00,9.9,Clear,breezy,0.0
+2024-11-26,21:00,8.7,Clear,breezy,0.0
+2024-11-26,22:00,9.2,Clear,breezy,0.0
+2024-11-26,23:00,7.2,Partly cloudy,breezy,0.0
+2024-11-27,00:00,6.0,Partly cloudy,breezy,0.0
+2024-11-27,01:00,5.6,Partly cloudy,breezy,0.0
+2024-11-27,02:00,5.0,Clear,breezy,0.0
+2024-11-27,03:00,4.6,Clear,breezy,0.0
+2024-11-27,04:00,4.2,Clear,breezy,0.0
+2024-11-27,05:00,3.8,Clear,breezy,0.0
+2024-11-27,06:00,3.5,Clear,breezy,0.0
+2024-11-27,07:00,3.3,Sunny,calm,0.0
+2024-11-27,08:00,4.6,Sunny,calm,0.0
+2024-11-27,09:00,6.0,Sunny,calm,0.0
+2024-11-27,10:00,7.4,Sunny,breezy,0.0
+2024-11-27,11:00,8.4,Sunny,breezy,0.0
+2024-11-27,12:00,9.0,Sunny,breezy,0.0
+2024-11-27,13:00,9.5,Sunny,calm,0.0
+2024-11-27,14:00,9.4,Partly cloudy,calm,0.0
+2024-11-27,15:00,9.2,Partly cloudy,calm,0.0
+2024-11-27,16:00,8.9,Partly cloudy,calm,0.0
+2024-11-27,17:00,8.6,Overcast,calm,0.0
+2024-11-27,18:00,8.4,Overcast,calm,0.0
+2024-11-27,19:00,8.2,Overcast,calm,0.0
+2024-11-27,20:00,7.9,Overcast,calm,0.0
+2024-11-27,21:00,7.6,Overcast,calm,0.0
+2024-11-27,22:00,7.1,Overcast,calm,0.0
+2024-11-27,23:00,7.0,Partly cloudy,calm,0.0
+2024-11-28,00:00,8.2,Partly cloudy,calm,0.0
+2024-11-28,01:00,8.1,Partly cloudy,calm,0.0
+2024-11-28,02:00,8.2,Overcast,calm,0.0
+2024-11-28,03:00,8.3,Overcast,calm,0.0
+2024-11-28,04:00,8.3,Overcast,calm,0.0
+2024-11-28,05:00,7.9,Overcast,calm,0.0
+2024-11-28,06:00,7.5,Moderate rain at times,breezy,0.87
+2024-11-28,07:00,7.0,Heavy rain at times,breezy,1.31
+2024-11-28,08:00,7.0,Light rain,breezy,1.75
+2024-11-28,09:00,7.1,Light rain,breezy,2.15
+2024-11-28,10:00,7.2,Light rain,breezy,2.35
+2024-11-28,11:00,7.6,Moderate rain,breezy,2.55
+2024-11-28,12:00,7.9,Moderate rain,breezy,2.42
+2024-11-28,13:00,8.3,Moderate rain,breezy,2.35
+2024-11-28,14:00,8.5,Light rain,breezy,2.28
+2024-11-28,15:00,8.6,Light rain,windy,3.51
+2024-11-28,16:00,8.7,Light rain,windy,4.13
+2024-11-28,17:00,8.6,Moderate rain,breezy,4.74
+2024-11-28,18:00,8.4,Moderate rain,breezy,2.37
+2024-11-28,19:00,8.2,Moderate rain,breezy,1.19
+2024-11-28,20:00,7.9,Overcast,breezy,0.0
+2024-11-28,21:00,7.6,Overcast,breezy,0.0
+2024-11-28,22:00,8.0,Overcast,breezy,0.0
+2024-11-28,23:00,7.4,Partly cloudy,breezy,0.0
+2024-11-29,00:00,5.2,Partly cloudy,windy,0.0
+2024-11-29,01:00,4.7,Partly cloudy,windy,0.0
+2024-11-29,02:00,4.2,Clear,breezy,0.0
+2024-11-29,03:00,3.8,Clear,breezy,0.0
+2024-11-29,04:00,3.4,Clear,breezy,0.0
+2024-11-29,05:00,3.0,Clear,breezy,0.0
+2024-11-29,06:00,2.7,Clear,breezy,0.0
+2024-11-29,07:00,2.5,Sunny,breezy,0.0
+2024-11-29,08:00,3.7,Sunny,breezy,0.0
+2024-11-29,09:00,5.0,Sunny,breezy,0.0
+2024-11-29,10:00,6.4,Sunny,breezy,0.0
+2024-11-29,11:00,7.8,Sunny,breezy,0.0
+2024-11-29,12:00,8.8,Sunny,breezy,0.0
+2024-11-29,13:00,9.7,Sunny,windy,0.0
+2024-11-29,14:00,9.7,Sunny,windy,0.0
+2024-11-29,15:00,9.5,Sunny,windy,0.0
+2024-11-29,16:00,9.1,Sunny,windy,0.0
+2024-11-29,17:00,8.2,Clear,windy,0.0
+2024-11-29,18:00,7.4,Clear,breezy,0.0
+2024-11-29,19:00,6.6,Clear,breezy,0.0
+2024-11-29,20:00,5.7,Clear,breezy,0.0
+2024-11-29,21:00,5.0,Clear,breezy,0.0
+2024-11-29,22:00,5.4,Clear,breezy,0.0
+2024-11-29,23:00,3.9,Partly cloudy,breezy,0.0
+2024-11-30,00:00,1.4,Clear,breezy,0.0
+2024-11-30,01:00,0.7,Clear,breezy,0.0
+2024-11-30,02:00,0.1,Clear,breezy,0.0
+2024-11-30,03:00,-0.3,Clear,breezy,0.0
+2024-11-30,04:00,-0.6,Clear,breezy,0.0
+2024-11-30,05:00,-0.9,Clear,breezy,0.0
+2024-11-30,06:00,-1.2,Clear,breezy,0.0
+2024-11-30,07:00,-1.3,Sunny,breezy,0.0
+2024-11-30,08:00,-0.2,Sunny,breezy,0.0
+2024-11-30,09:00,1.0,Sunny,breezy,0.0
+2024-11-30,10:00,2.3,Sunny,windy,0.0
+2024-11-30,11:00,3.6,Sunny,windy,0.0
+2024-11-30,12:00,4.5,Sunny,windy,0.0
+2024-11-30,13:00,5.4,Sunny,windy,0.0
+2024-11-30,14:00,5.3,Sunny,windy,0.0
+2024-11-30,15:00,5.0,Sunny,windy,0.0
+2024-11-30,16:00,4.7,Sunny,windy,0.0
+2024-11-30,17:00,3.6,Clear,breezy,0.0
+2024-11-30,18:00,2.6,Clear,breezy,0.0
+2024-11-30,19:00,1.6,Partly cloudy,breezy,0.0
+2024-11-30,20:00,1.0,Partly cloudy,breezy,0.0
+2024-11-30,21:00,0.7,Partly cloudy,breezy,0.0
+2024-11-30,22:00,1.6,Partly cloudy,breezy,0.0
+2024-11-30,23:00,0.8,Clear,breezy,0.0
+2024-12-01,00:00,-0.7,Cloudy,breezy,0.0
+2024-12-01,01:00,-0.8,Cloudy,breezy,0.0
+2024-12-01,02:00,-0.7,Overcast,breezy,0.0
+2024-12-01,03:00,-0.7,Overcast,breezy,0.0
+2024-12-01,04:00,-0.6,Overcast,breezy,0.0
+2024-12-01,05:00,-0.6,Overcast,breezy,0.0
+2024-12-01,06:00,-0.5,Overcast,breezy,0.0
+2024-12-01,07:00,-0.5,Overcast,breezy,0.0
+2024-12-01,08:00,0.3,Overcast,breezy,0.0
+2024-12-01,09:00,1.1,Overcast,breezy,0.0
+2024-12-01,10:00,1.8,Overcast,breezy,0.0
+2024-12-01,11:00,3.4,Overcast,breezy,0.0
+2024-12-01,12:00,4.7,Overcast,breezy,0.0
+2024-12-01,13:00,6.0,Overcast,breezy,0.0
+2024-12-01,14:00,6.3,Sunny,breezy,0.0
+2024-12-01,15:00,6.4,Sunny,breezy,0.0
+2024-12-01,16:00,6.3,Sunny,breezy,0.0
+2024-12-01,17:00,5.2,Clear,calm,0.0
+2024-12-01,18:00,4.1,Clear,calm,0.0
+2024-12-01,19:00,3.1,Clear,calm,0.0
+2024-12-01,20:00,2.5,Clear,calm,0.0
+2024-12-01,21:00,2.2,Partly cloudy,calm,0.0
+2024-12-01,22:00,0.7,Cloudy,calm,0.0
+2024-12-01,23:00,1.0,Clear,calm,0.0
+2024-12-02,00:00,0.5,Partly cloudy,breezy,0.0
+2024-12-02,01:00,0.3,Partly cloudy,breezy,0.0
+2024-12-02,02:00,-0.1,Clear,breezy,0.0
+2024-12-02,03:00,-0.4,Clear,breezy,0.0
+2024-12-02,04:00,-0.7,Clear,breezy,0.0
+2024-12-02,05:00,-1.2,Clear,breezy,0.0
+2024-12-02,06:00,-1.6,Clear,breezy,0.0
+2024-12-02,07:00,-2.0,Clear,breezy,0.0
+2024-12-02,08:00,-0.8,Sunny,breezy,0.0
+2024-12-02,09:00,0.5,Sunny,breezy,0.0
+2024-12-02,10:00,1.8,Sunny,breezy,0.0
+2024-12-02,11:00,3.3,Sunny,breezy,0.0
+2024-12-02,12:00,4.5,Sunny,breezy,0.0
+2024-12-02,13:00,5.5,Sunny,breezy,0.0
+2024-12-02,14:00,5.8,Sunny,breezy,0.0
+2024-12-02,15:00,5.9,Sunny,breezy,0.0
+2024-12-02,16:00,5.9,Sunny,breezy,0.0
+2024-12-02,17:00,4.7,Clear,breezy,0.0
+2024-12-02,18:00,3.5,Clear,breezy,0.0
+2024-12-02,19:00,2.3,Clear,breezy,0.0
+2024-12-02,20:00,1.5,Clear,breezy,0.0
+2024-12-02,21:00,1.0,Clear,breezy,0.0
+2024-12-02,22:00,0.8,Clear,breezy,0.0
+2024-12-02,23:00,0.4,Partly cloudy,breezy,0.0
+2024-12-03,00:00,-0.1,Clear,breezy,0.0
+2024-12-03,01:00,-0.3,Clear,breezy,0.0
+2024-12-03,02:00,-0.5,Clear,breezy,0.0
+2024-12-03,03:00,-0.7,Clear,breezy,0.0
+2024-12-03,04:00,-0.9,Clear,breezy,0.0
+2024-12-03,05:00,-1.1,Partly cloudy,breezy,0.0
+2024-12-03,06:00,-1.2,Partly cloudy,breezy,0.0
+2024-12-03,07:00,-1.4,Partly cloudy,breezy,0.0
+2024-12-03,08:00,-0.0,Sunny,breezy,0.0
+2024-12-03,09:00,1.3,Sunny,breezy,0.0
+2024-12-03,10:00,2.7,Sunny,breezy,0.0
+2024-12-03,11:00,4.1,Sunny,breezy,0.0
+2024-12-03,12:00,5.2,Sunny,breezy,0.0
+2024-12-03,13:00,6.1,Sunny,breezy,0.0
+2024-12-03,14:00,5.9,Sunny,breezy,0.0
+2024-12-03,15:00,5.4,Sunny,breezy,0.0
+2024-12-03,16:00,4.9,Sunny,breezy,0.0
+2024-12-03,17:00,4.0,Clear,breezy,0.0
+2024-12-03,18:00,3.3,Clear,breezy,0.0
+2024-12-03,19:00,2.7,Clear,breezy,0.0
+2024-12-03,20:00,2.0,Clear,breezy,0.0
+2024-12-03,21:00,1.5,Clear,breezy,0.0
+2024-12-03,22:00,0.9,Clear,breezy,0.0
+2024-12-03,23:00,0.4,Clear,breezy,0.0
+2024-12-04,00:00,-0.3,Clear,breezy,0.0
+2024-12-04,01:00,-0.8,Clear,breezy,0.0
+2024-12-04,02:00,-1.2,Clear,breezy,0.0
+2024-12-04,03:00,-1.5,Clear,breezy,0.0
+2024-12-04,04:00,-1.7,Clear,breezy,0.0
+2024-12-04,05:00,-1.9,Clear,calm,0.0
+2024-12-04,06:00,-2.0,Clear,breezy,0.0
+2024-12-04,07:00,-2.1,Clear,breezy,0.0
+2024-12-04,08:00,-1.2,Sunny,breezy,0.0
+2024-12-04,09:00,-0.2,Sunny,calm,0.0
+2024-12-04,10:00,0.7,Sunny,breezy,0.0
+2024-12-04,11:00,1.8,Sunny,breezy,0.0
+2024-12-04,12:00,2.6,Partly cloudy,breezy,0.0
+2024-12-04,13:00,3.2,Partly cloudy,breezy,0.0
+2024-12-04,14:00,4.1,Partly cloudy,breezy,0.0
+2024-12-04,15:00,4.8,Partly cloudy,breezy,0.0
+2024-12-04,16:00,5.4,Partly cloudy,breezy,0.0
+2024-12-04,17:00,5.1,Clear,windy,0.0
+2024-12-04,18:00,4.7,Partly cloudy,windy,0.0
+2024-12-04,19:00,4.2,Cloudy,windy,0.0
+2024-12-04,20:00,4.2,Overcast,windy,0.0
+2024-12-04,21:00,4.3,Overcast,windy,0.0
+2024-12-04,22:00,2.5,Overcast,windy,0.0
+2024-12-04,23:00,3.5,Clear,windy,0.0
+2024-12-05,00:00,5.5,Overcast,windy,0.0
+2024-12-05,01:00,5.4,Overcast,windy,0.0
+2024-12-05,02:00,4.7,Overcast,windy,0.0
+2024-12-05,03:00,4.0,Moderate rain at times,windy,0.82
+2024-12-05,04:00,3.2,Heavy rain at times,windy,1.22
+2024-12-05,05:00,3.2,Light rain,windy,1.63
+2024-12-05,06:00,3.4,Light rain,windy,1.53
+2024-12-05,07:00,3.7,Light rain,windy,1.48
+2024-12-05,08:00,3.7,Light rain,windy,1.43
+2024-12-05,09:00,3.6,Light rain,windy,0.71
+2024-12-05,10:00,3.4,Light rain,windy,0.36
+2024-12-05,11:00,3.1,Sunny,windy,0.0
+2024-12-05,12:00,2.9,Partly cloudy,windy,0.0
+2024-12-05,13:00,2.6,Partly cloudy,windy,0.0
+2024-12-05,14:00,2.7,Partly cloudy,windy,0.0
+2024-12-05,15:00,2.8,Partly cloudy,windy,0.0
+2024-12-05,16:00,3.0,Partly cloudy,windy,0.0
+2024-12-05,17:00,2.0,Clear,windy,0.0
+2024-12-05,18:00,1.1,Clear,windy,0.0
+2024-12-05,19:00,0.1,Clear,windy,0.0
+2024-12-05,20:00,-0.6,Clear,windy,0.0
+2024-12-05,21:00,-1.0,Clear,windy,0.0
+2024-12-05,22:00,2.3,Clear,windy,0.0
+2024-12-05,23:00,0.3,Overcast,windy,0.0
+2024-12-06,00:00,-1.6,Clear,windy,0.0
+2024-12-06,01:00,-1.8,Clear,windy,0.0
+2024-12-06,02:00,-2.0,Clear,windy,0.0
+2024-12-06,03:00,-2.0,Clear,windy,0.0
+2024-12-06,04:00,-2.1,Clear,windy,0.0
+2024-12-06,05:00,-2.1,Clear,windy,0.0
+2024-12-06,06:00,-2.0,Clear,windy,0.0
+2024-12-06,07:00,-2.0,Clear,windy,0.0
+2024-12-06,08:00,-1.0,Sunny,windy,0.0
+2024-12-06,09:00,0.1,Sunny,windy,0.0
+2024-12-06,10:00,1.1,Sunny,windy,0.0
+2024-12-06,11:00,2.1,Sunny,windy,0.0
+2024-12-06,12:00,2.7,Sunny,windy,0.0
+2024-12-06,13:00,3.3,Sunny,windy,0.0
+2024-12-06,14:00,3.4,Sunny,windy,0.0
+2024-12-06,15:00,3.4,Sunny,windy,0.0
+2024-12-06,16:00,3.3,Sunny,windy,0.0
+2024-12-06,17:00,2.3,Clear,breezy,0.0
+2024-12-06,18:00,1.4,Clear,breezy,0.0
+2024-12-06,19:00,0.4,Clear,breezy,0.0
+2024-12-06,20:00,-0.0,Partly cloudy,breezy,0.0
+2024-12-06,21:00,-0.2,Partly cloudy,breezy,0.0
+2024-12-06,22:00,-0.8,Partly cloudy,breezy,0.0
+2024-12-06,23:00,-0.9,Clear,breezy,0.0
+2024-12-07,00:00,-1.5,Clear,breezy,0.0
+2024-12-07,01:00,-1.6,Clear,breezy,0.0
+2024-12-07,02:00,-1.7,Clear,breezy,0.0
+2024-12-07,03:00,-1.8,Clear,breezy,0.0
+2024-12-07,04:00,-1.8,Clear,breezy,0.0
+2024-12-07,05:00,-1.9,Clear,breezy,0.0
+2024-12-07,06:00,-1.9,Clear,breezy,0.0
+2024-12-07,07:00,-2.0,Clear,breezy,0.0
+2024-12-07,08:00,-1.1,Sunny,breezy,0.0
+2024-12-07,09:00,-0.2,Sunny,breezy,0.0
+2024-12-07,10:00,0.7,Sunny,breezy,0.0
+2024-12-07,11:00,1.6,Sunny,breezy,0.0
+2024-12-07,12:00,2.3,Sunny,breezy,0.0
+2024-12-07,13:00,2.8,Sunny,breezy,0.0
+2024-12-07,14:00,3.5,Sunny,breezy,0.0
+2024-12-07,15:00,4.1,Sunny,breezy,0.0
+2024-12-07,16:00,4.5,Sunny,breezy,0.0
+2024-12-07,17:00,3.8,Clear,breezy,0.0
+2024-12-07,18:00,3.0,Clear,breezy,0.0
+2024-12-07,19:00,2.1,Clear,breezy,0.0
+2024-12-07,20:00,1.7,Clear,breezy,0.0
+2024-12-07,21:00,1.5,Clear,breezy,0.0
+2024-12-07,22:00,0.2,Partly cloudy,breezy,0.0
+2024-12-07,23:00,1.0,Clear,breezy,0.0
+2024-12-08,00:00,2.0,Partly cloudy,breezy,0.0
+2024-12-08,01:00,2.2,Partly cloudy,breezy,0.0
+2024-12-08,02:00,2.4,Overcast,breezy,0.0
+2024-12-08,03:00,2.6,Overcast,windy,0.0
+2024-12-08,04:00,2.7,Overcast,breezy,0.0
+2024-12-08,05:00,2.7,Overcast,breezy,0.0
+2024-12-08,06:00,2.7,Overcast,breezy,0.0
+2024-12-08,07:00,2.7,Overcast,breezy,0.0
+2024-12-08,08:00,3.5,Cloudy,windy,0.0
+2024-12-08,09:00,4.3,Cloudy,windy,0.0
+2024-12-08,10:00,5.0,Cloudy,windy,0.0
+2024-12-08,11:00,6.9,Partly cloudy,windy,0.0
+2024-12-08,12:00,8.6,Partly cloudy,windy,0.0
+2024-12-08,13:00,10.2,Partly cloudy,windy,0.0
+2024-12-08,14:00,11.0,Sunny,windy,0.0
+2024-12-08,15:00,11.5,Sunny,breezy,0.0
+2024-12-08,16:00,11.7,Sunny,breezy,0.0
+2024-12-08,17:00,10.7,Clear,breezy,0.0
+2024-12-08,18:00,9.7,Clear,calm,0.0
+2024-12-08,19:00,8.6,Clear,calm,0.0
+2024-12-08,20:00,7.7,Clear,calm,0.0
+2024-12-08,21:00,7.0,Clear,calm,0.0
+2024-12-08,22:00,4.4,Clear,calm,0.0
+2024-12-08,23:00,4.4,Partly cloudy,calm,0.0
+2024-12-09,00:00,4.7,Clear,calm,0.0
+2024-12-09,01:00,4.1,Clear,calm,0.0
+2024-12-09,02:00,3.4,Clear,calm,0.0
+2024-12-09,03:00,2.9,Clear,calm,0.0
+2024-12-09,04:00,2.5,Clear,calm,0.0
+2024-12-09,05:00,2.4,Clear,calm,0.0
+2024-12-09,06:00,2.5,Cloudy,calm,0.0
+2024-12-09,07:00,2.5,Cloudy,calm,0.0
+2024-12-09,08:00,3.8,Overcast,calm,0.0
+2024-12-09,09:00,5.0,Overcast,calm,0.0
+2024-12-09,10:00,6.3,Overcast,calm,0.0
+2024-12-09,11:00,7.2,Overcast,breezy,0.0
+2024-12-09,12:00,7.8,Moderate or heavy rain shower,breezy,1.83
+2024-12-09,13:00,8.2,Moderate or heavy rain shower,breezy,2.74
+2024-12-09,14:00,8.7,Moderate rain,breezy,3.66
+2024-12-09,15:00,9.0,Moderate rain,breezy,3.39
+2024-12-09,16:00,9.2,Moderate rain,breezy,3.26
+2024-12-09,17:00,9.2,Moderate rain,breezy,3.12
+2024-12-09,18:00,9.2,Moderate rain,breezy,1.56
+2024-12-09,19:00,9.1,Moderate rain,breezy,0.78
+2024-12-09,20:00,9.1,Overcast,breezy,0.0
+2024-12-09,21:00,9.2,Overcast,breezy,0.0
+2024-12-09,22:00,7.4,Overcast,breezy,0.0
+2024-12-09,23:00,8.2,Clear,calm,0.0
+2024-12-10,00:00,8.9,Clear,calm,0.0
+2024-12-10,01:00,8.6,Clear,calm,0.0
+2024-12-10,02:00,7.9,Clear,calm,0.0
+2024-12-10,03:00,7.4,Cloudy,calm,0.0
+2024-12-10,04:00,6.8,Cloudy,calm,0.0
+2024-12-10,05:00,5.9,Fog,calm,0.0
+2024-12-10,06:00,5.1,Fog,calm,0.0
+2024-12-10,07:00,4.4,Fog,calm,0.0
+2024-12-10,08:00,4.7,Fog,calm,0.0
+2024-12-10,09:00,5.2,Fog,calm,0.0
+2024-12-10,10:00,5.8,Fog,calm,0.0
+2024-12-10,11:00,6.8,Mist,calm,0.0
+2024-12-10,12:00,7.6,Mist,breezy,0.0
+2024-12-10,13:00,8.4,Mist,breezy,0.0
+2024-12-10,14:00,9.1,Mist,breezy,0.0
+2024-12-10,15:00,9.7,Mist,breezy,0.0
+2024-12-10,16:00,10.2,Mist,breezy,0.0
+2024-12-10,17:00,10.8,Overcast,breezy,0.0
+2024-12-10,18:00,11.3,Overcast,breezy,0.0
+2024-12-10,19:00,11.7,Overcast,breezy,0.0
+2024-12-10,20:00,12.2,Overcast,breezy,0.0
+2024-12-10,21:00,12.7,Overcast,breezy,0.0
+2024-12-10,22:00,11.2,Overcast,breezy,0.0
+2024-12-10,23:00,12.3,Clear,breezy,0.0
+2024-12-11,00:00,12.9,Moderate or heavy rain shower,windy,6.56
+2024-12-11,01:00,13.1,Moderate or heavy rain shower,windy,9.83
+2024-12-11,02:00,13.4,Heavy rain,breezy,13.11
+2024-12-11,03:00,13.6,Heavy rain,windy,10.33
+2024-12-11,04:00,13.7,Heavy rain,breezy,8.93
+2024-12-11,05:00,13.4,Heavy rain,breezy,7.54
+2024-12-11,06:00,13.1,Heavy rain,breezy,4.36
+2024-12-11,07:00,12.8,Heavy rain,breezy,2.77
+2024-12-11,08:00,12.0,Light rain,breezy,1.18
+2024-12-11,09:00,11.4,Light rain,windy,0.59
+2024-12-11,10:00,10.8,Light rain,windy,0.3
+2024-12-11,11:00,10.1,Overcast,windy,0.0
+2024-12-11,12:00,9.6,Heavy rain at times,windy,1.26
+2024-12-11,13:00,9.2,Moderate or heavy rain shower,windy,1.89
+2024-12-11,14:00,11.6,Moderate rain,windy,2.52
+2024-12-11,15:00,12.6,Light drizzle,windy,0.59
+2024-12-11,16:00,13.3,Light rain,windy,1.23
+2024-12-11,17:00,14.1,Heavy rain,windy,7.62
+2024-12-11,18:00,14.6,Heavy rain,windy,10.65
+2024-12-11,19:00,13.4,Heavy rain,windy,14.67
+2024-12-11,20:00,11.1,Light rain shower,windy,1.21
+2024-12-11,21:00,8.7,Light rain,windy,1.62
+2024-12-11,22:00,11.1,Patchy rain possible,windy,0.02
+2024-12-11,23:00,8.0,Overcast,windy,0.0
+2024-12-12,00:00,4.2,Moderate rain at times,windy,1.36
+2024-12-12,01:00,3.6,Moderate rain at times,windy,0.68
+2024-12-12,02:00,2.8,Clear,windy,0.0
+2024-12-12,03:00,2.1,Clear,windy,0.0
+2024-12-12,04:00,1.5,Clear,windy,0.0
+2024-12-12,05:00,1.2,Clear,windy,0.0
+2024-12-12,06:00,1.0,Clear,windy,0.0
+2024-12-12,07:00,0.9,Clear,windy,0.0
+2024-12-12,08:00,2.1,Sunny,windy,0.0
+2024-12-12,09:00,3.3,Sunny,windy,0.0
+2024-12-12,10:00,4.5,Sunny,windy,0.0
+2024-12-12,11:00,5.3,Sunny,windy,0.0
+2024-12-12,12:00,5.8,Sunny,windy,0.0
+2024-12-12,13:00,6.1,Sunny,windy,0.0
+2024-12-12,14:00,5.9,Sunny,windy,0.0
+2024-12-12,15:00,5.7,Sunny,windy,0.0
+2024-12-12,16:00,5.3,Sunny,windy,0.0
+2024-12-12,17:00,4.0,Clear,windy,0.0
+2024-12-12,18:00,2.8,Clear,breezy,0.0
+2024-12-12,19:00,1.6,Clear,breezy,0.0
+2024-12-12,20:00,0.8,Clear,breezy,0.0
+2024-12-12,21:00,0.3,Partly cloudy,breezy,0.0
+2024-12-12,22:00,2.5,Cloudy,calm,0.0
+2024-12-12,23:00,1.0,Moderate rain at times,calm,2.71
+2024-12-13,00:00,0.1,Clear,breezy,0.0
+2024-12-13,01:00,-0.1,Clear,breezy,0.0
+2024-12-13,02:00,-0.3,Clear,breezy,0.0
+2024-12-13,03:00,-0.5,Clear,breezy,0.0
+2024-12-13,04:00,-0.7,Clear,calm,0.0
+2024-12-13,05:00,-0.8,Clear,calm,0.0
+2024-12-13,06:00,-0.9,Clear,calm,0.0
+2024-12-13,07:00,-0.9,Clear,calm,0.0
+2024-12-13,08:00,0.1,Sunny,calm,0.0
+2024-12-13,09:00,1.1,Sunny,calm,0.0
+2024-12-13,10:00,2.1,Sunny,breezy,0.0
+2024-12-13,11:00,3.0,Sunny,breezy,0.0
+2024-12-13,12:00,3.7,Sunny,breezy,0.0
+2024-12-13,13:00,4.3,Sunny,breezy,0.0
+2024-12-13,14:00,3.7,Sunny,breezy,0.0
+2024-12-13,15:00,2.9,Sunny,breezy,0.0
+2024-12-13,16:00,2.1,Partly cloudy,breezy,0.0
+2024-12-13,17:00,1.2,Partly cloudy,breezy,0.0
+2024-12-13,18:00,0.6,Partly cloudy,calm,0.0
+2024-12-13,19:00,0.0,Partly cloudy,calm,0.0
+2024-12-13,20:00,-0.4,Cloudy,calm,0.0
+2024-12-13,21:00,-0.7,Cloudy,calm,0.0
+2024-12-13,22:00,0.0,Cloudy,calm,0.0
+2024-12-13,23:00,-0.7,Clear,calm,0.0
+2024-12-14,00:00,-1.3,Clear,calm,0.0
+2024-12-14,01:00,-1.6,Clear,calm,0.0
+2024-12-14,02:00,-1.8,Clear,calm,0.0
+2024-12-14,03:00,-2.0,Clear,calm,0.0
+2024-12-14,04:00,-2.1,Clear,calm,0.0
+2024-12-14,05:00,-2.1,Clear,calm,0.0
+2024-12-14,06:00,-2.0,Clear,calm,0.0
+2024-12-14,07:00,-2.0,Clear,breezy,0.0
+2024-12-14,08:00,-1.2,Partly cloudy,breezy,0.0
+2024-12-14,09:00,-0.4,Partly cloudy,breezy,0.0
+2024-12-14,10:00,0.4,Partly cloudy,breezy,0.0
+2024-12-14,11:00,1.2,Sunny,breezy,0.0
+2024-12-14,12:00,1.7,Sunny,breezy,0.0
+2024-12-14,13:00,2.2,Sunny,calm,0.0
+2024-12-14,14:00,2.1,Sunny,breezy,0.0
+2024-12-14,15:00,2.0,Sunny,breezy,0.0
+2024-12-14,16:00,1.8,Sunny,breezy,0.0
+2024-12-14,17:00,1.3,Clear,breezy,0.0
+2024-12-14,18:00,0.8,Clear,breezy,0.0
+2024-12-14,19:00,0.3,Clear,breezy,0.0
+2024-12-14,20:00,0.2,Clear,breezy,0.0
+2024-12-14,21:00,0.2,Partly cloudy,breezy,0.0
+2024-12-14,22:00,-0.4,Partly cloudy,calm,0.0
+2024-12-14,23:00,0.0,Clear,breezy,0.0
+2024-12-15,00:00,0.4,Partly cloudy,calm,0.0
+2024-12-15,01:00,0.5,Partly cloudy,calm,0.0
+2024-12-15,02:00,0.6,Partly cloudy,breezy,0.0
+2024-12-15,03:00,0.7,Partly cloudy,breezy,0.0
+2024-12-15,04:00,0.8,Partly cloudy,calm,0.0
+2024-12-15,05:00,1.0,Cloudy,calm,0.0
+2024-12-15,06:00,1.1,Cloudy,calm,0.0
+2024-12-15,07:00,1.2,Cloudy,calm,0.0
+2024-12-15,08:00,1.9,Cloudy,calm,0.0
+2024-12-15,09:00,2.5,Cloudy,calm,0.0
+2024-12-15,10:00,3.2,Cloudy,calm,0.0
+2024-12-15,11:00,4.0,Overcast,breezy,0.0
+2024-12-15,12:00,4.7,Overcast,breezy,0.0
+2024-12-15,13:00,5.3,Overcast,breezy,0.0
+2024-12-15,14:00,5.5,Overcast,breezy,0.0
+2024-12-15,15:00,5.5,Overcast,breezy,0.0
+2024-12-15,16:00,5.5,Overcast,breezy,0.0
+2024-12-15,17:00,5.5,Overcast,breezy,0.0
+2024-12-15,18:00,5.5,Overcast,breezy,0.0
+2024-12-15,19:00,5.4,Overcast,calm,0.0
+2024-12-15,20:00,5.6,Overcast,breezy,0.0
+2024-12-15,21:00,5.9,Overcast,calm,0.0
+2024-12-15,22:00,3.0,Overcast,calm,0.0
+2024-12-15,23:00,4.8,Partly cloudy,calm,0.0
+2024-12-16,00:00,7.1,Overcast,breezy,0.0
+2024-12-16,01:00,7.3,Overcast,breezy,0.0
+2024-12-16,02:00,7.7,Overcast,breezy,0.0
+2024-12-16,03:00,8.0,Overcast,breezy,0.0
+2024-12-16,04:00,8.2,Overcast,breezy,0.0
+2024-12-16,05:00,8.6,Overcast,breezy,0.0
+2024-12-16,06:00,8.9,Overcast,breezy,0.0
+2024-12-16,07:00,9.2,Overcast,breezy,0.0
+2024-12-16,08:00,9.6,Overcast,calm,0.0
+2024-12-16,09:00,10.0,Overcast,calm,0.0
+2024-12-16,10:00,10.3,Overcast,calm,0.0
+2024-12-16,11:00,10.8,Overcast,calm,0.0
+2024-12-16,12:00,11.2,Overcast,calm,0.0
+2024-12-16,13:00,11.5,Overcast,calm,0.0
+2024-12-16,14:00,11.8,Overcast,calm,0.0
+2024-12-16,15:00,11.9,Overcast,calm,0.0
+2024-12-16,16:00,12.0,Overcast,calm,0.0
+2024-12-16,17:00,12.1,Overcast,calm,0.0
+2024-12-16,18:00,12.1,Overcast,calm,0.0
+2024-12-16,19:00,12.1,Overcast,calm,0.0
+2024-12-16,20:00,12.2,Overcast,calm,0.0
+2024-12-16,21:00,12.3,Overcast,calm,0.0
+2024-12-16,22:00,9.6,Overcast,breezy,0.0
+2024-12-16,23:00,11.1,Overcast,breezy,0.0
+2024-12-17,00:00,12.3,Overcast,breezy,0.0
+2024-12-17,01:00,12.8,Overcast,breezy,0.0
+2024-12-17,02:00,13.1,Overcast,windy,0.0
+2024-12-17,03:00,13.3,Overcast,windy,0.0
+2024-12-17,04:00,13.5,Overcast,windy,0.0
+2024-12-17,05:00,13.5,Cloudy,windy,0.0
+2024-12-17,06:00,13.4,Cloudy,windy,0.0
+2024-12-17,07:00,13.4,Cloudy,breezy,0.0
+2024-12-17,08:00,13.4,Overcast,breezy,0.0
+2024-12-17,09:00,13.4,Overcast,breezy,0.0
+2024-12-17,10:00,13.5,Overcast,breezy,0.0
+2024-12-17,11:00,13.4,Overcast,breezy,0.0
+2024-12-17,12:00,13.2,Overcast,breezy,0.0
+2024-12-17,13:00,13.1,Overcast,breezy,0.0
+2024-12-17,14:00,13.6,Overcast,breezy,0.0
+2024-12-17,15:00,14.1,Overcast,breezy,0.0
+2024-12-17,16:00,14.7,Overcast,breezy,0.0
+2024-12-17,17:00,14.1,Clear,breezy,0.0
+2024-12-17,18:00,13.4,Clear,breezy,0.0
+2024-12-17,19:00,12.6,Clear,calm,0.0
+2024-12-17,20:00,11.8,Clear,calm,0.0
+2024-12-17,21:00,11.3,Clear,calm,0.0
+2024-12-17,22:00,11.7,Clear,calm,0.0
+2024-12-17,23:00,10.5,Overcast,calm,0.0
+2024-12-18,00:00,6.8,Fog,calm,0.0
+2024-12-18,01:00,6.3,Fog,calm,0.0
+2024-12-18,02:00,5.7,Mist,calm,0.0
+2024-12-18,03:00,5.3,Mist,calm,0.0
+2024-12-18,04:00,4.9,Mist,calm,0.0
+2024-12-18,05:00,4.4,Overcast,calm,0.0
+2024-12-18,06:00,4.0,Overcast,calm,0.0
+2024-12-18,07:00,3.7,Overcast,calm,0.0
+2024-12-18,08:00,3.9,Partly cloudy,calm,0.0
+2024-12-18,09:00,4.2,Partly cloudy,calm,0.0
+2024-12-18,10:00,4.6,Partly cloudy,calm,0.0
+2024-12-18,11:00,5.1,Cloudy,calm,0.0
+2024-12-18,12:00,5.5,Cloudy,calm,0.0
+2024-12-18,13:00,5.9,Cloudy,breezy,0.0
+2024-12-18,14:00,6.2,Cloudy,breezy,0.0
+2024-12-18,15:00,6.5,Cloudy,breezy,0.0
+2024-12-18,16:00,6.6,Cloudy,breezy,0.0
+2024-12-18,17:00,7.6,Overcast,breezy,0.0
+2024-12-18,18:00,8.5,Overcast,breezy,0.0
+2024-12-18,19:00,9.4,Overcast,windy,0.0
+2024-12-18,20:00,10.4,Overcast,windy,0.0
+2024-12-18,21:00,11.1,Overcast,breezy,0.0
+2024-12-18,22:00,9.6,Overcast,windy,0.0
+2024-12-18,23:00,10.9,Fog,windy,0.0
+2024-12-19,00:00,12.4,Moderate rain at times,breezy,0.61
+2024-12-19,01:00,12.6,Moderate rain at times,windy,0.91
+2024-12-19,02:00,11.0,Light rain,windy,1.21
+2024-12-19,03:00,9.5,Light rain,windy,0.61
+2024-12-19,04:00,7.9,Light rain,windy,0.3
+2024-12-19,05:00,6.3,Overcast,windy,0.0
+2024-12-19,06:00,5.1,Overcast,windy,0.0
+2024-12-19,07:00,4.2,Overcast,windy,0.0
+2024-12-19,08:00,4.4,Sunny,windy,0.0
+2024-12-19,09:00,4.9,Sunny,windy,0.0
+2024-12-19,10:00,5.6,Sunny,windy,0.0
+2024-12-19,11:00,5.9,Sunny,windy,0.0
+2024-12-19,12:00,6.1,Partly cloudy,windy,0.0
+2024-12-19,13:00,6.3,Cloudy,windy,0.0
+2024-12-19,14:00,6.2,Cloudy,windy,0.0
+2024-12-19,15:00,6.1,Cloudy,breezy,0.0
+2024-12-19,16:00,6.0,Cloudy,breezy,0.0
+2024-12-19,17:00,5.5,Partly cloudy,breezy,0.0
+2024-12-19,18:00,5.0,Partly cloudy,calm,0.0
+2024-12-19,19:00,4.5,Partly cloudy,calm,0.0
+2024-12-19,20:00,3.9,Clear,calm,0.0
+2024-12-19,21:00,3.5,Clear,calm,0.0
+2024-12-19,22:00,7.9,Clear,calm,0.0
+2024-12-19,23:00,5.0,Overcast,calm,0.0
+2024-12-20,00:00,2.8,Partly cloudy,calm,0.0
+2024-12-20,01:00,2.8,Cloudy,calm,0.0
+2024-12-20,02:00,3.1,Cloudy,calm,0.0
+2024-12-20,03:00,3.4,Cloudy,calm,0.0
+2024-12-20,04:00,3.6,Cloudy,calm,0.0
+2024-12-20,05:00,3.9,Overcast,calm,0.0
+2024-12-20,06:00,4.2,Overcast,calm,0.0
+2024-12-20,07:00,4.4,Overcast,calm,0.0
+2024-12-20,08:00,4.4,Overcast,calm,0.0
+2024-12-20,09:00,4.3,Overcast,calm,0.0
+2024-12-20,10:00,4.3,Overcast,breezy,0.0
+2024-12-20,11:00,4.2,Overcast,breezy,0.0
+2024-12-20,12:00,4.2,Moderate rain at times,calm,0.55
+2024-12-20,13:00,4.1,Moderate rain at times,calm,0.82
+2024-12-20,14:00,4.0,Light rain,calm,1.09
+2024-12-20,15:00,3.8,Light rain,calm,2.07
+2024-12-20,16:00,3.7,Light rain,calm,2.55
+2024-12-20,17:00,3.6,Moderate rain,breezy,3.04
+2024-12-20,18:00,3.5,Moderate rain,breezy,3.44
+2024-12-20,19:00,3.4,Moderate rain,breezy,3.65
+2024-12-20,20:00,3.5,Moderate rain,breezy,3.85
+2024-12-20,21:00,3.5,Moderate rain,breezy,5.02
+2024-12-20,22:00,3.1,Moderate rain,breezy,5.6
+2024-12-20,23:00,3.3,Clear,breezy,0.0
+2024-12-21,00:00,3.9,Light rain,breezy,1.1
+2024-12-21,01:00,3.5,Light rain,breezy,0.55
+2024-12-21,02:00,2.8,Overcast,breezy,0.0
+2024-12-21,03:00,2.2,Overcast,breezy,0.0
+2024-12-21,04:00,1.7,Overcast,breezy,0.0
+2024-12-21,05:00,1.2,Overcast,breezy,0.0
+2024-12-21,06:00,0.9,Overcast,breezy,0.0
+2024-12-21,07:00,0.7,Overcast,breezy,0.0
+2024-12-21,08:00,0.8,Cloudy,windy,0.0
+2024-12-21,09:00,0.9,Cloudy,windy,0.0
+2024-12-21,10:00,1.0,Cloudy,windy,0.0
+2024-12-21,11:00,1.4,Overcast,windy,0.0
+2024-12-21,12:00,1.7,Overcast,windy,0.0
+2024-12-21,13:00,2.1,Overcast,windy,0.0
+2024-12-21,14:00,1.7,Partly cloudy,windy,0.0
+2024-12-21,15:00,1.3,Partly cloudy,windy,0.0
+2024-12-21,16:00,0.9,Partly cloudy,windy,0.0
+2024-12-21,17:00,-0.0,Partly cloudy,windy,0.0
+2024-12-21,18:00,-0.8,Partly cloudy,windy,0.0
+2024-12-21,19:00,-1.5,Partly cloudy,windy,0.0
+2024-12-21,20:00,-2.0,Clear,windy,0.0
+2024-12-21,21:00,-2.4,Clear,windy,0.0
+2024-12-21,22:00,1.1,Clear,breezy,0.0
+2024-12-21,23:00,-1.1,Light rain,breezy,2.21
+2024-12-22,00:00,-4.4,Clear,breezy,0.0
+2024-12-22,01:00,-4.8,Clear,breezy,0.0
+2024-12-22,02:00,-5.2,Clear,breezy,0.0
+2024-12-22,03:00,-5.4,Clear,breezy,0.0
+2024-12-22,04:00,-5.7,Clear,breezy,0.0
+2024-12-22,05:00,-6.0,Clear,breezy,0.0
+2024-12-22,06:00,-6.2,Clear,breezy,0.0
+2024-12-22,07:00,-6.4,Clear,breezy,0.0
+2024-12-22,08:00,-5.5,Sunny,breezy,0.0
+2024-12-22,09:00,-4.6,Sunny,breezy,0.0
+2024-12-22,10:00,-3.7,Sunny,breezy,0.0
+2024-12-22,11:00,-2.7,Sunny,breezy,0.0
+2024-12-22,12:00,-1.9,Sunny,breezy,0.0
+2024-12-22,13:00,-1.3,Sunny,breezy,0.0
+2024-12-22,14:00,-1.1,Sunny,breezy,0.0
+2024-12-22,15:00,-1.1,Sunny,breezy,0.0
+2024-12-22,16:00,-1.1,Sunny,breezy,0.0
+2024-12-22,17:00,-2.1,Clear,breezy,0.0
+2024-12-22,18:00,-3.0,Clear,breezy,0.0
+2024-12-22,19:00,-4.0,Clear,breezy,0.0
+2024-12-22,20:00,-4.4,Clear,calm,0.0
+2024-12-22,21:00,-4.6,Clear,calm,0.0
+2024-12-22,22:00,-4.2,Clear,calm,0.0
+2024-12-22,23:00,-4.5,Clear,calm,0.0
+2024-12-23,00:00,-4.9,Clear,calm,0.0
+2024-12-23,01:00,-5.0,Clear,calm,0.0
+2024-12-23,02:00,-5.2,Clear,calm,0.0
+2024-12-23,03:00,-5.3,Clear,calm,0.0
+2024-12-23,04:00,-5.4,Clear,calm,0.0
+2024-12-23,05:00,-5.6,Clear,calm,0.0
+2024-12-23,06:00,-5.7,Clear,calm,0.0
+2024-12-23,07:00,-5.9,Clear,calm,0.0
+2024-12-23,08:00,-4.9,Sunny,calm,0.0
+2024-12-23,09:00,-3.9,Sunny,calm,0.0
+2024-12-23,10:00,-2.9,Sunny,calm,0.0
+2024-12-23,11:00,-2.0,Sunny,calm,0.0
+2024-12-23,12:00,-1.4,Sunny,calm,0.0
+2024-12-23,13:00,-0.8,Sunny,calm,0.0
+2024-12-23,14:00,-0.6,Partly cloudy,calm,0.0
+2024-12-23,15:00,-0.5,Partly cloudy,breezy,0.0
+2024-12-23,16:00,-0.4,Partly cloudy,breezy,0.0
+2024-12-23,17:00,-0.5,Partly cloudy,calm,0.0
+2024-12-23,18:00,-0.6,Partly cloudy,calm,0.0
+2024-12-23,19:00,-0.7,Partly cloudy,calm,0.0
+2024-12-23,20:00,-0.4,Partly cloudy,breezy,0.0
+2024-12-23,21:00,-0.0,Partly cloudy,breezy,0.0
+2024-12-23,22:00,-2.4,Partly cloudy,breezy,0.0
+2024-12-23,23:00,-0.7,Clear,breezy,0.0
+2024-12-24,00:00,0.1,Cloudy,breezy,0.0
+2024-12-24,01:00,0.5,Cloudy,breezy,0.0
+2024-12-24,02:00,0.7,Cloudy,breezy,0.0
+2024-12-24,03:00,0.9,Cloudy,breezy,0.0
+2024-12-24,04:00,1.1,Cloudy,breezy,0.0
+2024-12-24,05:00,1.1,Overcast,breezy,0.0
+2024-12-24,06:00,1.1,Overcast,breezy,0.0
+2024-12-24,07:00,1.1,Overcast,breezy,0.0
+2024-12-24,08:00,1.5,Overcast,breezy,0.0
+2024-12-24,09:00,2.0,Overcast,breezy,0.0
+2024-12-24,10:00,2.4,Overcast,breezy,0.0
+2024-12-24,11:00,2.8,Overcast,breezy,0.0
+2024-12-24,12:00,3.1,Overcast,calm,0.0
+2024-12-24,13:00,3.3,Overcast,breezy,0.0
+2024-12-24,14:00,3.7,Partly cloudy,breezy,0.0
+2024-12-24,15:00,3.9,Partly cloudy,breezy,0.0
+2024-12-24,16:00,4.2,Partly cloudy,breezy,0.0
+2024-12-24,17:00,3.9,Clear,calm,0.0
+2024-12-24,18:00,3.5,Partly cloudy,calm,0.0
+2024-12-24,19:00,3.2,Partly cloudy,calm,0.0
+2024-12-24,20:00,2.8,Partly cloudy,calm,0.0
+2024-12-24,21:00,2.4,Partly cloudy,calm,0.0
+2024-12-24,22:00,1.2,Partly cloudy,calm,0.0
+2024-12-24,23:00,1.2,Cloudy,breezy,0.0
+2024-12-25,00:00,-0.1,Clear,calm,0.0
+2024-12-25,01:00,-0.2,Clear,breezy,0.0
+2024-12-25,02:00,-0.4,Clear,breezy,0.0
+2024-12-25,03:00,-0.6,Clear,breezy,0.0
+2024-12-25,04:00,-0.8,Clear,breezy,0.0
+2024-12-25,05:00,-1.1,Clear,breezy,0.0
+2024-12-25,06:00,-1.3,Clear,breezy,0.0
+2024-12-25,07:00,-1.6,Clear,breezy,0.0
+2024-12-25,08:00,-0.6,Sunny,breezy,0.0
+2024-12-25,09:00,0.5,Sunny,breezy,0.0
+2024-12-25,10:00,1.5,Sunny,breezy,0.0
+2024-12-25,11:00,2.7,Sunny,breezy,0.0
+2024-12-25,12:00,3.5,Sunny,breezy,0.0
+2024-12-25,13:00,4.3,Sunny,calm,0.0
+2024-12-25,14:00,3.9,Sunny,calm,0.0
+2024-12-25,15:00,3.3,Sunny,calm,0.0
+2024-12-25,16:00,2.6,Sunny,calm,0.0
+2024-12-25,17:00,1.7,Clear,calm,0.0
+2024-12-25,18:00,1.0,Clear,calm,0.0
+2024-12-25,19:00,0.4,Clear,calm,0.0
+2024-12-25,20:00,-0.0,Clear,calm,0.0
+2024-12-25,21:00,-0.3,Clear,calm,0.0
+2024-12-25,22:00,-0.4,Clear,calm,0.0
+2024-12-25,23:00,-0.6,Clear,calm,0.0
+2024-12-26,00:00,-1.4,Partly cloudy,calm,0.0
+2024-12-26,01:00,-1.5,Partly cloudy,calm,0.0
+2024-12-26,02:00,-1.9,Cloudy,calm,0.0
+2024-12-26,03:00,-2.2,Cloudy,calm,0.0
+2024-12-26,04:00,-2.6,Cloudy,calm,0.0
+2024-12-26,05:00,-3.0,Partly cloudy,calm,0.0
+2024-12-26,06:00,-3.4,Partly cloudy,calm,0.0
+2024-12-26,07:00,-3.8,Partly cloudy,calm,0.0
+2024-12-26,08:00,-3.2,Partly cloudy,calm,0.0
+2024-12-26,09:00,-2.5,Partly cloudy,calm,0.0
+2024-12-26,10:00,-1.8,Partly cloudy,breezy,0.0
+2024-12-26,11:00,-0.0,Partly cloudy,breezy,0.0
+2024-12-26,12:00,1.6,Partly cloudy,calm,0.0
+2024-12-26,13:00,3.2,Partly cloudy,calm,0.0
+2024-12-26,14:00,3.0,Sunny,calm,0.0
+2024-12-26,15:00,2.5,Sunny,calm,0.0
+2024-12-26,16:00,1.8,Sunny,calm,0.0
+2024-12-26,17:00,0.9,Clear,calm,0.0
+2024-12-26,18:00,0.1,Clear,calm,0.0
+2024-12-26,19:00,-0.5,Clear,calm,0.0
+2024-12-26,20:00,-1.2,Clear,calm,0.0
+2024-12-26,21:00,-1.6,Clear,calm,0.0
+2024-12-26,22:00,-1.5,Clear,calm,0.0
+2024-12-26,23:00,-2.2,Partly cloudy,calm,0.0
+2024-12-27,00:00,-0.9,Clear,calm,0.0
+2024-12-27,01:00,-1.1,Clear,calm,0.0
+2024-12-27,02:00,-1.2,Clear,calm,0.0
+2024-12-27,03:00,-1.3,Clear,calm,0.0
+2024-12-27,04:00,-1.4,Clear,calm,0.0
+2024-12-27,05:00,-1.5,Partly cloudy,calm,0.0
+2024-12-27,06:00,-1.6,Partly cloudy,calm,0.0
+2024-12-27,07:00,-1.6,Partly cloudy,calm,0.0
+2024-12-27,08:00,-1.2,Partly cloudy,calm,0.0
+2024-12-27,09:00,-0.7,Partly cloudy,calm,0.0
+2024-12-27,10:00,-0.2,Partly cloudy,calm,0.0
+2024-12-27,11:00,0.9,Sunny,calm,0.0
+2024-12-27,12:00,1.9,Sunny,calm,0.0
+2024-12-27,13:00,2.8,Sunny,calm,0.0
+2024-12-27,14:00,3.0,Sunny,calm,0.0
+2024-12-27,15:00,3.0,Partly cloudy,calm,0.0
+2024-12-27,16:00,2.8,Partly cloudy,calm,0.0
+2024-12-27,17:00,2.4,Partly cloudy,calm,0.0
+2024-12-27,18:00,1.9,Partly cloudy,calm,0.0
+2024-12-27,19:00,1.5,Partly cloudy,calm,0.0
+2024-12-27,20:00,1.2,Cloudy,calm,0.0
+2024-12-27,21:00,1.1,Cloudy,calm,0.0
+2024-12-27,22:00,0.3,Cloudy,calm,0.0
+2024-12-27,23:00,0.5,Clear,calm,0.0
+2024-12-28,00:00,5.0,Overcast,calm,0.0
+2024-12-28,01:00,5.7,Overcast,calm,0.0
+2024-12-28,02:00,6.5,Mist,calm,0.0
+2024-12-28,03:00,7.0,Mist,calm,0.73
+2024-12-28,04:00,7.5,Mist,calm,1.09
+2024-12-28,05:00,8.0,Light rain,calm,1.45
+2024-12-28,06:00,8.3,Light rain,calm,0.73
+2024-12-28,07:00,8.6,Light rain,calm,0.36
+2024-12-28,08:00,9.1,Overcast,calm,0.0
+2024-12-28,09:00,9.5,Overcast,calm,0.0
+2024-12-28,10:00,9.9,Overcast,calm,0.0
+2024-12-28,11:00,10.2,Overcast,calm,0.0
+2024-12-28,12:00,10.5,Moderate rain at times,calm,0.86
+2024-12-28,13:00,10.6,Heavy rain at times,calm,1.29
+2024-12-28,14:00,10.5,Light rain,calm,1.71
+2024-12-28,15:00,10.3,Light rain,calm,0.86
+2024-12-28,16:00,10.1,Light rain,calm,0.43
+2024-12-28,17:00,10.2,Fog,calm,0.0
+2024-12-28,18:00,10.3,Fog,calm,0.0
+2024-12-28,19:00,10.5,Fog,breezy,0.0
+2024-12-28,20:00,10.7,Fog,calm,0.0
+2024-12-28,21:00,10.9,Fog,calm,0.0
+2024-12-28,22:00,7.4,Fog,calm,0.0
+2024-12-28,23:00,9.2,Overcast,breezy,0.0
+2024-12-29,00:00,11.2,Light rain,calm,1.2
+2024-12-29,01:00,11.4,Light rain,breezy,1.15
+2024-12-29,02:00,11.2,Light rain,breezy,1.1
+2024-12-29,03:00,11.0,Light rain,breezy,1.8
+2024-12-29,04:00,10.8,Light rain,calm,2.15
+2024-12-29,05:00,10.5,Light rain,breezy,2.5
+2024-12-29,06:00,10.2,Light rain,breezy,1.25
+2024-12-29,07:00,10.0,Light rain,breezy,0.62
+2024-12-29,08:00,10.4,Fog,breezy,0.0
+2024-12-29,09:00,10.9,Fog,breezy,0.0
+2024-12-29,10:00,11.4,Fog,breezy,0.0
+2024-12-29,11:00,12.3,Overcast,breezy,0.0
+2024-12-29,12:00,13.0,Overcast,windy,0.0
+2024-12-29,13:00,13.7,Overcast,windy,0.0
+2024-12-29,14:00,13.9,Overcast,windy,0.0
+2024-12-29,15:00,13.8,Overcast,windy,0.0
+2024-12-29,16:00,13.7,Overcast,windy,0.0
+2024-12-29,17:00,13.5,Overcast,windy,0.0
+2024-12-29,18:00,13.3,Overcast,windy,0.0
+2024-12-29,19:00,13.1,Overcast,windy,0.0
+2024-12-29,20:00,13.0,Overcast,windy,0.0
+2024-12-29,21:00,13.0,Overcast,windy,0.0
+2024-12-29,22:00,12.2,Overcast,windy,0.0
+2024-12-29,23:00,12.6,Light rain,windy,1.3
+2024-12-30,00:00,13.0,Moderate or heavy rain shower,windy,4.27
+2024-12-30,01:00,13.0,Moderate or heavy rain shower,windy,6.4
+2024-12-30,02:00,13.0,Heavy rain,windy,8.54
+2024-12-30,03:00,13.0,Heavy rain,windy,5.61
+2024-12-30,04:00,13.1,Heavy rain,windy,4.14
+2024-12-30,05:00,13.0,Moderate rain,windy,2.67
+2024-12-30,06:00,12.9,Moderate rain,breezy,9.5
+2024-12-30,07:00,12.9,Moderate rain,breezy,12.91
+2024-12-30,08:00,12.9,Heavy rain,breezy,16.32
+2024-12-30,09:00,13.0,Heavy rain,breezy,8.16
+2024-12-30,10:00,13.0,Heavy rain,breezy,4.08
+2024-12-30,11:00,13.6,Sunny,breezy,0.0
+2024-12-30,12:00,14.1,Sunny,breezy,0.0
+2024-12-30,13:00,14.6,Sunny,breezy,0.0
+2024-12-30,14:00,14.6,Sunny,breezy,0.0
+2024-12-30,15:00,14.4,Sunny,breezy,0.0
+2024-12-30,16:00,14.2,Sunny,breezy,0.0
+2024-12-30,17:00,13.0,Clear,breezy,0.0
+2024-12-30,18:00,11.9,Clear,calm,0.0
+2024-12-30,19:00,10.8,Clear,calm,0.0
+2024-12-30,20:00,9.9,Clear,calm,0.0
+2024-12-30,21:00,9.3,Clear,calm,0.0
+2024-12-30,22:00,11.2,Clear,calm,0.0
+2024-12-30,23:00,9.3,Overcast,calm,0.0
+2024-12-31,00:00,8.9,Clear,breezy,0.0
+2024-12-31,01:00,8.6,Clear,calm,0.0
+2024-12-31,02:00,7.8,Clear,calm,0.0
+2024-12-31,03:00,7.2,Clear,calm,0.0
+2024-12-31,04:00,6.5,Clear,calm,0.0
+2024-12-31,05:00,6.0,Clear,calm,0.0
+2024-12-31,06:00,5.7,Clear,calm,0.0
+2024-12-31,07:00,5.4,Clear,calm,0.0
+2024-12-31,08:00,6.0,Sunny,calm,0.0
+2024-12-31,09:00,6.8,Sunny,calm,0.0
+2024-12-31,10:00,7.5,Sunny,calm,0.0
+2024-12-31,11:00,8.3,Sunny,breezy,0.0
+2024-12-31,12:00,9.0,Cloudy,breezy,0.0
+2024-12-31,13:00,9.5,Cloudy,breezy,0.0
+2024-12-31,14:00,9.8,Overcast,breezy,0.0
+2024-12-31,15:00,10.0,Overcast,breezy,0.0
+2024-12-31,16:00,10.1,Overcast,breezy,0.0
+2024-12-31,17:00,10.4,Cloudy,breezy,0.0
+2024-12-31,18:00,10.7,Cloudy,breezy,0.0
+2024-12-31,19:00,11.0,Cloudy,breezy,0.0
+2024-12-31,20:00,11.3,Overcast,windy,0.0
+2024-12-31,21:00,11.4,Overcast,windy,0.0
+2024-12-31,22:00,10.8,Overcast,breezy,0.0
+2024-12-31,23:00,11.0,Clear,breezy,0.0
+2025-01-01,00:00,11.5,Moderate or heavy rain with thunder,breezy,11.68
+2025-01-01,01:00,11.5,Moderate or heavy rain with thunder,breezy,8.04
+2025-01-01,02:00,11.2,Moderate or heavy rain shower,breezy,4.4
+2025-01-01,03:00,10.9,Moderate or heavy rain shower,breezy,2.2
+2025-01-01,04:00,10.6,Moderate or heavy rain shower,breezy,1.1
+2025-01-01,05:00,10.1,Overcast,breezy,0.0
+2025-01-01,06:00,9.7,Overcast,breezy,0.0
+2025-01-01,07:00,9.3,Overcast,breezy,0.0
+2025-01-01,08:00,9.6,Partly cloudy,windy,0.0
+2025-01-01,09:00,10.0,Partly cloudy,windy,0.0
+2025-01-01,10:00,10.5,Partly cloudy,windy,0.0
+2025-01-01,11:00,10.2,Sunny,windy,0.0
+2025-01-01,12:00,9.7,Partly cloudy,windy,0.0
+2025-01-01,13:00,9.2,Cloudy,windy,0.0
+2025-01-01,14:00,8.8,Overcast,windy,0.0
+2025-01-01,15:00,8.5,Overcast,windy,0.0
+2025-01-01,16:00,8.2,Overcast,windy,0.0
+2025-01-01,17:00,7.4,Clear,windy,0.0
+2025-01-01,18:00,6.6,Clear,windy,0.0
+2025-01-01,19:00,5.9,Clear,windy,0.0
+2025-01-01,20:00,5.1,Clear,windy,0.0
+2025-01-01,21:00,4.6,Clear,windy,0.0
+2025-01-01,22:00,8.3,Clear,windy,0.0
+2025-01-01,23:00,5.7,Moderate or heavy rain with thunder,windy,18.96
+2025-01-02,00:00,3.0,Clear,windy,0.0
+2025-01-02,01:00,2.6,Clear,windy,0.0
+2025-01-02,02:00,2.1,Clear,windy,0.0
+2025-01-02,03:00,1.7,Clear,windy,0.0
+2025-01-02,04:00,1.3,Clear,windy,0.0
+2025-01-02,05:00,0.9,Clear,windy,0.0
+2025-01-02,06:00,0.5,Clear,windy,0.0
+2025-01-02,07:00,0.3,Clear,windy,0.0
+2025-01-02,08:00,1.1,Sunny,windy,0.0
+2025-01-02,09:00,2.0,Sunny,windy,0.0
+2025-01-02,10:00,2.9,Sunny,windy,0.0
+2025-01-02,11:00,4.0,Sunny,windy,0.0
+2025-01-02,12:00,4.8,Sunny,windy,0.0
+2025-01-02,13:00,5.6,Sunny,windy,0.0
+2025-01-02,14:00,5.8,Sunny,windy,0.0
+2025-01-02,15:00,5.8,Sunny,windy,0.0
+2025-01-02,16:00,5.8,Sunny,windy,0.0
+2025-01-02,17:00,4.6,Clear,windy,0.0
+2025-01-02,18:00,3.4,Clear,windy,0.0
+2025-01-02,19:00,2.3,Clear,windy,0.0
+2025-01-02,20:00,1.5,Clear,windy,0.0
+2025-01-02,21:00,0.9,Clear,windy,0.0
+2025-01-02,22:00,2.1,Clear,windy,0.0
+2025-01-02,23:00,1.0,Clear,breezy,0.0
+2025-01-03,00:00,-0.3,Clear,windy,0.0
+2025-01-03,01:00,-0.6,Clear,windy,0.0
+2025-01-03,02:00,-0.7,Clear,windy,0.0
+2025-01-03,03:00,-0.8,Clear,windy,0.0
+2025-01-03,04:00,-0.8,Clear,windy,0.0
+2025-01-03,05:00,-0.8,Clear,windy,0.0
+2025-01-03,06:00,-0.7,Clear,windy,0.0
+2025-01-03,07:00,-0.7,Clear,windy,0.0
+2025-01-03,08:00,0.6,Sunny,breezy,0.0
+2025-01-03,09:00,1.9,Sunny,windy,0.0
+2025-01-03,10:00,3.1,Sunny,windy,0.0
+2025-01-03,11:00,3.4,Sunny,windy,0.0
+2025-01-03,12:00,3.4,Partly cloudy,windy,0.0
+2025-01-03,13:00,3.3,Cloudy,windy,0.0
+2025-01-03,14:00,3.3,Cloudy,windy,0.0
+2025-01-03,15:00,3.4,Cloudy,windy,0.0
+2025-01-03,16:00,3.5,Cloudy,breezy,0.0
+2025-01-03,17:00,3.3,Partly cloudy,breezy,0.0
+2025-01-03,18:00,3.0,Partly cloudy,calm,0.0
+2025-01-03,19:00,2.8,Partly cloudy,calm,0.0
+2025-01-03,20:00,2.0,Overcast,calm,0.0
+2025-01-03,21:00,1.2,Overcast,breezy,0.0
+2025-01-03,22:00,0.6,Overcast,breezy,0.0
+2025-01-03,23:00,-0.1,Clear,breezy,0.0
+2025-01-04,00:00,-1.0,Patchy moderate snow,breezy,0.63
+2025-01-04,01:00,-1.5,Patchy moderate snow,windy,0.31
+2025-01-04,02:00,-1.8,Clear,windy,0.0
+2025-01-04,03:00,-2.0,Clear,windy,0.0
+2025-01-04,04:00,-2.2,Clear,windy,0.0
+2025-01-04,05:00,-2.2,Clear,windy,0.0
+2025-01-04,06:00,-2.1,Clear,windy,0.0
+2025-01-04,07:00,-2.1,Clear,windy,0.0
+2025-01-04,08:00,-1.2,Sunny,windy,0.0
+2025-01-04,09:00,-0.4,Sunny,windy,0.0
+2025-01-04,10:00,0.5,Sunny,windy,0.0
+2025-01-04,11:00,1.3,Sunny,windy,0.0
+2025-01-04,12:00,2.0,Sunny,windy,0.0
+2025-01-04,13:00,2.5,Sunny,windy,0.0
+2025-01-04,14:00,2.5,Sunny,windy,0.0
+2025-01-04,15:00,2.4,Sunny,windy,0.0
+2025-01-04,16:00,2.1,Sunny,windy,0.0
+2025-01-04,17:00,0.9,Clear,windy,0.0
+2025-01-04,18:00,-0.2,Clear,windy,0.0
+2025-01-04,19:00,-1.3,Clear,windy,0.0
+2025-01-04,20:00,-2.0,Clear,windy,0.0
+2025-01-04,21:00,-2.5,Clear,windy,0.0
+2025-01-04,22:00,-1.6,Clear,windy,0.0
+2025-01-04,23:00,-2.7,Patchy moderate snow,windy,1.25
+2025-01-05,00:00,-4.3,Clear,windy,0.0
+2025-01-05,01:00,-4.6,Clear,windy,0.0
+2025-01-05,02:00,-4.9,Clear,windy,0.0
+2025-01-05,03:00,-5.0,Clear,windy,0.0
+2025-01-05,04:00,-5.1,Clear,windy,0.0
+2025-01-05,05:00,-5.3,Clear,windy,0.0
+2025-01-05,06:00,-5.4,Clear,windy,0.0
+2025-01-05,07:00,-5.5,Clear,windy,0.0
+2025-01-05,08:00,-4.4,Sunny,windy,0.0
+2025-01-05,09:00,-3.2,Sunny,windy,0.0
+2025-01-05,10:00,-2.1,Sunny,windy,0.0
+2025-01-05,11:00,-0.7,Sunny,windy,0.0
+2025-01-05,12:00,0.3,Sunny,windy,0.0
+2025-01-05,13:00,1.2,Sunny,windy,0.0
+2025-01-05,14:00,1.5,Sunny,windy,0.0
+2025-01-05,15:00,1.6,Sunny,windy,0.0
+2025-01-05,16:00,1.6,Sunny,windy,0.0
+2025-01-05,17:00,0.5,Clear,breezy,0.0
+2025-01-05,18:00,-0.5,Clear,breezy,0.0
+2025-01-05,19:00,-1.6,Clear,breezy,0.0
+2025-01-05,20:00,-2.2,Clear,breezy,0.0
+2025-01-05,21:00,-2.5,Clear,breezy,0.0
+2025-01-05,22:00,-3.3,Clear,breezy,0.0
+2025-01-05,23:00,-3.3,Clear,breezy,0.0
+2025-01-06,00:00,-3.4,Clear,breezy,0.0
+2025-01-06,01:00,-3.5,Clear,breezy,0.0
+2025-01-06,02:00,-3.7,Clear,calm,0.0
+2025-01-06,03:00,-3.8,Clear,calm,0.0
+2025-01-06,04:00,-3.8,Partly cloudy,calm,0.0
+2025-01-06,05:00,-3.6,Partly cloudy,calm,0.0
+2025-01-06,06:00,-3.3,Partly cloudy,calm,0.0
+2025-01-06,07:00,-3.1,Partly cloudy,calm,0.0
+2025-01-06,08:00,-2.8,Overcast,calm,0.0
+2025-01-06,09:00,-2.5,Overcast,calm,0.0
+2025-01-06,10:00,-2.3,Overcast,calm,0.0
+2025-01-06,11:00,-2.4,Overcast,calm,0.0
+2025-01-06,12:00,-2.5,Moderate snow,calm,1.38
+2025-01-06,13:00,-2.7,Moderate or heavy snow showers,calm,2.06
+2025-01-06,14:00,-1.9,Heavy snow,breezy,2.75
+2025-01-06,15:00,-1.5,Heavy snow,breezy,1.97
+2025-01-06,16:00,-1.2,Heavy snow,breezy,0.84
+2025-01-06,17:00,-1.0,Heavy snow,breezy,0.82
+2025-01-06,18:00,-0.7,Heavy snow,breezy,0.36
+2025-01-06,19:00,-0.4,Moderate snow,windy,0.19
+2025-01-06,20:00,-0.2,Moderate snow,windy,0.22
+2025-01-06,21:00,-0.4,Heavy snow,windy,0.29
+2025-01-06,22:00,-1.7,Heavy snow,windy,0.9
+2025-01-06,23:00,-2.1,Clear,windy,0.0
+2025-01-07,00:00,-2.5,Heavy snow,windy,1.35
+2025-01-07,01:00,-2.9,Heavy snow,windy,0.61
+2025-01-07,02:00,-3.0,Heavy snow,windy,0.84
+2025-01-07,03:00,-3.3,Heavy snow,windy,0.48
+2025-01-07,04:00,-4.0,Light snow,windy,0.05
+2025-01-07,05:00,-4.9,Partly cloudy,windy,0.0
+2025-01-07,06:00,-5.7,Clear,windy,0.0
+2025-01-07,07:00,-6.2,Clear,windy,0.0
+2025-01-07,08:00,-6.4,Sunny,windy,0.0
+2025-01-07,09:00,-5.9,Sunny,windy,0.0
+2025-01-07,10:00,-5.1,Sunny,windy,0.0
+2025-01-07,11:00,-4.3,Sunny,windy,0.0
+2025-01-07,12:00,-3.6,Partly cloudy,windy,0.0
+2025-01-07,13:00,-3.1,Patchy light snow,windy,0.0
+2025-01-07,14:00,-2.7,Light freezing rain,windy,0.01
+2025-01-07,15:00,-2.4,Patchy light snow,windy,0.0
+2025-01-07,16:00,-2.4,Partly cloudy,windy,0.0
+2025-01-07,17:00,-2.6,Partly cloudy,windy,0.0
+2025-01-07,18:00,-2.7,Clear,windy,0.0
+2025-01-07,19:00,-2.9,Clear,windy,0.0
+2025-01-07,20:00,-3.1,Clear,windy,0.0
+2025-01-07,21:00,-3.4,Clear,windy,0.0
+2025-01-07,22:00,-3.7,Clear,windy,0.0
+2025-01-07,23:00,-4.0,Clear,windy,0.0
+2025-01-08,00:00,-4.2,Clear,windy,0.0
+2025-01-08,01:00,-4.4,Clear,windy,0.0
+2025-01-08,02:00,-4.6,Clear,windy,0.0
+2025-01-08,03:00,-4.8,Partly cloudy,windy,0.0
+2025-01-08,04:00,-5.1,Clear,windy,0.0
+2025-01-08,05:00,-5.4,Partly cloudy,windy,0.0
+2025-01-08,06:00,-5.6,Clear,windy,0.0
+2025-01-08,07:00,-5.8,Partly cloudy,windy,0.0
+2025-01-08,08:00,-5.6,Sunny,windy,0.0
+2025-01-08,09:00,-5.0,Sunny,windy,0.0
+2025-01-08,10:00,-4.4,Sunny,windy,0.0
+2025-01-08,11:00,-3.7,Sunny,windy,0.0
+2025-01-08,12:00,-2.9,Patchy light snow,windy,0.0
+2025-01-08,13:00,-2.1,Sunny,windy,0.0
+2025-01-08,14:00,-1.9,Patchy light snow,windy,0.02
+2025-01-08,15:00,-2.2,Partly cloudy,windy,0.0
+2025-01-08,16:00,-2.6,Patchy light snow,windy,0.0
+2025-01-08,17:00,-3.0,Partly cloudy,windy,0.0
+2025-01-08,18:00,-3.5,Clear,windy,0.0
+2025-01-08,19:00,-4.0,Partly cloudy,windy,0.0
+2025-01-08,20:00,-4.6,Clear,windy,0.0
+2025-01-08,21:00,-5.1,Clear,windy,0.0
+2025-01-08,22:00,-5.7,Clear,windy,0.0
+2025-01-08,23:00,-6.2,Clear,windy,0.0
+2025-01-09,00:00,-5.0,Clear,windy,0.0
+2025-01-09,01:00,-5.3,Clear,windy,0.0
+2025-01-09,02:00,-5.7,Clear,windy,0.0
+2025-01-09,03:00,-6.0,Clear,windy,0.0
+2025-01-09,04:00,-6.3,Clear,windy,0.0
+2025-01-09,05:00,-6.5,Clear,windy,0.0
+2025-01-09,06:00,-6.6,Clear,windy,0.0
+2025-01-09,07:00,-6.7,Clear,windy,0.0
+2025-01-09,08:00,-5.7,Sunny,windy,0.0
+2025-01-09,09:00,-4.7,Sunny,windy,0.0
+2025-01-09,10:00,-3.6,Sunny,windy,0.0
+2025-01-09,11:00,-2.3,Sunny,windy,0.0
+2025-01-09,12:00,-1.2,Sunny,windy,0.0
+2025-01-09,13:00,-0.2,Sunny,windy,0.0
+2025-01-09,14:00,0.4,Sunny,windy,0.0
+2025-01-09,15:00,0.8,Sunny,windy,0.0
+2025-01-09,16:00,1.1,Sunny,windy,0.0
+2025-01-09,17:00,0.3,Clear,windy,0.0
+2025-01-09,18:00,-0.6,Clear,windy,0.0
+2025-01-09,19:00,-1.5,Clear,windy,0.0
+2025-01-09,20:00,-2.2,Clear,windy,0.0
+2025-01-09,21:00,-2.6,Clear,windy,0.0
+2025-01-09,22:00,-3.4,Clear,windy,0.0
+2025-01-09,23:00,-3.7,Clear,windy,0.0
+2025-01-10,00:00,-3.8,Clear,windy,0.0
+2025-01-10,01:00,-4.2,Clear,windy,0.0
+2025-01-10,02:00,-4.6,Clear,windy,0.0
+2025-01-10,03:00,-5.0,Clear,windy,0.0
+2025-01-10,04:00,-5.2,Clear,windy,0.0
+2025-01-10,05:00,-5.5,Clear,windy,0.0
+2025-01-10,06:00,-5.6,Clear,windy,0.0
+2025-01-10,07:00,-5.8,Partly cloudy,windy,0.0
+2025-01-10,08:00,-4.9,Partly cloudy,windy,0.0
+2025-01-10,09:00,-4.1,Partly cloudy,breezy,0.0
+2025-01-10,10:00,-3.2,Partly cloudy,breezy,0.0
+2025-01-10,11:00,-1.9,Sunny,windy,0.0
+2025-01-10,12:00,-0.8,Cloudy,breezy,0.0
+2025-01-10,13:00,0.1,Cloudy,breezy,0.0
+2025-01-10,14:00,0.4,Overcast,breezy,0.0
+2025-01-10,15:00,0.5,Overcast,breezy,0.0
+2025-01-10,16:00,0.5,Overcast,breezy,0.0
+2025-01-10,17:00,0.0,Overcast,breezy,0.0
+2025-01-10,18:00,-0.4,Overcast,breezy,0.0
+2025-01-10,19:00,-0.8,Overcast,breezy,0.0
+2025-01-10,20:00,-1.0,Partly cloudy,breezy,0.0
+2025-01-10,21:00,-1.2,Partly cloudy,breezy,0.0
+2025-01-10,22:00,-2.2,Partly cloudy,breezy,0.0
+2025-01-10,23:00,-1.8,Clear,breezy,0.0
+2025-01-11,00:00,-1.6,Overcast,breezy,0.0
+2025-01-11,01:00,-1.8,Overcast,breezy,0.0
+2025-01-11,02:00,-1.9,Overcast,breezy,0.0
+2025-01-11,03:00,-2.0,Moderate or heavy snow showers,breezy,1.87
+2025-01-11,04:00,-2.1,Moderate or heavy snow showers,breezy,2.81
+2025-01-11,05:00,-1.6,Heavy snow,calm,3.75
+2025-01-11,06:00,-1.1,Heavy snow,calm,3.4
+2025-01-11,07:00,-0.6,Heavy snow,calm,3.22
+2025-01-11,08:00,-0.0,Heavy snow,calm,3.05
+2025-01-11,09:00,0.4,Heavy snow,calm,1.52
+2025-01-11,10:00,0.8,Heavy snow,breezy,0.76
+2025-01-11,11:00,1.1,Overcast,breezy,0.0
+2025-01-11,12:00,1.4,Overcast,breezy,0.0
+2025-01-11,13:00,1.5,Overcast,breezy,0.0
+2025-01-11,14:00,1.5,Partly cloudy,windy,0.0
+2025-01-11,15:00,1.4,Partly cloudy,windy,0.0
+2025-01-11,16:00,1.3,Partly cloudy,windy,0.0
+2025-01-11,17:00,0.8,Partly cloudy,breezy,0.0
+2025-01-11,18:00,0.4,Partly cloudy,breezy,0.0
+2025-01-11,19:00,-0.1,Partly cloudy,breezy,0.0
+2025-01-11,20:00,-0.3,Clear,breezy,0.0
+2025-01-11,21:00,-0.4,Clear,breezy,0.0
+2025-01-11,22:00,-0.8,Clear,breezy,0.0
+2025-01-11,23:00,-0.9,Overcast,breezy,0.0
+2025-01-12,00:00,-2.2,Clear,breezy,0.0
+2025-01-12,01:00,-2.5,Clear,breezy,0.0
+2025-01-12,02:00,-2.7,Clear,breezy,0.0
+2025-01-12,03:00,-2.8,Clear,breezy,0.0
+2025-01-12,04:00,-3.0,Clear,breezy,0.0
+2025-01-12,05:00,-3.2,Clear,breezy,0.0
+2025-01-12,06:00,-3.4,Clear,breezy,0.0
+2025-01-12,07:00,-3.5,Clear,breezy,0.0
+2025-01-12,08:00,-1.9,Sunny,breezy,0.0
+2025-01-12,09:00,-0.3,Sunny,breezy,0.0
+2025-01-12,10:00,1.3,Sunny,breezy,0.0
+2025-01-12,11:00,3.1,Sunny,breezy,0.0
+2025-01-12,12:00,4.5,Sunny,breezy,0.0
+2025-01-12,13:00,5.7,Sunny,breezy,0.0
+2025-01-12,14:00,6.0,Sunny,breezy,0.0
+2025-01-12,15:00,6.0,Sunny,breezy,0.0
+2025-01-12,16:00,5.8,Sunny,breezy,0.0
+2025-01-12,17:00,4.4,Clear,calm,0.0
+2025-01-12,18:00,3.0,Clear,calm,0.0
+2025-01-12,19:00,1.7,Clear,calm,0.0
+2025-01-12,20:00,0.9,Clear,calm,0.0
+2025-01-12,21:00,0.3,Clear,calm,0.0
+2025-01-12,22:00,-0.7,Clear,calm,0.0
+2025-01-12,23:00,-0.7,Clear,calm,0.0
+2025-01-13,00:00,-0.3,Partly cloudy,breezy,0.0
+2025-01-13,01:00,-0.5,Partly cloudy,calm,0.0
+2025-01-13,02:00,-0.6,Clear,calm,0.0
+2025-01-13,03:00,-0.8,Clear,calm,0.0
+2025-01-13,04:00,-0.9,Clear,calm,0.0
+2025-01-13,05:00,-0.7,Clear,calm,0.0
+2025-01-13,06:00,-0.4,Cloudy,breezy,0.0
+2025-01-13,07:00,-0.2,Cloudy,calm,0.0
+2025-01-13,08:00,0.6,Overcast,breezy,0.0
+2025-01-13,09:00,1.3,Overcast,breezy,0.0
+2025-01-13,10:00,1.9,Overcast,breezy,0.0
+2025-01-13,11:00,3.9,Partly cloudy,breezy,0.0
+2025-01-13,12:00,5.6,Partly cloudy,breezy,0.0
+2025-01-13,13:00,7.3,Partly cloudy,breezy,0.0
+2025-01-13,14:00,7.2,Sunny,breezy,0.0
+2025-01-13,15:00,6.7,Partly cloudy,breezy,0.0
+2025-01-13,16:00,5.9,Cloudy,breezy,0.0
+2025-01-13,17:00,4.9,Cloudy,breezy,0.0
+2025-01-13,18:00,4.0,Cloudy,breezy,0.0
+2025-01-13,19:00,3.2,Cloudy,breezy,0.0
+2025-01-13,20:00,2.8,Partly cloudy,breezy,0.0
+2025-01-13,21:00,2.6,Partly cloudy,breezy,0.0
+2025-01-13,22:00,1.6,Partly cloudy,breezy,0.0
+2025-01-13,23:00,1.5,Partly cloudy,breezy,0.0
+2025-01-14,00:00,0.5,Clear,breezy,0.0
+2025-01-14,01:00,-0.2,Clear,breezy,0.0
+2025-01-14,02:00,-1.0,Clear,breezy,0.0
+2025-01-14,03:00,-1.6,Clear,breezy,0.0
+2025-01-14,04:00,-2.2,Clear,breezy,0.0
+2025-01-14,05:00,-2.7,Clear,windy,0.0
+2025-01-14,06:00,-3.0,Clear,windy,0.0
+2025-01-14,07:00,-3.3,Clear,windy,0.0
+2025-01-14,08:00,-2.7,Sunny,windy,0.0
+2025-01-14,09:00,-2.0,Sunny,windy,0.0
+2025-01-14,10:00,-1.4,Sunny,windy,0.0
+2025-01-14,11:00,-0.6,Sunny,windy,0.0
+2025-01-14,12:00,0.1,Sunny,windy,0.0
+2025-01-14,13:00,0.6,Sunny,windy,0.0
+2025-01-14,14:00,0.2,Sunny,windy,0.0
+2025-01-14,15:00,-0.4,Sunny,windy,0.0
+2025-01-14,16:00,-1.1,Partly cloudy,windy,0.0
+2025-01-14,17:00,-2.0,Partly cloudy,windy,0.0
+2025-01-14,18:00,-2.7,Partly cloudy,windy,0.0
+2025-01-14,19:00,-3.4,Partly cloudy,windy,0.0
+2025-01-14,20:00,-3.9,Cloudy,windy,0.0
+2025-01-14,21:00,-4.3,Cloudy,windy,0.0
+2025-01-14,22:00,-1.0,Cloudy,windy,0.0
+2025-01-14,23:00,-3.3,Clear,windy,0.0
+2025-01-15,00:00,-5.1,Clear,windy,0.0
+2025-01-15,01:00,-5.5,Clear,windy,0.0
+2025-01-15,02:00,-5.7,Clear,windy,0.0
+2025-01-15,03:00,-5.9,Clear,windy,0.0
+2025-01-15,04:00,-6.1,Clear,windy,0.0
+2025-01-15,05:00,-6.2,Clear,windy,0.0
+2025-01-15,06:00,-6.4,Clear,windy,0.0
+2025-01-15,07:00,-6.5,Clear,windy,0.0
+2025-01-15,08:00,-5.2,Sunny,windy,0.0
+2025-01-15,09:00,-4.0,Sunny,windy,0.0
+2025-01-15,10:00,-2.7,Sunny,windy,0.0
+2025-01-15,11:00,-1.1,Sunny,windy,0.0
+2025-01-15,12:00,0.2,Sunny,windy,0.0
+2025-01-15,13:00,1.3,Sunny,windy,0.0
+2025-01-15,14:00,1.3,Sunny,windy,0.0
+2025-01-15,15:00,1.0,Sunny,windy,0.0
+2025-01-15,16:00,0.5,Sunny,windy,0.0
+2025-01-15,17:00,-0.1,Clear,windy,0.0
+2025-01-15,18:00,-0.6,Cloudy,windy,0.0
+2025-01-15,19:00,-1.0,Cloudy,breezy,0.0
+2025-01-15,20:00,-1.5,Cloudy,breezy,0.0
+2025-01-15,21:00,-1.9,Cloudy,windy,0.0
+2025-01-15,22:00,-3.4,Cloudy,windy,0.0
+2025-01-15,23:00,-3.6,Clear,breezy,0.0
+2025-01-16,00:00,-3.8,Clear,breezy,0.0
+2025-01-16,01:00,-4.2,Clear,breezy,0.0
+2025-01-16,02:00,-4.6,Clear,breezy,0.0
+2025-01-16,03:00,-4.9,Clear,breezy,0.0
+2025-01-16,04:00,-5.2,Clear,breezy,0.0
+2025-01-16,05:00,-5.6,Clear,breezy,0.0
+2025-01-16,06:00,-5.8,Clear,breezy,0.0
+2025-01-16,07:00,-6.1,Clear,breezy,0.0
+2025-01-16,08:00,-5.1,Sunny,breezy,0.0
+2025-01-16,09:00,-4.0,Sunny,breezy,0.0
+2025-01-16,10:00,-3.0,Sunny,breezy,0.0
+2025-01-16,11:00,-2.3,Sunny,breezy,0.0
+2025-01-16,12:00,-1.9,Partly cloudy,breezy,0.0
+2025-01-16,13:00,-1.7,Cloudy,breezy,0.0
+2025-01-16,14:00,-1.7,Cloudy,breezy,0.0
+2025-01-16,15:00,-1.8,Cloudy,breezy,0.0
+2025-01-16,16:00,-2.0,Cloudy,breezy,0.0
+2025-01-16,17:00,-2.1,Overcast,breezy,0.0
+2025-01-16,18:00,-2.2,Overcast,calm,0.0
+2025-01-16,19:00,-2.3,Overcast,calm,0.0
+2025-01-16,20:00,-2.3,Overcast,calm,0.0
+2025-01-16,21:00,-2.3,Overcast,calm,0.0
+2025-01-16,22:00,-2.7,Overcast,calm,0.0
+2025-01-16,23:00,-2.7,Clear,calm,0.0

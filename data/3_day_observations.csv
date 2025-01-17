@@ -1,0 +1,10 @@
+Date,Time of the Day,Temperature,Cloud cover ,Wind ,precipitation 
+2025-01-14,6:00,29,clear,windy,No
+,12:00,28,clear,windy,No
+,18:00,26,partly,breezy,No
+2025-01-15,6:00,29,clear,breezy,No
+,12:00,31,clear,breezy,No
+,18:00,27,clear,breezy,No
+2025-01-16,6:00,29,cloudy,breezy,No
+,12:00,31,cloudy,breezy,No
+,18:00,28,cloudy,breezy,No
